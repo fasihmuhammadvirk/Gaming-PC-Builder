@@ -1,0 +1,196 @@
+chipset,core_clock,boost_clock,memory_clock,memory,memory_ver,bus_width,shaders,TMUs,ROPs,PCIe,TDP,rec_psu,detail_URL,api_score
+GeForce RTX 3060,1320,1777,1875,8.0,6,128,3584,112,48,PCIe 4.0 x16,170,450 W,https://www.techpowerup.com/gpu-specs/geforce-rtx-3060-8-gb.c3937,439.25
+Radeon RX 6600,1626,1626,1750,8.0,6,128,1792,112,64,PCIe 4.0 x8,132,300 W,https://www.techpowerup.com/gpu-specs/radeon-rx-6600.c3696,404.89
+Radeon RX 6800 XT,1825,2250,2000,16.0,6,256,4608,288,128,PCIe 4.0 x16,300,700 W,https://www.techpowerup.com/gpu-specs/radeon-rx-6800-xt.c3694,762.0
+Radeon RX 6700 XT,2321,2321,2000,12.0,6,192,2560,160,64,PCIe 4.0 x16,230,550 W,https://www.techpowerup.com/gpu-specs/radeon-rx-6700-xt.c3695,467.36
+GeForce RTX 3060 Ti,1410,1710,1750,8.0,6,256,4864,152,80,PCIe 4.0 x16,200,550 W,https://www.techpowerup.com/gpu-specs/geforce-rtx-3060-ti.c3681,558.81
+Radeon RX 6600 XT,1968,2602,2000,8.0,6,128,2048,128,64,PCIe 4.0 x8,160,450 W,https://www.techpowerup.com/gpu-specs/radeon-rx-6600-xt.c3774,421.13
+Radeon RX 580,1257,1386,2000,8.0,5,256,2304,144,32,PCIe 3.0 x16,185,450 W,https://www.techpowerup.com/gpu-specs/radeon-rx-580.c2938,263.04
+GeForce RTX 3070 Ti,1575,1830,1188,8.0,6,256,6144,192,96,PCIe 4.0 x16,290,600 W,https://www.techpowerup.com/gpu-specs/geforce-rtx-3070-ti.c3675,667.82
+GeForce RTX 3050,1552,1550,1750,8.0,6,128,2560,80,32,PCIe 4.0 x8,90,250 W,https://www.techpowerup.com/gpu-specs/geforce-rtx-3050-8-gb.c3858,326.39
+GeForce GTX 1660 SUPER,1530,1815,1750,6.0,6,192,1408,88,48,PCIe 3.0 x16,125,300 W,https://www.techpowerup.com/gpu-specs/geforce-gtx-1660-super.c3458,299.38
+Radeon RX 6800,1700,1700,2000,16.0,6,256,3840,240,96,PCIe 4.0 x16,250,600 W,https://www.techpowerup.com/gpu-specs/radeon-rx-6800.c3713,620.23
+GeForce RTX 3070,1500,1815,1750,8.0,6,256,5888,184,96,PCIe 4.0 x16,220,550 W,https://www.techpowerup.com/gpu-specs/geforce-rtx-3070.c3674,618.29
+RTX A6000,1410,1860,2000,48.0,6,384,10752,336,112,PCIe 4.0 x16,300,700 W,https://www.techpowerup.com/gpu-specs/rtx-a6000.c3686,830.59
+Radeon R7 240,730,780,900,2.0,3,128,320,20,8,PCIe 3.0 x8,30,200 W,https://www.techpowerup.com/gpu-specs/radeon-r7-240.c2463,29.51
+GeForce RTX 3080,1440,1740,1188,10.0,6,320,8704,272,96,PCIe 4.0 x16,320,700 W,https://www.techpowerup.com/gpu-specs/geforce-rtx-3080.c3621,819.27
+GeForce RTX 3090,1395,1800,1219,24.0,6,384,10496,328,112,PCIe 4.0 x16,350,750 W,https://www.techpowerup.com/gpu-specs/geforce-rtx-3090.c3622,923.01
+GeForce GTX 1060,1506,1708,2002,3.0,5,192,1152,72,48,PCIe 3.0 x16,120,300 W,https://www.techpowerup.com/gpu-specs/geforce-gtx-1060-3-gb.c2867,139.49
+Radeon RX 6900 XT,1825,2365,2000,16.0,6,256,5120,320,128,PCIe 4.0 x16,300,700 W,https://www.techpowerup.com/gpu-specs/radeon-rx-6900-xt.c3481,780.73
+Radeon RX 6500 XT,2310,2825,2248,4.0,6,64,1024,64,32,PCIe 4.0 x4,107,300 W,https://www.techpowerup.com/gpu-specs/radeon-rx-6500-xt.c3850,253.3
+GeForce RTX 3080 Ti,1365,1800,1188,12.0,6,384,10240,320,112,PCIe 4.0 x16,350,750 W,https://www.techpowerup.com/gpu-specs/geforce-rtx-3080-ti.c3735,909.8
+GeForce RTX 3090 Ti,1560,1860,1313,24.0,6,384,10752,336,112,PCIe 4.0 x16,450,850 W,https://www.techpowerup.com/gpu-specs/geforce-rtx-3090-ti.c3829,992.83
+Quadro RTX 8000,1395,1770,1750,48.0,6,384,4608,288,96,PCIe 3.0 x16,260,600 W,https://www.techpowerup.com/gpu-specs/quadro-rtx-8000.c3306,573.94
+GeForce RTX 2060,1365,1755,1750,6.0,6,192,1920,120,48,PCIe 3.0 x16,160,450 W,https://www.techpowerup.com/gpu-specs/geforce-rtx-2060.c3310,342.38
+GeForce GTX 1050 Ti,1291,1455,1752,4.0,5,128,768,48,32,PCIe 3.0 x16,75,250 W,https://www.techpowerup.com/gpu-specs/geforce-gtx-1050-ti.c2885,91.99
+Radeon RX 5700 XT,1605,1905,1750,8.0,6,256,2560,160,64,PCIe 4.0 x16,225,550 W,https://www.techpowerup.com/gpu-specs/radeon-rx-5700-xt.c3339,369.75
+GeForce GTX 1080 Ti,1481,1632,1376,11.0,5,352,3584,224,88,PCIe 3.0 x16,250,600 W,https://www.techpowerup.com/gpu-specs/geforce-gtx-1080-ti.c2877,313.97
+GeForce RTX 2060 SUPER,1470,1665,1750,8.0,6,256,2176,136,64,PCIe 3.0 x16,175,450 W,https://www.techpowerup.com/gpu-specs/geforce-rtx-2060-super.c3441,415.02
+GeForce GTX 1660 Ti,1500,1845,1500,6.0,6,192,1536,96,48,PCIe 3.0 x16,120,300 W,https://www.techpowerup.com/gpu-specs/geforce-gtx-1660-ti.c3364,297.02
+GeForce GTX 1660 Ti,1500,1845,1500,6.0,6,192,1536,96,48,PCIe 3.0 x16,120,300 W,https://www.techpowerup.com/gpu-specs/geforce-gtx-1660-ti.c3364,360.1
+GeForce RTX 2070 SUPER,1605,1770,1750,8.0,6,256,2560,160,64,PCIe 3.0 x16,215,550 W,https://www.techpowerup.com/gpu-specs/geforce-rtx-2070-super.c3440,469.81
+GeForce GTX 1050,1354,1518,1752,2.0,5,128,640,40,32,PCIe 3.0 x16,75,250 W,https://www.techpowerup.com/gpu-specs/geforce-gtx-1050.c2875,79.08
+GeForce GTX 1080,1607,1860,1251,8.0,5,256,2560,160,64,PCIe 3.0 x16,180,450 W,https://www.techpowerup.com/gpu-specs/geforce-gtx-1080.c2839,259.51
+Quadro RTX 6000,1440,1770,1750,24.0,6,384,4608,288,96,PCIe 3.0 x16,260,600 W,https://www.techpowerup.com/gpu-specs/quadro-rtx-6000.c3307,637.22
+GeForce GTX 1070,1506,1683,2002,8.0,5,256,1920,120,64,PCIe 3.0 x16,150,450 W,https://www.techpowerup.com/gpu-specs/geforce-gtx-1070.c2840,215.49
+GeForce GT 710,810,954,898,1.0,3,64,48,8,4,PCIe 2.0 x16,29,200 W,https://www.techpowerup.com/gpu-specs/geforce-gt-710.c2614,8.24
+GeForce GT 1030,1228,1506,1502,2.0,5,64,384,24,16,PCIe 3.0 x4,30,200 W,https://www.techpowerup.com/gpu-specs/geforce-gt-1030.c2954,51.38
+GeForce GTX 1650 SUPER,1530,1800,1500,4.0,6,128,1280,80,32,PCIe 3.0 x16,100,300 W,https://www.techpowerup.com/gpu-specs/geforce-gtx-1650-super.c3411,264.19
+GeForce RTX 2080 Ti,1350,1665,1750,11.0,6,352,4352,272,88,PCIe 3.0 x16,250,600 W,https://www.techpowerup.com/gpu-specs/geforce-rtx-2080-ti.c3305,742.5
+GeForce GTX 1660,1530,1785,2001,6.0,5,192,1408,88,48,PCIe 3.0 x16,120,300 W,https://www.techpowerup.com/gpu-specs/geforce-gtx-1660.c3365,275.45
+GeForce RTX 2080 SUPER,1650,1815,1937,8.0,6,256,3072,192,64,PCIe 3.0 x16,250,600 W,https://www.techpowerup.com/gpu-specs/geforce-rtx-2080-super.c3439,543.91
+GeForce GTX 970,1050,1279,1753,4.0,5,256,1664,104,56,PCIe 3.0 x16,148,300 W,https://www.techpowerup.com/gpu-specs/geforce-gtx-970.c2620,135.59
+GeForce GT 730,350,927,325,1.0,5,64,384,32,8,PCIe 1.0 x16,38,200 W,https://www.techpowerup.com/gpu-specs/geforce-gt-730.c1988,15.01
+GeForce GT 730,350,902,325,0.125,2,128,8,4,8,PCIe 1.0 x16,24,200 W,https://www.techpowerup.com/gpu-specs/geforce-7300-gt.c175,15.01
+Radeon RX 5600 XT,1130,1620,1500,6.0,6,192,2304,144,64,PCIe 4.0 x16,150,450 W,https://www.techpowerup.com/gpu-specs/radeon-rx-5600-xt.c3474,308.44
+Radeon RX 570,1168,1286,1750,4.0,5,256,2048,128,32,PCIe 3.0 x16,150,450 W,https://www.techpowerup.com/gpu-specs/radeon-rx-570.c2939,239.02
+GeForce RTX 2070,1410,1845,1750,8.0,6,256,2304,144,64,PCIe 3.0 x16,175,450 W,https://www.techpowerup.com/gpu-specs/geforce-rtx-2070.c3252,416.7
+Radeon RX 5500 XT,1607,1845,1750,4.0,6,128,1408,88,32,PCIe 4.0 x8,130,300 W,https://www.techpowerup.com/gpu-specs/radeon-rx-5500-xt.c3468,220.94
+GeForce RTX 2080,1515,1710,1750,8.0,6,256,2944,184,64,PCIe 3.0 x16,215,550 W,https://www.techpowerup.com/gpu-specs/geforce-rtx-2080.c3224,509.03
+GeForce GTX 1070 Ti,1607,1683,2002,8.0,5,256,2432,152,64,PCIe 3.0 x16,180,450 W,https://www.techpowerup.com/gpu-specs/geforce-gtx-1070-ti.c3010,240.34
+RTX A4000,735,1560,1750,16.0,6,256,6144,192,96,PCIe 4.0 x16,140,300 W,https://www.techpowerup.com/gpu-specs/rtx-a4000.c3756,520.17
+RTX A2000,562,1200,1500,6.0,6,192,3328,104,48,PCIe 4.0 x16,70,250 W,https://www.techpowerup.com/gpu-specs/rtx-a2000.c3820,352.6
+TITAN RTX,1350,1770,1750,24.0,6,384,4608,288,96,PCIe 3.0 x16,280,600 W,https://www.techpowerup.com/gpu-specs/titan-rtx.c3311,671.18
+RTX A4500,1050,1650,2000,20.0,6,320,7168,224,96,PCIe 4.0 x16,200,550 W,https://www.techpowerup.com/gpu-specs/rtx-a4500.c3849,667.3
+Radeon HD 5450,650,650,667,1.0,3,64,80,8,4,PCIe 2.0 x16,11,200 W,https://www.techpowerup.com/gpu-specs/mobility-radeon-hd-5450.c3136,1.91
+Radeon RX 590,1469,1600,2000,8.0,5,256,2304,144,32,PCIe 3.0 x16,175,450 W,https://www.techpowerup.com/gpu-specs/radeon-rx-590.c3322,286.43
+Radeon PRO W6800,2075,2320,2000,32.0,6,256,3840,240,96,PCIe 4.0 x16,250,600 W,https://www.techpowerup.com/gpu-specs/radeon-pro-w6800.c3809,563.0
+GeForce GTX 750 Ti,1020,1150,1350,2.0,5,128,640,40,16,PCIe 3.0 x16,60,250 W,https://www.techpowerup.com/gpu-specs/geforce-gtx-750-ti.c2548,54.82
+GeForce GTX 960,580,1304,700,0.5,3,256,96,48,16,PCIe 2.0 x16,140,300 W,https://www.techpowerup.com/gpu-specs/geforce-9600-gtx.c1942,91.44
+GeForce GTX 980 Ti,1000,1279,1753,6.0,5,384,2816,176,96,PCIe 3.0 x16,250,600 W,https://www.techpowerup.com/gpu-specs/geforce-gtx-980-ti.c2724,201.79
+RTX A5000,1170,1695,2000,24.0,6,384,8192,256,96,PCIe 4.0 x16,230,550 W,https://www.techpowerup.com/gpu-specs/rtx-a5000.c3748,739.92
+Quadro RTX 4000,1005,1545,1625,8.0,6,256,2304,144,64,PCIe 3.0 x16,160,450 W,https://www.techpowerup.com/gpu-specs/quadro-rtx-4000.c3336,397.99
+Quadro P4000,1202,1480,1901,8.0,5,256,1792,112,64,PCIe 3.0 x16,105,300 W,https://www.techpowerup.com/gpu-specs/quadro-p4000.c2930,206.15
+Radeon RX 480,1120,1316,2000,8.0,5,256,2304,144,32,PCIe 3.0 x16,150,450 W,https://www.techpowerup.com/gpu-specs/radeon-rx-480.c2848,262.85
+Radeon RX 470,926,1216,1650,4.0,5,256,2048,128,32,PCIe 3.0 x16,120,300 W,https://www.techpowerup.com/gpu-specs/radeon-rx-470.c2861,224.85
+Quadro RTX 5000,1620,1815,1750,16.0,6,256,3072,192,64,PCIe 3.0 x16,230,550 W,https://www.techpowerup.com/gpu-specs/quadro-rtx-5000.c3308,471.15
+GeForce GTX 980,1127,1216,1753,4.0,5,256,2048,128,64,PCIe 3.0 x16,165,450 W,https://www.techpowerup.com/gpu-specs/geforce-gtx-980.c2621,158.89
+Radeon RX 5700,1465,1725,1750,8.0,6,256,2304,144,64,PCIe 4.0 x16,180,450 W,https://www.techpowerup.com/gpu-specs/radeon-rx-5700.c3437,309.47
+Radeon R9 390,1000,1060,1500,8.0,5,512,2560,160,64,PCIe 3.0 x16,275,600 W,https://www.techpowerup.com/gpu-specs/radeon-r9-390.c2664,273.1
+Quadro P2000,1076,1470,1752,5.0,5,160,1024,64,40,PCIe 3.0 x16,75,250 W,https://www.techpowerup.com/gpu-specs/quadro-p2000.c2931,114.97
+GeForce GTX 770,1046,1085,1753,2.0,5,256,1536,128,32,PCIe 3.0 x16,230,550 W,https://www.techpowerup.com/gpu-specs/geforce-gtx-770.c1856,74.61
+Radeon Pro WX 3200,1295,1290,1500,4.0,5,128,640,32,16,PCIe 3.0 x8,65,250 W,https://www.techpowerup.com/gpu-specs/radeon-pro-wx-3200.c3412,91.74
+Quadro M2000,796,1180,1653,4.0,5,128,768,48,32,PCIe 3.0 x16,75,250 W,https://www.techpowerup.com/gpu-specs/quadro-m2000.c2837,73.05
+Radeon Pro WX 4100,1125,975,1500,4.0,5,128,1024,64,16,PCIe 3.0 x8,50,250 W,https://www.techpowerup.com/gpu-specs/radeon-pro-wx-4100.c2874,115.36
+Quadro P5000,1607,1733,1127,16.0,5,256,2560,160,64,PCIe 3.0 x16,180,450 W,https://www.techpowerup.com/gpu-specs/quadro-p5000.c2864,253.12
+T1000,765,1395,1250,4.0,5,128,896,56,32,PCIe 3.0 x16,50,200 W,https://www.techpowerup.com/gpu-specs/quadro-t1000-max-q.c3807,179.83
+Quadro P1000,1266,1455,1253,4.0,5,128,640,40,32,PCIe 3.0 x16,47,200 W,https://www.techpowerup.com/gpu-specs/quadro-p1000.c3680,73.17
+Radeon PRO W6600,2331,2580,1750,8.0,6,128,1792,112,64,PCIe 4.0 x8,100,300 W,https://www.techpowerup.com/gpu-specs/radeon-pro-w6600.c3818,387.6
+GeForce GTX 660,980,1020,1502,2.0,5,192,960,80,24,PCIe 3.0 x16,140,300 W,https://www.techpowerup.com/gpu-specs/geforce-gtx-660.c895,46.81
+Radeon Pro WX 7100,1188,1080,1750,8.0,5,256,2304,144,32,PCIe 3.0 x16,130,300 W,https://www.techpowerup.com/gpu-specs/radeon-pro-wx-7100.c2872,212.99
+T400,420,1425,1250,2.0,6,64,384,24,16,PCIe 3.0 x16,30,200 W,https://www.techpowerup.com/gpu-specs/t400.c3808,82.7
+GeForce GTX 950,1024,1393,1653,2.0,5,128,768,48,32,PCIe 3.0 x16,90,250 W,https://www.techpowerup.com/gpu-specs/geforce-gtx-950.c2747,77.25
+Quadro P400,1228,1170,1002,2.0,5,64,256,16,16,PCIe 3.0 x16,30,200 W,https://www.techpowerup.com/gpu-specs/quadro-p400.c2934,27.33
+Radeon R9 380,970,1000,1375,2.0,5,256,1792,112,32,PCIe 3.0 x16,190,450 W,https://www.techpowerup.com/gpu-specs/radeon-r9-380.c2734,182.48
+GeForce GTX 760,980,1085,1502,2.0,5,256,1152,96,32,PCIe 3.0 x16,170,450 W,https://www.techpowerup.com/gpu-specs/geforce-gtx-760.c1857,55.79
+T600,735,1335,1250,4.0,6,128,640,40,32,PCIe 3.0 x16,40,200 W,https://www.techpowerup.com/gpu-specs/t600.c3796,133.75
+Radeon Pro WX 3100,925,1219,1500,4.0,5,128,512,32,16,PCIe 3.0 x8,65,250 W,https://www.techpowerup.com/gpu-specs/radeon-pro-wx-3100.c2978,71.77
+Quadro M6000,988,1114,1653,12.0,5,384,3072,192,96,PCIe 3.0 x16,250,600 W,https://www.techpowerup.com/gpu-specs/quadro-m6000.c2638,199.98
+Quadro K6000,797,902,1502,12.0,5,384,2880,240,48,PCIe 3.0 x16,225,550 W,https://www.techpowerup.com/gpu-specs/quadro-k6000.c2426,91.41
+Radeon Pro WX 9100,1200,1500,945,16.0,5,2048,4096,256,64,PCIe 3.0 x16,230,550 W,https://www.techpowerup.com/gpu-specs/radeon-pro-wx-9100.c2989,370.55
+Radeon R9 270X,1000,1020,1400,2.0,5,256,1280,80,32,PCIe 3.0 x16,180,450 W,https://www.techpowerup.com/gpu-specs/radeon-r9-270x.c2466,169.09
+Radeon Pro W5500,1744,1900,1750,8.0,6,128,1408,88,32,PCIe 4.0 x8,125,300 W,https://www.techpowerup.com/gpu-specs/radeon-pro-w5500.c3479,233.72
+Quadro P620,1266,1354,1252,2.0,5,128,512,32,16,PCIe 3.0 x16,40,200 W,https://www.techpowerup.com/gpu-specs/quadro-p620.c3085,59.74
+Radeon RX 460,1090,1210,1750,2.0,5,128,896,56,16,PCIe 3.0 x8,75,250 W,https://www.techpowerup.com/gpu-specs/radeon-rx-460.c2849,112.36
+GeForce GTX 650,1058,1110,1250,1.0,5,128,384,32,16,PCIe 3.0 x16,65,250 W,https://www.techpowerup.com/gpu-specs/geforce-gtx-650.c2445,19.05
+Radeon R9 Fury,1000,1050,500,4.0,4,4096,3584,224,64,PCIe 3.0 x16,275,600 W,https://www.techpowerup.com/gpu-specs/radeon-r9-fury.c2736,349.4
+Radeon VII,1400,1750,1000,16.0,5,4096,3840,240,64,PCIe 3.0 x16,295,600 W,https://www.techpowerup.com/gpu-specs/radeon-vii.c3358,425.96
+GeForce GTX 750,1020,1137,1253,1.0,5,128,512,32,16,PCIe 3.0 x16,55,250 W,https://www.techpowerup.com/gpu-specs/geforce-gtx-750.c1986,44.94
+Radeon HD 6570,650,480,1000,2.0,5,128,480,24,8,PCIe 2.0 x16,60,250 W,https://www.techpowerup.com/gpu-specs/radeon-hd-6570.c277,6.32
+GeForce GT 610,810,810,898,1.0,3,64,48,8,4,PCIe 2.0 x16,29,200 W,https://www.techpowerup.com/gpu-specs/geforce-gt-610.c821,5.27
+Quadro K4200,771,771,1350,4.0,5,256,1344,112,32,PCIe 2.0 x16,108,300 W,https://www.techpowerup.com/gpu-specs/quadro-k4200.c2602,49.56
+Quadro GP100,1304,1441,715,16.0,5,4096,3584,224,96,PCIe 3.0 x16,235,550 W,https://www.techpowerup.com/gpu-specs/quadro-gp100.c2994,356.99
+Radeon Pro W5700,1400,1930,1750,8.0,6,256,2304,144,64,PCIe 4.0 x16,205,550 W,https://www.techpowerup.com/gpu-specs/radeon-pro-w5700.c3466,307.73
+GeForce GTX 780 Ti,875,1072,1753,3.0,5,384,2880,240,48,PCIe 3.0 x16,250,600 W,https://www.techpowerup.com/gpu-specs/geforce-gtx-780-ti.c2512,113.45
+Quadro M4000,773,773,1502,8.0,5,256,1664,104,64,PCIe 3.0 x16,120,300 W,https://www.techpowerup.com/gpu-specs/quadro-m4000.c2757,95.5
+GeForce GTX 780,863,967,1502,3.0,5,384,2304,192,48,PCIe 3.0 x16,86,250 W,https://www.techpowerup.com/gpu-specs/geforce-7800-gtx.c127,92.39
+Radeon Pro WX 5100,713,1206,1250,8.0,5,256,1792,112,32,PCIe 3.0 x16,75,250 W,https://www.techpowerup.com/gpu-specs/radeon-pro-wx-5100.c2873,165.34
+Quadro P2200,1000,1493,1251,5.0,5,160,1280,80,40,PCIe 3.0 x16,75,250 W,https://www.techpowerup.com/gpu-specs/quadro-p2200.c3442,163.24
+Radeon R7 370,925,1070,1400,2.0,5,256,1024,64,32,PCIe 3.0 x16,110,300 W,https://www.techpowerup.com/gpu-specs/radeon-r7-370.c2645,136.44
+Quadro K620,1058,1058,900,2.0,3,128,384,24,16,PCIe 2.0 x16,45,200 W,https://www.techpowerup.com/gpu-specs/quadro-k620.c2600,32.71
+FirePro W9100,930,930,1250,16.0,5,512,2816,176,64,PCIe 3.0 x16,275,600 W,https://www.techpowerup.com/gpu-specs/firepro-w9100.c2562,187.54
+GeForce GTX 560 Ti,823,900,1002,1.0,5,256,384,64,32,PCIe 2.0 x16,170,450 W,https://www.techpowerup.com/gpu-specs/geforce-gtx-560-ti.c273,40.52
+Quadro P600,1329,1455,1002,2.0,5,128,384,24,16,PCIe 3.0 x16,40,200 W,https://www.techpowerup.com/gpu-specs/quadro-p600.c2933,52.79
+Radeon Pro WX 2100,925,1219,1500,2.0,5,64,512,32,16,PCIe 3.0 x8,35,200 W,https://www.techpowerup.com/gpu-specs/radeon-pro-wx-2100.c2979,62.74
+GeForce GTX 550 Ti,900,910,1026,1.0,5,192,192,32,24,PCIe 2.0 x16,116,300 W,https://www.techpowerup.com/gpu-specs/geforce-gtx-550-ti.c274,23.29
+GeForce GTX 650 Ti,928,928,1350,1.0,5,128,768,64,16,PCIe 3.0 x16,110,300 W,https://www.techpowerup.com/gpu-specs/geforce-gtx-650-ti.c1188,33.51
+Quadro K2200,1046,1046,1253,4.0,5,128,640,40,16,PCIe 2.0 x16,68,250 W,https://www.techpowerup.com/gpu-specs/quadro-k2200.c2601,57.27
+Quadro GV100,1132,1447,848,32.0,5,4096,5120,320,128,PCIe 3.0 x16,250,600 W,https://www.techpowerup.com/gpu-specs/quadro-gv100.c3066,658.29
+GeForce GTX 660 Ti,915,1028,1502,2.0,5,192,1344,112,24,PCIe 3.0 x16,150,450 W,https://www.techpowerup.com/gpu-specs/geforce-gtx-660-ti.c364,61.5
+Quadro K2000,954,954,1000,2.0,5,128,384,32,16,PCIe 2.0 x16,51,250 W,https://www.techpowerup.com/gpu-specs/quadro-k2000.c1838,16.34
+Quadro P6000,1506,1531,1127,24.0,5,384,3840,240,96,PCIe 3.0 x16,250,600 W,https://www.techpowerup.com/gpu-specs/quadro-p6000.c2865,321.89
+GeForce GTX 670,915,1006,1502,2.0,5,256,1344,112,32,PCIe 3.0 x16,170,450 W,https://www.techpowerup.com/gpu-specs/geforce-gtx-670.c362,63.07
+Quadro 4000,475,475,702,2.0,5,256,256,32,32,PCIe 2.0 x16,142,300 W,https://www.techpowerup.com/gpu-specs/quadro-4000.c898,18.41
+Radeon Pro VII,1400,1700,1000,16.0,5,4096,3840,240,64,PCIe 4.0 x16,250,600 W,https://www.techpowerup.com/gpu-specs/radeon-pro-vii.c3575,487.83
+FirePro W5000,825,825,800,2.0,5,256,768,48,32,PCIe 3.0 x16,75,250 W,https://www.techpowerup.com/gpu-specs/firepro-w5000.c588,86.2
+Quadro 2000D,625,625,650,1.0,5,128,192,32,16,PCIe 2.0 x16,62,250 W,https://www.techpowerup.com/gpu-specs/quadro-2000d.c901,14.29
+GeForce GTX 480,701,700,924,1.5,5,384,480,60,48,PCIe 2.0 x16,250,600 W,https://www.techpowerup.com/gpu-specs/geforce-gtx-480.c268,53.48
+Radeon HD 6770,850,850,1200,1.0,5,128,800,40,16,PCIe 2.0 x16,108,300 W,https://www.techpowerup.com/gpu-specs/radeon-hd-6770.c280,14.43
+Radeon HD 7950,800,850,1250,3.0,5,384,1792,112,32,PCIe 3.0 x16,200,550 W,https://www.techpowerup.com/gpu-specs/radeon-hd-7950.c307,154.13
+Radeon R9 290X,1000,1040,1250,4.0,5,512,2816,176,64,PCIe 3.0 x16,290,600 W,https://www.techpowerup.com/gpu-specs/radeon-r9-290x.c2460,263.84
+Quadro M5000,861,1038,1653,8.0,5,256,2048,128,64,PCIe 3.0 x16,150,450 W,https://www.techpowerup.com/gpu-specs/quadro-m5000.c2756,148.81
+GeForce GT 630,810,780,900,1.0,3,128,96,16,4,PCIe 2.0 x16,65,250 W,https://www.techpowerup.com/gpu-specs/geforce-gt-630.c816,10.87
+FirePro W7100,920,824,1250,8.0,5,256,1792,112,32,PCIe 3.0 x16,150,450 W,https://www.techpowerup.com/gpu-specs/firepro-w7100.c2610,145.86
+GeForce GTX 580,772,772,1002,1.5,5,384,512,64,48,PCIe 2.0 x16,244,550 W,https://www.techpowerup.com/gpu-specs/geforce-gtx-580.c270,64.35
+GeForce GTX 680,1006,1006,1502,2.0,5,256,1536,128,32,PCIe 3.0 x16,195,450 W,https://www.techpowerup.com/gpu-specs/geforce-gtx-680.c342,70.7
+Radeon R7 360,1000,1070,1500,2.0,5,128,768,48,16,PCIe 3.0 x16,100,300 W,https://www.techpowerup.com/gpu-specs/radeon-r7-360.c2733,101.07
+GeForce GTX 560,810,810,1000,1.0,5,256,336,56,32,PCIe 2.0 x16,150,450 W,https://www.techpowerup.com/gpu-specs/geforce-gtx-560.c287,35.43
+GeForce GTX 690,915,915,1502,2.0,5,256,1536,128,32,PCIe 3.0 x16,300,700 W,https://www.techpowerup.com/gpu-specs/geforce-gtx-690.c361,66.15
+Quadro K4000,810,810,1404,3.0,5,192,768,64,24,PCIe 2.0 x16,80,250 W,https://www.techpowerup.com/gpu-specs/quadro-k4000.c1841,28.54
+GeForce GT 640,513,901,792,0.625,3,320,96,24,20,PCIe 1.0 x16,143,300 W,https://www.techpowerup.com/gpu-specs/geforce-8800-gts-640.c757,16.68
+Radeon R9 270,900,975,1400,2.0,5,256,1280,80,32,PCIe 3.0 x16,150,450 W,https://www.techpowerup.com/gpu-specs/radeon-r9-270.c2458,97.39
+FirePro W2100,630,630,900,2.0,3,128,320,20,8,PCIe 3.0 x8,26,200 W,https://www.techpowerup.com/gpu-specs/firepro-w2100.c2612,19.47
+Radeon HD 7770,1000,1020,1125,1.0,5,128,640,40,16,PCIe 3.0 x16,80,250 W,https://www.techpowerup.com/gpu-specs/radeon-hd-7770-ghz-edition.c308,81.86
+Quadro K5000,706,706,1350,4.0,5,256,1536,128,32,PCIe 2.0 x16,122,300 W,https://www.techpowerup.com/gpu-specs/quadro-k5000.c565,41.32
+FirePro W4100,630,630,1000,2.0,5,128,512,32,16,PCIe 3.0 x16,50,250 W,https://www.techpowerup.com/gpu-specs/firepro-w4100.c2611,42.03
+GeForce GTX 570,732,797,950,1.25,5,320,480,60,40,PCIe 2.0 x16,219,550 W,https://www.techpowerup.com/gpu-specs/geforce-gtx-570.c269,53.81
+Radeon HD 6670,800,800,1000,1.0,5,128,480,24,8,PCIe 2.0 x16,66,250 W,https://www.techpowerup.com/gpu-specs/radeon-hd-6670.c406,7.42
+Quadro 410,706,706,891,0.5,3,64,192,16,8,PCIe 2.0 x16,38,200 W,https://www.techpowerup.com/gpu-specs/quadro-410.c1316,6.08
+GeForce GTX 460,675,715,900,1.0,5,256,336,56,32,PCIe 2.0 x16,160,450 W,https://www.techpowerup.com/gpu-specs/geforce-gtx-460.c265,29.06
+Radeon HD 6450,625,625,500,0.5,3,64,160,8,4,PCIe 2.0 x16,18,200 W,https://www.techpowerup.com/gpu-specs/radeon-hd-6450.c402,2.96
+Quadro K1200,1058,1124,1250,4.0,5,128,512,32,16,PCIe 2.0 x16,45,200 W,https://www.techpowerup.com/gpu-specs/quadro-k1200.c2641,43.88
+Quadro K600,876,876,891,1.0,3,128,192,16,16,PCIe 2.0 x16,41,200 W,https://www.techpowerup.com/gpu-specs/quadro-k600.c1839,7.13
+Radeon R7 250,925,1100,900,1.0,3,128,512,32,16,PCIe 3.0 x16,55,250 W,https://www.techpowerup.com/gpu-specs/radeon-r7-250.c2956,53.18
+GeForce GT 720,797,797,800,1.0,3,64,192,16,8,PCIe 2.0 x8,19,200 W,https://www.techpowerup.com/gpu-specs/geforce-gt-720.c2702,9.63
+GeForce GT 520,810,810,900,1.0,3,64,48,8,4,PCIe 2.0 x16,29,200 W,https://www.techpowerup.com/gpu-specs/geforce-gt-520.c285,5.16
+Radeon R9 280,827,940,1250,3.0,5,384,1792,112,32,PCIe 3.0 x16,200,550 W,https://www.techpowerup.com/gpu-specs/radeon-r9-280.c2405,205.9
+Radeon Pro Duo,1000,1000,500,4.0,4,4096,4096,256,64,PCIe 3.0 x16,350,750 W,https://www.techpowerup.com/gpu-specs/radeon-pro-duo.c2828,322.66
+GeForce GT 740,993,1059,1253,1.0,5,128,384,32,16,PCIe 3.0 x16,64,250 W,https://www.techpowerup.com/gpu-specs/geforce-gt-740.c1987,19.13
+Radeon Pro WX 8200,1200,1530,1000,8.0,5,2048,3584,224,64,PCIe 3.0 x16,230,550 W,https://www.techpowerup.com/gpu-specs/radeon-pro-wx-8200.c3303,359.27
+Quadro 6000,574,574,747,6.0,5,384,448,56,48,PCIe 2.0 x16,204,550 W,https://www.techpowerup.com/gpu-specs/quadro-6000.c896,39.33
+GeForce GTS 450,783,783,902,1.0,5,128,192,32,16,PCIe 2.0 x16,106,300 W,https://www.techpowerup.com/gpu-specs/geforce-gts-450.c1778,19.8
+Quadro K420,876,891,891,1.0,3,128,192,16,16,PCIe 2.0 x16,41,200 W,https://www.techpowerup.com/gpu-specs/quadro-k420.c2599,7.03
+FirePro W9000,975,975,1375,6.0,5,384,2048,128,32,PCIe 3.0 x16,274,600 W,https://www.techpowerup.com/gpu-specs/firepro-w9000.c585,138.49
+Quadro K5200,667,667,1502,8.0,5,256,2304,192,48,PCIe 3.0 x16,150,450 W,https://www.techpowerup.com/gpu-specs/quadro-k5200.c2603,74.16
+Radeon HD 6950,800,800,1250,2.0,5,256,1408,88,32,PCIe 2.0 x16,200,550 W,https://www.techpowerup.com/gpu-specs/radeon-hd-6950.c405,23.06
+Radeon R5 230,625,625,667,1.0,3,64,160,8,4,PCIe 2.0 x16,19,200 W,https://www.techpowerup.com/gpu-specs/radeon-r5-230.c2576,3.0
+FirePro W5100,930,930,1500,4.0,5,128,768,48,16,PCIe 3.0 x16,50,250 W,https://www.techpowerup.com/gpu-specs/firepro-w5100.c2585,86.56
+Radeon HD 5770,850,850,1195,1.0,5,128,800,40,16,PCIe 2.0 x16,108,300 W,https://www.techpowerup.com/gpu-specs/radeon-hd-5770.c250,4.56
+GeForce GTX 590,608,630,854,1.5,5,384,512,64,48,PCIe 2.0 x16,365,750 W,https://www.techpowerup.com/gpu-specs/geforce-gtx-590.c281,52.21
+GeForce GTX 470,608,607,837,1.25,5,320,448,56,40,PCIe 2.0 x16,215,550 W,https://www.techpowerup.com/gpu-specs/geforce-gtx-470.c267,45.5
+Quadro 5000,513,513,750,5.0,5,320,352,44,40,PCIe 2.0 x16,152,450 W,https://www.techpowerup.com/gpu-specs/quadro-5000.c897,27.33
+Radeon HD 7770 GHz Edition,1000,1000,1125,1.0,5,128,640,40,16,PCIe 3.0 x16,80,250 W,https://www.techpowerup.com/gpu-specs/radeon-hd-7770-ghz-edition.c308,62.28
+FirePro V5900,600,600,500,2.0,5,256,512,32,32,PCIe 2.0 x16,75,250 W,https://www.techpowerup.com/gpu-specs/firepro-v5900.c577,12.74
+Radeon R7 265,900,925,1400,2.0,5,256,1024,64,32,PCIe 3.0 x16,150,450 W,https://www.techpowerup.com/gpu-specs/radeon-r7-265.c2558,90.08
+Quadro K2000D,954,954,1000,2.0,5,128,384,32,16,PCIe 2.0 x16,51,250 W,https://www.techpowerup.com/gpu-specs/quadro-k2000d.c2021,15.88
+FirePro V4900,800,800,1000,1.0,5,128,480,24,8,PCIe 2.0 x16,75,250 W,https://www.techpowerup.com/gpu-specs/firepro-v4900.c578,7.46
+FirePro W7000,950,950,1200,4.0,5,256,1280,80,32,PCIe 3.0 x16,150,450 W,https://www.techpowerup.com/gpu-specs/firepro-w7000.c587,91.95
+Radeon HD 5870,2235,870,1313,1.0,5,256,1600,80,32,PCIe 2.0 x16,188,450 W,https://www.techpowerup.com/gpu-specs/radeon-hd-5870.c253,6.87
+Radeon HD 6870,900,900,1050,1.0,5,256,1120,56,32,PCIe 2.0 x16,151,450 W,https://www.techpowerup.com/gpu-specs/radeon-hd-6870.c256,21.75
+FirePro W8100,824,824,1250,8.0,5,512,2560,160,64,PCIe 3.0 x16,220,550 W,https://www.techpowerup.com/gpu-specs/firepro-w8100.c2588,151.24
+Radeon R7 350,800,925,1125,2.0,5,128,512,32,16,PCIe 3.0 x16,55,250 W,https://www.techpowerup.com/gpu-specs/radeon-r7-350.c3135,57.81
+GeForce GT 430,700,735,800,0.5,3,64,96,16,4,PCIe 2.0 x16,49,200 W,https://www.techpowerup.com/gpu-specs/geforce-gt-430.c603,8.8
+Radeon HD 5750,700,700,1150,1.0,5,128,720,36,16,PCIe 2.0 x16,86,250 W,https://www.techpowerup.com/gpu-specs/radeon-hd-5750.c249,3.95
+FirePro V3900,650,650,900,1.0,3,128,480,24,8,PCIe 2.0 x16,50,250 W,https://www.techpowerup.com/gpu-specs/firepro-v3900.c579,6.28
+GeForce GT 620,700,700,900,1.0,3,64,96,16,4,PCIe 2.0 x16,49,200 W,https://www.techpowerup.com/gpu-specs/geforce-gt-620.c820,6.03
+Radeon R7 250X,950,1000,1125,1.0,5,128,640,40,16,PCIe 3.0 x16,80,250 W,https://www.techpowerup.com/gpu-specs/radeon-r7-250x.c2553,75.13
+Radeon HD 5670,650,775,795,0.5,3,128,400,20,8,PCIe 2.0 x16,64,250 W,https://www.techpowerup.com/gpu-specs/radeon-hd-5670.c248,6.77
+Radeon HD 5670,650,775,795,1.0,5,128,400,20,8,PCIe 2.0 x16,64,250 W,https://www.techpowerup.com/gpu-specs/radeon-hd-5670.c248,6.77
+GeForce GT 440,810,810,900,1.0,3,128,96,16,4,PCIe 2.0 x16,65,250 W,https://www.techpowerup.com/gpu-specs/geforce-gt-440.c600,10.57
+FirePro V5800,690,700,1000,1.0,5,128,800,40,16,PCIe 2.0 x16,74,250 W,https://www.techpowerup.com/gpu-specs/firepro-v5800.c2441,12.13
+Quadro K4000M,601,600,700,4.0,5,256,960,80,32,MXM-B (3.0),100,300 W,https://www.techpowerup.com/gpu-specs/quadro-k4000m.c1422,17.46
+Radeon HD 5570,550,650,800,1.0,3,128,400,20,8,PCIe 2.0 x16,39,200 W,https://www.techpowerup.com/gpu-specs/radeon-hd-5570.c2216,5.76
+GeForce GTX 465,608,607,802,1.0,5,256,352,44,32,PCIe 2.0 x16,200,550 W,https://www.techpowerup.com/gpu-specs/geforce-gtx-465.c266,35.38
+GeForce GTX 460 SE,650,660,850,1.0,5,256,288,48,32,PCIe 2.0 x16,150,450 W,https://www.techpowerup.com/gpu-specs/geforce-gtx-460-se.c357,23.53
+GeForce GTX 560 SE,736,746,957,1.0,5,192,288,48,24,PCIe 2.0 x16,150,450 W,https://www.techpowerup.com/gpu-specs/geforce-gtx-560-se.c341,27.34
+FirePro S10000,825,825,1250,3.0,5,384,1792,112,32,PCIe 3.0 x16,375,750 W,https://www.techpowerup.com/gpu-specs/firepro-s10000.c802,185.44

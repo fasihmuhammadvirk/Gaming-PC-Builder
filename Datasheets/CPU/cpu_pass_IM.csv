@@ -1,0 +1,577 @@
+name,price,core_count,core_clock,boost_clock,tdp,graphics,smt,codename,socket,lithography,cache,supported_mem,supported_chipset,release_date,pmprice,cpuMark,threadMark,powerPerf,category
+AMD Ryzen 5 5600X,168.99,6,3.7,4.6,65,,True,Vermeer,Socket AM4,7 nm,32 MB,DDR4,"AMD 300 Series*, AMD 400 Series, AMD 500 Series","Nov 5th, 2020",216.99,22088,3377,339.82,Desktop
+AMD Ryzen 7 5800X,228.72,8,3.8,4.7,105,,True,Vermeer,Socket AM4,7 nm,32 MB,DDR4,"AMD 300 Series*, AMD 400 Series, AMD 500 Series","Nov 5th, 2020",333.99,28368,3485,270.17,Desktop
+AMD Ryzen 5 5600,138.0,6,3.5,4.4,65,,True,Vermeer,Socket AM4,7 nm,32 MB,DDR4,"AMD 300 Series*, AMD 400 Series, AMD 500 Series","Apr 20th, 2022",189.99,21350,3208,328.46,Desktop
+Intel Core i5-12400F,149.97,6,2.5,4.4,65,,True,Alder Lake-S,Socket 1700,10 nm,18 MB,"DDR4, DDR5","Intel 600 Series, Intel 700 Series","Jan 4th, 2022",174.98,19659,3567,302.44,Desktop
+AMD Ryzen 7 5800X3D,329.99,8,3.4,4.5,105,,True,Vermeer,Socket AM4,7 nm,96 MB,DDR4,"AMD 300 Series*, AMD 400 Series, AMD 500 Series","Apr 20th, 2022",599.0,25508,2850,242.93,Desktop
+Intel Core i7-12700K,241.99,12,3.6,5.0,125,Intel UHD Graphics 770,True,Alder Lake-S,Socket 1700,10 nm,25 MB,"DDR4, DDR5","Z690, H670, B660, H610","Nov 4th, 2021",409.0,34125,4047,179.61,Desktop
+AMD Ryzen 5 5500,99.0,6,3.6,4.2,65,,True,Cezanne,Socket AM4,7 nm,16 MB,DDR4,"AMD 300 Series*, AMD 400 Series, AMD 500 Series","Apr 4th, 2022",159.0,19949,3096,306.9,Desktop
+AMD Ryzen 5 3600,104.99,6,3.6,4.2,65,,True,Matisse,Socket AM4,7 nm,32 MB,DDR4,"AMD 300 Series, AMD 400 Series, AMD 500 Series","Jul 7th, 2019",153.49,17822,2576,274.18,Desktop
+AMD Ryzen 7 5700X,178.0,8,3.4,4.6,65,,True,Vermeer,Socket AM4,7 nm,32 MB,DDR4,"AMD 300 Series*, AMD 400 Series, AMD 500 Series","Apr 4th, 2022",299.0,27065,3397,416.38,Desktop
+Intel Core i5-12600K,189.99,10,3.7,4.9,125,Intel UHD Graphics 770,True,Alder Lake-S,Socket 1700,10 nm,20 MB,"DDR4, DDR5","Z690. H670, B660, H610","Nov 4th, 2021",277.98,27429,3965,182.86,Desktop
+AMD Ryzen 5 5600G,139.0,6,3.9,4.4,65,Radeon Vega 7,True,Cezanne,Socket AM4,7 nm,16 MB,DDR4,"AMD 300 Series*, AMD 400 Series, AMD 500 Series","Apr 13th, 2021",179.97,19830,3187,305.08,Desktop
+AMD Ryzen 9 5900X,349.0,12,3.7,4.8,105,,True,Vermeer,Socket AM4,7 nm,64 MB,DDR4,"AMD 300 Series*, AMD 400 Series, AMD 500 Series","Nov 5th, 2020",393.03,39457,3494,375.78,Desktop
+Intel Core i3-12100F,88.12,4,3.3,4.3,58,,True,Alder Lake-S,Socket 1700,10 nm,12 MB,"DDR4, DDR5","Intel 600 Series, Intel 700 Series",Jan-22,107.99,14490,3532,249.83,Server
+AMD Ryzen 7 5700G,165.94,8,3.8,4.6,65,Radeon Vega 8,True,Cezanne,Socket AM4,7 nm,16 MB,DDR4,,"Apr 13th, 2021",233.0,24545,3281,377.62,Desktop
+Intel Core i9-12900K,344.99,16,3.2,5.2,125,Intel UHD Graphics 770,True,Alder Lake-S,Socket 1700,10 nm,30 MB,"DDR4, DDR5","Z690, H670, B660, H610","Nov 4th, 2021",599.95,41077,4209,170.44,Desktop
+AMD Ryzen 5 4500,78.2,6,3.6,4.1,65,,True,Renoir,Socket AM4,7 nm,8 MB,DDR4,"AMD 300 Series, AMD 400 Series, AMD 500 Series","Apr 4th, 2022",141.75,16698,2605,256.89,Desktop
+Intel Core i5-10400F,114.64,6,2.9,4.3,65,,True,Comet Lake,Socket 1200,14 nm,12 MB,DDR4,,"Apr 30th, 2020",124.99,12439,2572,191.37,Desktop
+AMD Ryzen 7 3700X,239.0,8,3.6,4.4,65,,True,Matisse,Socket AM4,7 nm,32 MB,DDR4,"A300, X300, A320, B350, X370, B450, X470, A520, B550, X570","Jul 7th, 2019",367.52,22716,2680,349.48,Desktop
+Intel Core i7-12700KF,219.99,12,3.6,5.0,125,,True,Alder Lake-S,Socket 1700,10 nm,25 MB,"DDR4, DDR5","Z690, H670, B660, H610","Nov 4th, 2021",350.99,34110,4054,179.53,Desktop
+AMD Ryzen 9 5950X,390.0,16,3.4,4.9,105,,True,Vermeer,Socket AM4,7 nm,64 MB,DDR4,"AMD 300 Series*, AMD 400 Series, AMD 500 Series","Nov 5th, 2020",649.74,46195,3498,439.96,Desktop
+AMD Ryzen 5 4600G,104.0,6,3.7,4.2,65,Radeon Vega 7,True,Renoir,Socket AM4,7 nm,8 MB,DDR4,"AMD 300 Series, AMD 400 Series, AMD 500 Series","Jul 21st, 2020",,15577,2658,239.65,Desktop
+Intel Core i3-10100F,75.83,4,3.6,4.3,65,,True,Comet Lake,Socket 1200,14 nm,6 MB,DDR4,"H410, B460, H470, Z490","Apr 30th, 2020",79.99,8854,2604,136.22,Desktop
+Intel Core i5-12400,172.99,6,2.5,4.4,65,Intel UHD Graphics 730,True,Alder Lake-S,Socket 1700,10 nm,18 MB,"DDR4, DDR5","Intel 600 Series, Intel 700 Series","Jan 4th, 2022",192.0,19571,3532,301.09,Desktop
+Intel Core i5-12600KF,219.0,10,3.7,4.9,125,,True,Alder Lake-S,Socket 1700,10 nm,20 MB,"DDR4, DDR5","Z690. H670, B660, H610","Nov 4th, 2021",260.98,27186,3967,181.24,Desktop
+Intel Core i5-11400F,130.97,6,2.6,4.4,65,,True,Rocket Lake,Socket 1200,14 nm,12 MB,DDR4,"H510, B560, H570, Q570, W580, Z590, Q470, H470, W480, Z490","Mar 16th, 2021",149.99,17213,3023,264.82,Desktop
+Intel Core i7-9700K,339.0,8,3.6,4.9,95,Intel UHD Graphics 630,False,Coffee Lake,Socket 1151,14 nm,12 MB,DDR4,,"Oct 19th, 2018",390.99,14550,2899,153.16,Desktop
+AMD Ryzen 5 2600,165.0,6,3.4,3.9,65,,True,Zen,Socket AM4,12 nm,16 MB,DDR4,"AMD 300 Series, AMD 400 Series, AMD 500 Series","Apr 19th, 2018",124.88,13195,2250,202.99,Desktop
+Intel Core i7-11700K,272.87,8,3.6,5.0,125,Intel UHD Graphics 750,True,Rocket Lake,Socket 1200,14 nm,16 MB,DDR4,"H510, B560, Z590, Q470, H470, W480, Z490","Mar 16th, 2021",297.0,24749,3429,197.99,Desktop
+AMD Ryzen 3 3200G,72.75,4,3.6,4.0,65,Radeon Vega 8,False,Picasso,Socket AM4,12 nm,4 MB,DDR4,,"Jul 7th, 2019",,7037,2216,108.26,Desktop
+AMD Ryzen 5 3600X,210.0,6,3.8,4.4,95,,True,Matisse,Socket AM4,7 nm,32 MB,DDR4,"A300, X300, A320, B350, X370, B450, X470, A520, B550, X570","Jul 7th, 2019",209.99,18285,2670,192.47,Desktop
+Intel Core i7-10700K,283.95,8,3.8,5.1,125,Intel UHD Graphics 630,True,Comet Lake,Socket 1200,14 nm,16 MB,DDR4,"H410, B460, H470, Z490","Apr 30th, 2020",328.98,19277,3074,154.22,Desktop
+Intel Core i9-9900K,565.0,8,3.6,5.0,95,Intel UHD Graphics 630,True,Coffee Lake-R,Socket 1151,14 nm,16 MB,DDR4,,"Oct 19th, 2018",622.0,18716,2960,197.02,Desktop
+Intel Core i5-11600K,184.0,6,3.9,4.9,125,Intel UHD Graphics 750,True,Rocket Lake,Socket 1200,14 nm,12 MB,DDR4,"H510, B560, H570, Q570, W580, Z590, Q470, H470, W480, Z490","Mar 16th, 2021",209.99,19781,3374,158.25,Desktop
+AMD Ryzen 7 2700X,220.0,8,3.7,4.3,105,,True,Zen,Socket AM4,12 nm,16 MB,DDR4,"AMD 300 Series, AMD 400 Series, AMD 500 Series","Apr 19th, 2018",,17221,2395,164.01,Desktop
+AMD Ryzen 9 3900X,365.0,12,3.8,4.6,105,,True,Matisse,Socket AM4,7 nm,64 MB,DDR4,"A300, X300, A320, B350, X370, B450, X470, A520, B550, X570","Jul 7th, 2019",359.0,32751,2725,311.92,Desktop
+Intel Core i7-8700K,279.0,6,3.7,4.7,95,Intel UHD Graphics 630,True,Coffee Lake,Socket 1151,14 nm,12 MB,DDR4,,"Oct 5th, 2017",309.0,13850,2764,145.79,Desktop
+Intel Core i3-12100,114.99,4,3.3,4.3,60,Intel UHD Graphics 730,True,Alder Lake-S,Socket 1700,10 nm,12 MB,"DDR4, DDR5","Intel 600 Series, Intel 700 Series","Jan 4th, 2022",122.0,14503,3549,241.72,Desktop
+Intel Core i5-9400F,135.0,6,2.9,4.1,65,,False,Coffee Lake,Socket 1151,14 nm,9 MB,DDR4,,"Jan 8th, 2019",129.99,9544,2471,146.84,"Desktop, Laptop"
+Intel Core i7-7700K,310.0,4,4.2,4.5,91,Intel HD Graphics 630,True,Kaby Lake,Socket 1151,14 nm,8 MB,DDR4,,"Jan 3rd, 2017",349.44,9658,2730,101.66,Desktop
+Intel Core i7-12700F,284.99,12,2.1,4.9,65,,True,Alder Lake-S,Socket 1700,10 nm,25 MB,"DDR4, DDR5","Intel 600 Series, Intel 700 Series","Jan 4th, 2022",312.96,32268,3987,496.43,Desktop
+AMD Ryzen 7 3800X,275.99,8,3.9,4.5,105,,True,Matisse,Socket AM4,7 nm,32 MB,DDR4,"A300, X300, A320, B350, X370, B450, X470, A520, B550, X570","Jul 7th, 2019",248.59,23275,2735,221.67,Desktop
+Intel Core i9-11900K,299.0,8,3.5,5.3,125,Intel UHD Graphics 750,True,Rocket Lake,Socket 1200,14 nm,16 MB,DDR4,"H510, B560, H570, Q570, W580, Z590, Q470, H470, W480, Z490","Mar 16th, 2021",397.97,25539,3519,204.31,Desktop
+Intel Core i5-10400,131.13,6,2.9,4.3,65,Intel UHD Graphics 630,True,Comet Lake,Socket 1200,14 nm,12 MB,DDR4,,"Apr 30th, 2020",149.99,12320,2587,189.53,Desktop
+Intel Core i9-10900K,341.94,10,3.7,5.3,125,Intel UHD Graphics 630,True,Comet Lake,Socket 1200,14 nm,20 MB,DDR4,"H410, B460, H470, Z490","Apr 30th, 2020",389.97,23768,3167,190.14,Desktop
+Intel Core i7-10700F,218.13,8,2.9,4.8,65,,True,Comet Lake,Socket 1200,14 nm,16 MB,DDR4,,"Apr 30th, 2020",249.99,16973,2919,261.12,Desktop
+Intel Core i7-6700K,220.0,4,4.0,4.2,91,Intel HD Graphics 530,True,Skylake,Socket 1151,14 nm,8 MB,DDR4,,"Aug 1st, 2015",230.0,8967,2520,94.39,Desktop
+Intel Core i5-9600K,219.99,6,3.7,4.6,95,Intel UHD Graphics 630,False,Coffee Lake,Socket 1151,14 nm,9 MB,DDR4,,"Oct 19th, 2018",232.6,10793,2773,113.61,Desktop
+AMD Ryzen 5 3400G,121.99,4,3.7,4.2,65,Radeon Vega 11,True,Picasso,Socket AM4,12 nm,4 MB,DDR4,"AMD 300 series, AMD 400 Series, AMD 500 Series","Jul 7th, 2019",,9307,2330,143.18,Desktop
+Intel Core i5-10600K,175.48,6,4.1,4.8,125,Intel UHD Graphics 630,True,Comet Lake,Socket 1200,14 nm,12 MB,DDR4,,"Apr 30th, 2020",212.97,14534,2936,116.27,Desktop
+AMD Ryzen 5 2600X,215.0,6,3.6,4.2,95,,True,Zen,Socket AM4,12 nm,16 MB,DDR4,"AMD 300 Series, AMD 400 Series, AMD 500 Series","Apr 19th, 2018",154.39,14053,2406,147.92,Desktop
+Intel Core i9-10850K,249.63,10,3.6,5.2,125,Intel UHD Graphics 630,True,Comet Lake,Socket 1200,14 nm,20 MB,DDR4,"H410, B460, H470, Z490","Jul 27th, 2020",408.44,23055,3091,184.44,Desktop
+AMD Ryzen 3 3100,85.99,4,3.6,3.9,65,,True,Matisse,Socket AM4,7 nm,16 MB,DDR4,,"Apr 24th, 2020",137.95,11660,2427,179.38,Desktop
+Intel Core i5-11400,144.88,6,2.6,4.4,65,Intel UHD Graphics 730,True,Rocket Lake,Socket 1200,14 nm,12 MB,DDR4,"H510, B560, H570, Q570, W580, Z590, Q470, H470, W480, Z490","Mar 16th, 2021",174.21,17132,3048,263.57,Desktop
+Intel Core i7-11700,194.99,8,2.5,4.9,65,Intel UHD Graphics 750,True,Rocket Lake,Socket 1200,14 nm,16 MB,DDR4,"H510, B560, H570, Q570, W580, Z590, Q470, H470, W480, Z490","Mar 16th, 2021",316.99,20588,3146,216.72,Desktop
+AMD Ryzen 9 3950X,575.0,16,3.5,4.7,105,,True,Matisse,Socket AM4,7 nm,64 MB,DDR4,"A300, X300, A320, B350, X370, B450, X470, A520, B550, X570","Nov 25th, 2019",650.0,39157,2738,372.92,Desktop
+Intel Core i3-10105F,78.05,4,3.7,4.4,65,,True,Comet Lake-R,Socket 1200,14 nm,6 MB,DDR4,,"Mar 16th, 2021",78.99,9141,2675,,Desktop
+Intel Core i7-4790K,,4,4.0,4.4,88,Intel HD Graphics 4600,True,Haswell,Socket 1150,22 nm,8 MB,DDR3,"Z87, H87, Z97, H97","May 1st, 2014",206.87,8061,2467,91.6,Desktop
+Intel Core i7-8700,313.0,6,3.2,4.6,65,Intel UHD Graphics 630,True,Coffee Lake,Socket 1151,14 nm,12 MB,DDR4,,"Jan 1st, 2018",260.99,13046,2662,200.71,Desktop
+Intel Celeron E1400,,2,2.0,2.0,65,,False,Allendale,Socket 775,65 nm,,"DDR1, DDR2, DDR3",,"Apr 20th, 2008",14.0,671,746,10.32,Desktop
+Intel Core i5-8400,185.0,6,2.8,4.0,65,Intel UHD Graphics 630,False,Coffee Lake,Socket 1151,14 nm,9 MB,DDR4,,"Oct 5th, 2017",230.0,9222,2404,141.88,Desktop
+Intel Core i9-12900KF,398.99,16,3.2,5.2,125,,True,Alder Lake-S,Socket 1700,10 nm,30 MB,"DDR4, DDR5","Z690, H670, B660, H610","Nov 4th, 2021",572.98,41163,4217,170.8,Desktop
+Intel Core i7-12700,318.99,12,2.1,4.9,65,Intel UHD Graphics 770,True,Alder Lake-S,Socket 1700,10 nm,25 MB,"DDR4, DDR5","Intel 600 Series, Intel 700 Series",Jan-22,328.0,31659,3948,487.07,Desktop
+Intel Core i5-6600K,188.0,4,3.5,3.9,91,Intel HD Graphics 530,False,Skylake,Socket 1151,14 nm,6 MB,DDR4,,"Jul 2nd, 2015",135.0,6307,2332,69.31,Desktop
+Intel Core i9-12900KS,389.99,16,3.4,5.5,150,Intel UHD Graphics 770,True,Alder Lake-S,Socket 1700,10 nm,30 MB,"DDR4, DDR5",,"Apr 5th, 2022",779.98,44243,4317,294.95,Desktop
+AMD Ryzen 5 1600,250.0,6,3.2,3.6,65,,True,Zen,Socket AM4,14 nm,16 MB,DDR4,"AMD 300 Series, AMD 400 Series, AMD 500 Series","Apr 11th, 2017",,10401,1685,160.01,Desktop
+AMD Ryzen 7 2700,185.0,8,3.2,4.1,65,,True,Zen,Socket AM4,12 nm,16 MB,DDR4,"AMD 300 Series, AMD 400 Series, AMD 500 Series","Apr 19th, 2018",,15059,2145,231.67,Desktop
+Intel Core i5-6500,140.0,4,3.2,3.6,65,Intel HD Graphics 530,False,Skylake,Socket 1151,14 nm,6 MB,DDR4,"Z170, B150, H110","Jul 2nd, 2015",129.0,5655,2123,87.0,Desktop
+Intel Core i7-7700,245.0,4,3.6,4.2,65,Intel HD Graphics 630,True,Kaby Lake,Socket 1151,14 nm,8 MB,DDR4,,"Jan 3rd, 2017",219.99,8638,2472,132.9,Desktop
+Intel Core i7-11700KF,260.0,8,3.6,5.0,125,,True,Rocket Lake,Socket 1200,14 nm,16 MB,DDR4,"H510, B560, H570, Q570, W580, Z590, Q470, H470, W480, Z490","Mar 16th, 2021",279.0,24147,3420,193.17,Desktop
+Intel Core i3-9100F,110.0,4,3.6,4.2,65,,False,Coffee Lake,Socket 1151,14 nm,6 MB,DDR4,,"Apr 23rd, 2019",124.0,6768,2519,104.12,Desktop
+Intel Core i7-11700F,223.57,8,2.5,4.9,65,,True,Rocket Lake,Socket 1200,14 nm,16 MB,DDR4,"H510, B560, H570, Q570, W580, Z590, Q470, H470, W480, Z490","Mar 16th, 2021",289.99,21447,3339,329.95,Desktop
+Intel Core i3-10100,104.94,4,3.6,4.3,65,Intel UHD Graphics 630,True,Comet Lake,Socket 1200,14 nm,6 MB,DDR4,,"Apr 30th, 2020",112.99,8800,2637,135.39,Desktop
+Intel Core i5-4690K,90.0,4,3.5,3.9,88,Intel HD Graphics 4600,False,Haswell,Socket 1150,22 nm,6 MB,DDR3,"Intel 80 Series, Intel 90 Series","Jun 2nd, 2014",69.99,5623,2197,63.9,Desktop
+Intel Core i7-6700,233.0,4,3.4,4.0,65,Intel HD Graphics 530,True,Skylake,Socket 1151,14 nm,8 MB,DDR4,,"Jul 1st, 2015",255.0,8078,2300,124.27,Desktop
+Intel Core i7-10700,239.75,8,2.9,4.8,65,Intel UHD Graphics 630,True,Comet Lake,Socket 1200,14 nm,16 MB,DDR4,,"Apr 30th, 2020",268.99,16946,2922,260.71,Desktop
+Intel Core i7-3770,143.0,4,3.4,3.4,77,Intel HD Graphics 4000,True,Ivy Bridge,Socket 1155,22 nm,8 MB,DDR3,"Intel 6 Series, Intel 7 Series","Apr 29th, 2012",139.98,6397,2076,83.08,Desktop
+Intel Core i5-8600K,245.0,6,3.6,4.3,95,Intel UHD Graphics 630,False,Coffee Lake,Socket 1151,14 nm,9 MB,DDR4,,"Oct 5th, 2017",235.99,10195,2609,107.32,Desktop
+AMD Ryzen 3 2200G,150.0,4,3.5,3.7,65,Radeon Vega 8,False,Raven Ridge,Socket AM4,14 nm,4 MB,DDR4,"AMD 300 Series, AMD 400 Series","Feb 12th, 2018",,6703,2058,103.13,Desktop
+Intel Core i7-4770,125.0,4,3.4,3.9,84,Intel HD Graphics 4600,True,Haswell,Socket 1150,22 nm,8 MB,DDR3,"Z87, H87, Z97, H97","Jun 2nd, 2013",178.69,7030,2166,83.69,Desktop
+Intel Core i5-12500,232.99,6,3.0,4.6,65,Intel UHD Graphics 770,True,Alder Lake-S,Socket 1700,10 nm,18 MB,"DDR4, DDR5","Intel 600 Series, Intel 700 Series","Jan 4th, 2022",202.0,20309,3759,312.45,Desktop
+Intel Core i5-7500,132.3,4,3.4,3.8,65,Intel HD Graphics 630,False,Kaby Lake,Socket 1151,14 nm,6 MB,DDR4,,"Jan 3rd, 2017",165.99,6064,2284,93.3,Desktop
+Intel Core i7-9700,340.0,8,3.0,4.7,65,Intel HD Graphics 630,False,Coffee Lake,Socket 1151,14 nm,12 MB,DDR4,,"Apr 23rd, 2019",322.85,13385,2782,205.93,Desktop
+Intel Core i5-7600K,218.0,4,3.8,4.2,91,Intel HD Graphics 630,False,Kaby Lake,Socket 1151,14 nm,6 MB,DDR4,,"Jan 3rd, 2017",165.99,6869,2566,75.49,Desktop
+Intel Core i9-9900KF,395.0,8,3.6,5.0,95,,True,Coffee Lake-R,Socket 1151,14 nm,16 MB,DDR4,,"Jan 8th, 2019",502.13,18691,2968,196.75,Desktop
+AMD Ryzen 5 2400G,135.0,4,3.6,3.9,65,Radeon Vega 11,True,Raven Ridge,Socket AM4,14 nm,4 MB,DDR4,"AMD 300 Series, AMD 400 Series","Feb 12th, 2018",,8378,2132,128.89,Desktop
+AMD Ryzen 7 1700,215.0,8,3.0,3.7,65,,True,Zen,Socket AM4,14 nm,16 MB,DDR4,"AMD 300 Series, AMD 400 Series, AMD 500 Series","Mar 2nd, 2017",,14590,2026,224.45,Desktop
+Intel Core i5-10600KF,164.99,6,4.1,4.8,125,,True,Comet Lake,Socket 1200,14 nm,12 MB,DDR4,,"Apr 30th, 2020",184.98,14575,2948,116.6,Desktop
+Intel Core i7-10700KF,268.66,8,3.8,5.1,125,,True,Comet Lake,Socket 1200,14 nm,16 MB,DDR4,,"Apr 30th, 2020",309.99,19143,3056,153.14,Desktop
+AMD Ryzen 9 3900XT,390.0,12,3.8,4.7,105,,True,Matisse 2,Socket AM4,7 nm,64 MB,DDR4,,"Jul 7th, 2020",618.77,32869,2786,313.04,Desktop
+Intel Core i5-3470,200.0,4,3.2,3.2,77,Intel HD Graphics 2500,False,Ivy Bridge,Socket 1155,22 nm,6 MB,DDR3,,"Jun 1st, 2012",105.57,4657,1943,60.48,Desktop
+Intel Core i5-7400,153.0,4,3.0,3.5,65,Intel HD Graphics 630,False,Kaby Lake,Socket 1151,14 nm,6 MB,DDR4,,"Jan 3rd, 2017",175.0,5499,2103,84.6,Desktop
+Intel Core i7-9700F,349.0,8,3.0,4.7,65,,False,Coffee Lake,Socket 1151,14 nm,12 MB,DDR4,,"Apr 23rd, 2019",340.99,13462,2796,207.11,Desktop
+Intel Core i5-4460,89.54,4,3.2,3.4,84,Intel HD Graphics 4600,False,Haswell,Socket 1150,22 nm,6 MB,DDR3,"Intel 80 Series, Intel 90 Series","May 11th, 2014",79.46,4834,1902,57.55,Desktop
+Intel Celeron G6900,72.45,2,3.4,3.4,46,Intel UHD Graphics 710,False,Alder Lake-S,Socket 1700,10 nm,4 MB,"DDR4, DDR5","Z690, H670, B660, H610","Jan 4th, 2022",49.99,3446,2587,74.91,Desktop
+AMD Ryzen 3 3300X,195.0,4,3.8,4.3,65,,True,Matisse,Socket AM4,7 nm,16 MB,DDR4,,"Apr 24th, 2020",269.99,12746,2689,196.1,Desktop
+Intel Core i9-10900KF,318.95,10,3.7,5.3,125,,True,Comet Lake,Socket 1200,14 nm,20 MB,DDR4,,"Apr 30th, 2020",339.99,23508,3141,188.06,Desktop
+Intel Core i7-9700KF,297.0,8,3.6,4.9,95,,False,Coffee Lake,Socket 1151,14 nm,12 MB,DDR4,,"Jan 8th, 2019",424.99,14499,2920,152.62,Desktop
+Intel Core i7-3770K,275.0,4,3.5,3.5,77,Intel HD Graphics 4000,True,Ivy Bridge,Socket 1155,22 nm,8 MB,DDR3,,"Apr 29th, 2012",136.48,6462,2082,83.93,Desktop
+AMD Ryzen 5 1600X,140.0,6,3.6,4.0,95,,True,Zen,Socket AM4,14 nm,16 MB,DDR4,"AMD 300 Series, AMD 400 Series, AMD 500 Series","Apr 11th, 2017",169.46,12943,2183,136.25,Desktop
+Intel Core i5-4590,,4,3.3,3.7,84,Intel HD Graphics 4600,False,Haswell,Socket 1150,22 nm,6 MB,DDR3,,"May 1st, 2014",58.0,5344,2093,63.62,Desktop
+Intel Core i3-10105,104.69,4,3.7,4.4,65,Intel UHD Graphics 630,True,Comet Lake-R,Socket 1200,14 nm,6 MB,DDR4,,"Mar 16th, 2021",107.0,8928,2718,137.36,Desktop
+Intel Celeron G5900,39.99,2,3.4,3.4,58,Intel UHD Graphics 610,False,Comet Lake,Socket 1200,14 nm,2 MB,DDR4,,"Apr 30th, 2020",53.99,2790,2150,48.1,Desktop
+Intel Core i7-4790,319.66,4,3.6,4.0,84,Intel HD Graphics 4600,True,Haswell,Socket 1150,22 nm,8 MB,DDR3,"Z87, H87, Z97, H97","May 1st, 2014",200.0,7235,2234,86.13,Desktop
+Intel Core i5-11600KF,206.98,6,3.9,4.9,125,,True,Rocket Lake,Socket 1200,14 nm,12 MB,DDR4,"H510, B560, H570, Q570, W580, Z590, Q470, H470, W480, Z490","Mar 16th, 2021",232.49,19742,3359,157.93,Desktop
+Intel Core i7-4770K,192.0,4,3.5,3.9,84,Intel HD Graphics 4600,True,Haswell,Socket 1150,22 nm,8 MB,DDR3,"Z87, H87, Z97, H97","Jun 2nd, 2013",329.99,7129,2165,84.87,Desktop
+Intel Core i3-8100,163.0,4,3.6,3.6,65,Intel UHD Graphics 630,False,Coffee Lake,Socket 1151,14 nm,6 MB,DDR4,,"Oct 5th, 2017",169.99,6163,2240,94.82,Desktop
+AMD Ryzen 7 3800XT,407.95,8,3.9,4.7,105,,True,Matisse 2,Socket AM4,7 nm,32 MB,DDR4,,"Jul 7th, 2020",391.65,23815,2845,226.81,Desktop
+AMD Ryzen 5 3600XT,389.0,6,3.8,4.5,95,,True,Matisse 2,Socket AM4,7 nm,32 MB,DDR4,,"Jul 7th, 2019",327.52,18780,2794,197.69,Desktop
+AMD Ryzen 7 1700X,251.0,8,3.4,3.8,95,,True,Zen,Socket AM4,14 nm,16 MB,DDR4,"AMD 300 Series, AMD 400 Series, AMD 500 Series","Mar 2nd, 2017",168.06,15496,2074,163.12,Desktop
+AMD Ryzen 5 3500X,,6,3.6,4.1,65,,False,Matisse,Socket AM4,7 nm,32 MB,DDR4,"A300, X300, A320, B350, X370, B450, X470, A520, B550, X570","Sep 24th, 2019",184.95,13319,2525,204.91,Desktop
+Intel Core i9-10980XE,923.0,18,3.0,4.8,165,,True,Cascade Lake-X,Socket 2066,14 nm,24.75 MB,DDR4,,"Oct 19th, 2019",999.99,33408,2667,202.47,Desktop
+Intel Core i5-12600,257.99,6,3.3,4.8,65,Intel UHD Graphics 770,True,Alder Lake-S,Socket 1700,10 nm,18 MB,"DDR4, DDR5","Intel 600 Series, Intel 700 Series",Jan-22,238.97,21368,3883,328.73,Desktop
+Intel Core i9-11900KF,,8,3.5,5.3,125,,True,Rocket Lake,Socket 1200,14 nm,16 MB,DDR4,"H510, B560, H570, Q570, W580, Z590, Q470, H470, W480, Z490","Mar 16th, 2021",379.98,25390,3563,203.12,Desktop
+Intel Core i5-9400,210.0,6,2.9,4.1,65,Intel UHD Graphics 630,False,Coffee Lake,Socket 1151,14 nm,9 MB,DDR4,,"Oct 19th, 2018",139.99,9478,2479,145.82,Desktop
+Intel Celeron G4900,34.99,2,3.1,3.1,65,Intel UHD Graphics 610,False,Coffee Lake,Socket 1151,14 nm,2 MB,DDR4,,"Apr 3rd, 2018",105.95,2448,1914,45.34,Desktop
+Intel Core i7-2600,155.62,4,3.4,3.4,95,Intel HD Graphics 2000,True,Sandy Bridge,Socket 1155,32 nm,8 MB,DDR3,,"Jan 9th, 2011",89.0,5344,1741,56.25,Desktop
+Intel Core i5-6400,,4,2.7,3.3,65,Intel HD Graphics 530,False,Skylake,Socket 1151,14 nm,6 MB,DDR4,"Intel 100 Series, Intel 200 Series","Jul 2nd, 2015",129.99,5163,1964,79.43,Desktop
+AMD Ryzen 5 1400,110.0,4,3.2,3.4,65,,True,Zen,Socket AM4,14 nm,8 MB,DDR4,"AMD 300 Series, AMD 400 Series, AMD 500 Series","Apr 11th, 2017",109.65,7783,1904,119.74,Desktop
+Intel Core i5-4570,121.16,4,3.2,3.2,84,Intel HD Graphics 4600,False,Haswell,Socket 1150,22 nm,6 MB,DDR3,,"Jun 2nd, 2013",99.99,5199,2036,61.9,Desktop
+Intel Core i5-3570K,125.0,4,3.4,3.4,77,Intel HD Graphics 4000,False,Ivy Bridge,Socket 1155,22 nm,6 MB,DDR3,,"Apr 29th, 2012",65.64,4936,2049,64.11,Desktop
+Intel Core i3-4150,77.14,2,3.5,3.5,54,Intel HD Graphics 4400,True,Haswell,Socket 1150,22 nm,3 MB,DDR3,"Intel 8 Series, Intel 9 Series","May 1st, 2014",999.0,3360,1933,62.22,Desktop
+Intel Core i5-9600KF,230.0,6,3.7,4.6,95,,False,Coffee Lake,Socket 1151,14 nm,9 MB,DDR4,,"Jan 8th, 2019",159.0,10838,2786,114.08,Desktop
+Intel Core i5-2400,170.99,4,3.1,3.1,95,Intel HD Graphics 2000,False,Sandy Bridge,Socket 1155,32 nm,6 MB,DDR3,,"Jan 9th, 2011",88.57,3840,1580,40.42,Desktop
+Intel Core i9-9900KS,1989.0,8,4.0,5.0,127,Intel UHD Graphics 630,True,Coffee Lake-R,Socket 1151,14 nm,16 MB,DDR4,,"Oct 28th, 2019",898.3,19518,3039,153.69,Desktop
+Intel Pentium E2220,22.99,2,2.4,2.4,65,,False,Allendale,Socket 775,65 nm,,"DDR1, DDR2, DDR3",,"Mar 2nd, 2008",55.0,793,892,12.21,Desktop
+AMD Ryzen 5 3500,,6,3.6,4.1,65,,False,Picasso,Socket FP5,12 nm,4 MB,DDR4,,"Jan 6th, 2019",,12836,2515,197.47,Desktop
+Intel Core i5-8500,258.27,6,3.0,4.1,65,Intel UHD Graphics 630,False,Coffee Lake,Socket 1151,14 nm,9 MB,DDR4,,"Feb 14th, 2018",190.0,9576,2485,147.32,Desktop
+AMD Ryzen 5 1500X,225.0,4,3.5,3.7,65,,True,Zen,Socket AM4,14 nm,16 MB,DDR4,"AMD 300 Series, AMD 400 Series, AMD 500 Series","Apr 11th, 2017",120.36,9083,2110,139.75,Desktop
+Intel Pentium Gold G7400,89.99,2,3.7,3.7,46,Intel UHD Graphics 710,True,Alder Lake-S,Socket 1700,10 nm,6 MB,"DDR4, DDR5","Z690, H670, B660, H610","Jan 4th, 2022",66.99,6896,3084,149.92,Desktop
+AMD Athlon 3000G,98.99,2,3.5,3.5,35,Radeon Vega 3,True,Zen,Socket AM4,14 nm,4 MB,DDR4,,"Nov 20th, 2019",54.99,4480,1999,128.01,Desktop
+Intel Pentium Gold G6400,53.94,2,4.0,4.0,58,Intel UHD Graphics 610,True,Comet Lake,Socket 1200,14 nm,4 MB,DDR4,,"Apr 30th, 2020",74.63,4130,2484,71.21,Desktop
+AMD Ryzen 7 1800X,295.0,8,3.6,4.0,95,,True,Zen,Socket AM4,14 nm,16 MB,DDR4,"AMD 300 Series, AMD 400 Series, AMD 500 Series","Mar 2nd, 2017",178.03,16306,2186,171.64,Desktop
+Intel Core i3-6100,100.0,2,3.7,3.7,51,Intel HD Graphics 530,True,Skylake,Socket 1151,14 nm,4 MB,DDR4,,"Sep 1st, 2015",131.51,4177,2220,81.9,Desktop
+AMD Ryzen 3 1200,115.0,4,3.1,3.4,65,,False,Zen,Socket AM4,14 nm,8 MB,DDR4,"AMD 300 Series, AMD 400 Series, AMD 500 Series","Jul 27th, 2017",103.55,6304,1927,96.98,Desktop
+Intel Xeon E5-2660,28.99,8,2.2,3.0,95,,True,Sandy Bridge-EP,Socket 2011,32 nm,20 MB,DDR3,,"Mar 6th, 2012",64.73,8104,1395,85.3,Server
+Intel Core i5-4690,100.12,4,3.5,3.9,84,Intel HD Graphics 4600,False,Haswell,Socket 1150,22 nm,6 MB,DDR3,,"May 1st, 2014",118.88,5572,2205,66.33,Desktop
+Intel Core i9-12900F,432.0,16,2.4,5.1,65,,True,Alder Lake-S,Socket 1700,10 nm,30 MB,"DDR4, DDR5","Z690, H670, B660, H610","Jan 4th, 2022",529.99,35726,4045,549.63,Desktop
+Intel Core i7-5820K,,6,3.3,3.6,140,,True,Haswell-E,Socket 2011-3,22 nm,15 MB,DDR4,,"Sep 1st, 2014",255.36,9814,2010,70.1,Desktop
+Intel Core i5-10500,219.99,6,3.1,4.5,65,Intel UHD Graphics 630,True,Comet Lake,Socket 1200,14 nm,12 MB,DDR4,,"Apr 30th, 2020",209.88,13056,2785,200.86,Desktop
+Intel Core i7-6900K,164.9,8,3.2,3.7,140,,True,Broadwell-E,Socket 2011-3,14 nm,20 MB,DDR4,,"May 31st, 2016",384.95,14291,2361,102.08,Desktop
+Intel Core i5-4670K,144.25,4,3.4,3.4,84,Intel HD Graphics 4600,False,Haswell,Socket 1150,22 nm,6 MB,DDR3,,"Jun 2nd, 2013",154.88,5547,2154,66.04,Desktop
+Intel Core i9-10900X,508.0,10,3.7,4.7,165,,True,Cascade Lake-X,Socket 2066,14 nm,19.25 MB,DDR4,,"Oct 19th, 2019",560.0,22683,2696,137.47,Desktop
+Intel Core i7-6850K,165.0,6,3.6,3.8,140,,True,Broadwell-E,Socket 2011-3,14 nm,15 MB,DDR4,,"May 31st, 2016",326.97,11295,2407,80.68,Desktop
+Intel Core i5-2500K,234.0,4,3.3,3.3,95,Intel HD Graphics 3000,False,Sandy Bridge,Socket 1155,32 nm,6 MB,DDR3,"Z77, Z75, Q77, H77, Q75, B75, Z68, P67, H67, Q67, B65, H61","Jan 9th, 2011",59.0,4097,1699,43.13,Desktop
+Intel Core i3-2100,49.0,2,3.1,3.1,65,Intel HD Graphics 2000,True,Sandy Bridge,Socket 1155,32 nm,3 MB,DDR3,"Z77, Z75, Q77, H77, Q75, B75, Z68, P67, H67, Q67, B65, H61","Feb 20th, 2011",116.19,1819,1426,27.98,Desktop
+Intel Core i3-7350K,59.99,2,4.2,4.2,60,Intel HD Graphics 630,True,Kaby Lake,Socket 1151,14 nm,4 MB,DDR4,,"Jan 3rd, 2017",250.8,4819,2493,80.32,Desktop
+Intel Core i9-12900,458.99,16,2.4,5.1,65,Intel UHD Graphics 770,True,Alder Lake-S,Socket 1700,10 nm,30 MB,"DDR4, DDR5","Z690, H670, B660, H610","Jan 4th, 2022",509.0,38281,4162,588.95,Desktop
+Intel Core i5-6600,,4,3.3,3.9,65,Intel HD Graphics 530,False,Skylake,Socket 1151,14 nm,6 MB,DDR4,"Intel 100 Series, Intel 200 Series","Jul 1st, 2015",119.0,6107,2284,93.96,Desktop
+Intel Core i5-7600,130.0,4,3.5,4.1,65,Intel HD Graphics 630,False,Kaby Lake,Socket 1151,14 nm,6 MB,DDR4,,"Jan 3rd, 2017",169.99,6598,2476,101.5,Desktop
+Intel Core i3-7100,103.0,2,3.9,3.9,51,Intel HD Graphics 630,True,Kaby Lake,Socket 1151,14 nm,3 MB,DDR4,,"Jan 3rd, 2017",127.99,4342,2338,85.13,Desktop
+Intel Pentium G3260,,2,3.3,3.3,53,Intel HD Graphics,False,,,,,,,,59.97,2049,1867,38.65,Desktop
+Intel Core i3-9100,140.0,4,3.6,4.2,65,Intel UHD Graphics 630,False,Coffee Lake,Socket 1151,14 nm,6 MB,DDR4,,"Sep 1st, 2018",169.96,6625,2519,101.93,Desktop
+Intel Core i5-3570,,4,3.4,3.4,77,Intel HD Graphics 2500,False,Ivy Bridge,Socket 1155,22 nm,6 MB,DDR3,"Intel 6 Series, Intel 7 Series","Jun 1st, 2012",166.0,4910,2049,63.77,Desktop
+Intel Core i7-2700K,95.0,4,3.5,3.5,95,Intel HD Graphics 3000,True,Sandy Bridge,Socket 1155,32 nm,8 MB,DDR3,"Z77, Z75, Q77, H77, Q75, B75, Z68, P67, H67, Q67, B65, H61","Oct 24th, 2011",180.0,5604,1786,58.99,Desktop
+Intel Celeron G5925,36.97,2,3.6,3.6,58,Intel UHD Graphics 610,False,,,,,,,,53.93,2939,2282,50.67,Desktop
+Intel Core i7-6800K,195.0,6,3.4,3.6,140,,True,Broadwell-E,Socket 2011-3,14 nm,15 MB,DDR4,,"May 31st, 2016",259.99,10681,2272,76.29,Desktop
+AMD Athlon II X2 240,29.48,2,2.8,2.8,65,,False,Regor,Socket AM3,45 nm,,DDR3,,"Jul 23rd, 2009",24.95,935,1027,14.38,Desktop
+Intel Core i9-10900F,312.99,10,2.8,5.2,65,,True,Comet Lake,Socket 1200,14 nm,20 MB,DDR4,,"Apr 30th, 2020",350.0,20881,3070,321.25,Desktop
+Intel Core i7-2600K,199.88,4,3.4,3.4,95,Intel HD Graphics 3000,True,Sandy Bridge,Socket 1155,32 nm,8 MB,DDR3,"Z77, Z75, Q77, H77, Q75, B75, Z68, P67, H67, Q67, B65, H61","Jan 9th, 2011",79.99,5500,1745,57.89,Desktop
+AMD Athlon 200GE,,2,3.2,3.2,35,Radeon Vega 3,True,Zen,Socket AM4,14 nm,4 MB,DDR4,"AMD 300 Series, AMD 400 Series","Sep 6th, 2018",123.89,4135,1817,118.15,Desktop
+Intel Core i9-7900X,413.0,10,3.3,4.5,140,,True,Skylake-X,Socket 2066,14 nm,14 MB,DDR4,,"Jun 26th, 2017",269.98,21310,2594,152.21,Desktop
+Intel Core i9-10900,319.99,10,2.8,5.2,65,Intel UHD Graphics 630,True,Comet Lake,Socket 1200,14 nm,20 MB,DDR4,,"Apr 30th, 2020",389.97,20446,3057,314.55,Desktop
+Intel Core i7-8086K,476.58,6,4.0,5.0,95,Intel UHD Graphics 630,True,Coffee Lake,Socket 1151,14 nm,12 MB,DDR4,,"Jun 5th, 2018",549.0,14550,2895,153.16,Desktop
+Intel Core i5-4440,123.85,4,3.1,3.3,84,Intel HD Graphics 4600,False,Haswell,Socket 1150,22 nm,6 MB,DDR3,,"Sep 1st, 2013",79.0,4718,1860,56.16,Desktop
+Intel Core i9-11900,363.99,8,2.5,5.2,65,Intel UHD Graphics 750,True,Rocket Lake,Socket 1200,14 nm,16 MB,DDR4,"H510, B560, H570, Q570, W580, Z590, Q470, H470, W480, Z490","Mar 16th, 2021",347.88,23117,3443,355.65,Desktop
+Intel Pentium Gold G5420,58.99,2,3.8,3.8,54,Intel UHD Graphics 610,True,,,,,,,,129.55,3641,2286,67.43,Desktop
+Intel Core i9-7960X,2399.94,16,2.8,4.4,165,,True,Skylake-X,Socket 2066,14 nm,22 MB,DDR4,,"Sep 1st, 2017",990.97,26699,2525,161.81,Desktop
+Intel Core i5-11500,227.99,6,2.7,4.6,65,Intel UHD Graphics 750,True,Rocket Lake,Socket 1200,14 nm,12 MB,,,"Mar 16th, 2021",197.19,17626,3153,271.17,Desktop
+Intel Core i7-7740X,193.74,4,4.3,4.5,112,,True,Kaby Lake-X,Socket 2066,14 nm,8 MB,,,"Jun 26th, 2017",225.99,9864,2805,88.07,Desktop
+Intel Pentium E6600,50.0,2,3.06,3.06,65,,False,Wolfdale,Socket 775,45 nm,,,,"Jan 17th, 2010",16.99,1072,1156,16.49,Desktop
+AMD Ryzen 3 1300X,,4,3.5,3.7,65,,False,Zen,Socket AM4,14 nm,8 MB,,,"Jul 27th, 2017",115.0,6925,2096,106.54,Desktop
+Intel Core i5-9500,210.0,6,3.0,4.4,65,Intel UHD Graphics 630,False,Coffee Lake,Socket 1151,14 nm,9 MB,,,"Oct 19th, 2018",297.59,9698,2578,149.2,Desktop
+Intel Celeron G440,,1,1.6,1.6,35,Intel HD Graphics,False,Sandy Bridge,Socket 1155,32 nm,1 MB,,,"Sep 4th, 2011",100.0,426,739,12.17,Desktop
+Intel Core i5-10600,207.86,6,3.3,4.8,65,Intel UHD Graphics 630,True,Comet Lake,Socket 1200,14 nm,12 MB,,,"Apr 30th, 2020",219.99,13928,2911,214.27,Desktop
+Intel Core i5-8600,239.86,6,3.1,4.3,65,Intel UHD Graphics 630,False,Coffee Lake,Socket 1151,14 nm,9 MB,,,"Feb 14th, 2018",275.67,9849,2582,151.52,Desktop
+Intel Core i9-9900,595.0,8,3.1,5.0,65,Intel UHD Graphics 630,True,Coffee Lake-R,Socket 1151,14 nm,16 MB,,,"Apr 23rd, 2019",458.99,16873,2863,259.58,Desktop
+Intel Core i5-2500,,4,3.3,3.3,95,Intel HD Graphics 2000,False,Sandy Bridge,Socket 1155,32 nm,6 MB,,,"Jan 9th, 2011",58.87,4101,1708,43.17,Desktop
+Intel Core i9-10920X,679.99,12,3.5,4.8,165,,True,Cascade Lake-X,Socket 2066,14 nm,19.25 MB,,,"Oct 19th, 2019",679.99,26696,2766,161.79,Desktop
+Intel Core i9-11900F,312.5,8,2.5,5.2,65,,True,Rocket Lake,Socket 1200,14 nm,16 MB,,,"Mar 16th, 2021",379.99,23814,3528,366.37,Desktop
+Intel Core i3-4130,77.14,2,3.4,3.4,54,Intel HD Graphics 4400,True,Haswell,Socket 1150,22 nm,3 MB,DDR3,,"Sep 1st, 2013",72.29,3291,1890,60.94,Desktop
+Intel Pentium Gold G5400,64.95,2,3.7,3.7,58,Intel UHD Graphics 610,True,Coffee Lake,Socket 1151,14 nm,4 MB,DDR4,,"Apr 2nd, 2018",112.88,3723,2224,68.94,Desktop
+Intel Pentium G4400,42.99,2,3.3,3.3,54,Intel HD Graphics 510,False,Skylake,Socket 1151,14 nm,4 MB,"DDR3, DDR4",,"Sep 1st, 2015",97.41,2599,2024,48.13,Desktop
+Intel Core i3-4170,,2,3.7,3.7,54,Intel HD Graphics 4400,True,Haswell,Socket 1150,22 nm,3 MB,DDR3,"Intel 8 Series, Intel 9 Series","May 1st, 2014",95.8,3569,2069,66.1,Desktop
+Intel Core i7-6950X,328.29,10,3.0,3.5,140,,True,Broadwell-E,Socket 2011-3,14 nm,25 MB,DDR4,,"May 31st, 2016",377.32,17142,2334,122.44,Desktop
+Intel Pentium G4560,,2,3.5,3.5,54,Intel HD Graphics 610,True,Kaby Lake,Socket 1151,14 nm,3 MB,DDR4,,"Jan 3rd, 2017",168.0,3513,2103,65.06,Desktop
+Intel Core i3-9350KF,,4,4.0,4.6,91,,False,Coffee Lake,Socket 1151,14 nm,8 MB,DDR4,,"Jan 8th, 2019",207.36,7318,2666,80.42,Desktop
+Intel Core i3-3220,,2,3.3,3.3,55,Intel HD Graphics 2500,True,Ivy Bridge,Socket 1155,22 nm,3 MB,DDR3,,"Sep 3rd, 2012",39.94,2203,1725,40.05,Desktop
+Intel Core i7-4930K,175.0,6,3.4,3.9,130,,True,Ivy Bridge-E,Socket 2011,22 nm,12 MB,DDR3,,"Sep 1st, 2013",174.85,9360,1963,72.0,Desktop
+Intel Core i3-8350K,217.3,4,4.0,4.0,91,Intel UHD Graphics 630,False,Coffee Lake,Socket 1151,14 nm,8 MB,DDR4,,"Oct 5th, 2017",206.16,6862,2489,75.41,Desktop
+Intel Core i7-7800X,405.86,6,3.5,4.0,140,,True,Skylake-X,Socket 2066,14 nm,8.25 MB,DDR4,,"Jun 26th, 2017",199.99,12864,2414,91.89,Desktop
+Intel Pentium Gold G6405,72.98,2,4.1,4.1,58,Intel UHD Graphics 610,True,Comet Lake-R,Socket 1200,14 nm,4 MB,DDR4,,"Mar 16th, 2021",60.1,4285,2534,73.87,Desktop
+Intel Core i5-4670,135.86,4,3.4,3.4,84,Intel HD Graphics 4600,False,Haswell,Socket 1150,22 nm,6 MB,DDR3,,"Jun 2nd, 2013",100.0,5440,2142,64.77,Desktop
+Intel Core i5-3330,,4,3.0,3.0,77,Intel HD Graphics 2500,False,Ivy Bridge,Socket 1155,22 nm,6 MB,DDR3,,"Sep 3rd, 2012",74.35,4090,1726,53.11,Desktop
+Intel Core i7-5960X,,8,3.0,3.5,140,,True,Haswell-E,Socket 2011-3,22 nm,20 MB,DDR4,,"Sep 1st, 2014",215.61,12719,1979,90.85,Desktop
+Intel Core i3-2120,128.12,2,3.3,3.3,65,Intel HD Graphics 2000,True,Sandy Bridge,Socket 1155,32 nm,3 MB,DDR3,"Z77, Z75, Q77, H77, Q75, B75, Z68, P67, H67, Q67, B65, H61","Feb 20th, 2011",27.44,1926,1517,29.62,Desktop
+Intel Core i7-7820X,329.88,8,3.6,4.5,140,,True,Skylake-X,Socket 2066,14 nm,11 MB,,,"Jun 26th, 2017",709.0,17283,2539,123.45,Desktop
+Intel Core i7-7700T,489.95,4,2.9,3.8,35,Intel HD Graphics 630,True,Kaby Lake,Socket 1151,14 nm,8 MB,DDR4,,"Jan 3rd, 2017",390.0,7561,2156,216.04,Desktop
+Intel Xeon E-2176G,1070.23,6,3.7,4.7,80,Intel HD Graphics P630,True,Coffee Lake-S WS,Socket 1151,14 nm,12 MB,DDR4,"C242, C246","Jul 12th, 2018",448.0,13643,2749,170.54,Server
+Intel Celeron E3500,,2,2.7,2.7,65,,False,Wolfdale,Socket 775,45 nm,,"DDR1, DDR2, DDR3",,"Aug 29th, 2010",21.0,935,1154,14.39,Desktop
+Intel Core i5-6402P,104.99,4,2.8,3.4,65,Intel HD Graphics 510,False,,,,,,,,139.88,5414,2027,83.29,Desktop
+Intel Core i3-4160,,2,3.6,3.6,54,Intel HD Graphics 4400,True,Haswell,Socket 1150,22 nm,3 MB,DDR3,,"Jul 21st, 2014",59.99,3495,2014,64.72,Desktop
+Intel Core i5-11600,240.0,6,2.8,4.8,65,Intel UHD Graphics 750,True,Rocket Lake,Socket 1200,14 nm,12 MB,,,"Mar 16th, 2021",216.41,18318,3302,281.81,Desktop
+Intel Core i7-920,99.0,4,2.66,2.66,130,,True,Bloomfield,Socket 1366,45 nm,8 MB,,,"Nov 17th, 2008",189.88,2741,1220,21.09,Desktop
+Intel Core i9-7980XE,1193.0,18,2.6,4.4,165,,True,Skylake-X,Socket 2066,14 nm,24.75 MB,DDR4,,"Sep 1st, 2017",816.42,29842,2474,180.86,Desktop
+Intel Celeron G4900T,59.95,2,1.8,1.8,35,Intel UHD Graphics 610,False,Coffee Lake,Socket 1151,14 nm,2 MB,DDR4,,"Apr 3rd, 2018",77.95,2403,1789,68.65,Desktop
+Intel Pentium Gold G6605,69.99,2,4.3,4.3,58,Intel UHD Graphics 630,True,Comet Lake-R,Socket 1200,14 nm,4 MB,DDR4,,"Mar 16th, 2021",124.25,4493,2658,77.47,Desktop
+Intel Celeron G5905,,2,3.5,3.5,58,Intel UHD Graphics 610,False,,,,,,,,47.19,2815,2189,48.53,Desktop
+Intel Core i7-5930K,,6,3.5,3.7,140,,True,Haswell-E,Socket 2011-3,22 nm,15 MB,DDR4,,"Sep 1st, 2014",319.95,10304,2063,73.6,Desktop
+Intel Pentium G640,45.0,2,2.8,2.8,65,Intel HD Graphics,False,Sandy Bridge,Socket 1155,32 nm,3 MB,DDR3,,"Jun 3rd, 2012",30.0,1270,1290,19.54,Desktop
+Intel Core i5-4430,123.85,4,3.0,3.0,84,Intel HD Graphics 4600,False,Haswell,Socket 1150,22 nm,6 MB,DDR3,,"Jun 2nd, 2013",148.77,4646,1806,55.31,Desktop
+Intel Core i7-3930K,298.98,6,3.2,3.2,130,,True,Sandy Bridge-E,Socket 2011,32 nm,12 MB,DDR3,,"Nov 14th, 2011",250.0,8244,1762,63.42,Desktop
+Intel Xeon E5-2680,80.0,8,2.7,3.5,130,,True,Sandy Bridge-EP,Socket 2011,32 nm,20 MB,DDR3,,"Mar 6th, 2012",85.45,9361,1561,72.01,Server
+Intel Core i9-10940X,850.0,14,3.3,4.8,165,,True,Cascade Lake-X,Socket 2066,14 nm,19.25 MB,DDR4,,"Oct 19th, 2019",771.99,28619,2724,173.45,Desktop
+AMD A10-9700,120.0,4,3.5,3.8,65,Radeon R7 (on-die),False,Bristol Ridge,Socket AM4,28 nm,,DDR4,"X370, B350, A320","Jul 27th, 2017",91.75,3546,1616,54.55,Desktop
+Intel Celeron G3900,49.99,2,2.8,2.8,51,Intel HD Graphics 510,False,Skylake,Socket 1151,14 nm,4 MB,"DDR3, DDR4",,"Sep 1st, 2015",77.95,2212,1718,43.38,Desktop
+Intel Core i7-3820,,4,3.6,3.6,130,,True,Sandy Bridge-E,Socket 2011,32 nm,10 MB,DDR3,,"Feb 13th, 2012",117.97,5754,1736,44.26,Desktop
+AMD Athlon X4 860K,,4,3.7,4.0,95,,False,Kaveri,Socket FM2+,28 nm,,DDR3,"A88X, A85X, A78, A75, A68H","Aug 12th, 2014",29.97,3436,1531,36.16,Desktop
+Intel Xeon E5-2630,36.65,6,2.3,2.3,95,,True,Sandy Bridge-EP,Socket 2011,32 nm,15 MB,DDR3,,"Mar 6th, 2012",49.0,6131,1270,64.54,Server
+Intel Core i7-860,270.0,4,2.8,2.8,95,,True,Lynnfield,Socket 1156,45 nm,8 MB,DDR3,,"Sep 8th, 2009",43.99,2890,1319,30.42,Desktop
+Intel Celeron 420,49.95,1,1.6,1.6,35,,False,Conroe-L,Socket 775,65 nm,,"DDR1, DDR2, DDR3",,"Jun 3rd, 2007",49.95,235,471,6.72,Desktop
+Intel Core i7-4820K,168.0,4,3.7,3.9,130,,True,Ivy Bridge-E,Socket 2011,22 nm,10 MB,DDR3,,"Sep 1st, 2013",149.73,6501,1945,50.01,Desktop
+AMD Opteron 6344,77.0,12,2.6,3.2,115,,False,,,,,,,,379.0,6069,1231,52.77,Server
+Intel Core i5-2400S,99.07,4,2.5,2.5,65,Intel HD Graphics 2000,False,Sandy Bridge,Socket 1155,32 nm,6 MB,DDR3,,"Jan 9th, 2011",144.19,3160,1480,48.62,Desktop
+Intel Core i9-7920X,538.5,12,2.9,4.4,140,,True,Skylake-X,Socket 2066,14 nm,16.5 MB,DDR4,,"Sep 10th, 2017",375.0,23292,2467,166.37,Desktop
+Intel Core i3-10305,109.99,4,3.8,4.5,65,Intel UHD Graphics 630,True,Comet Lake-R,Socket 1200,14 nm,8 MB,DDR4,,"Mar 16th, 2021",159.99,9689,2834,149.06,Desktop
+Intel Core i3-10300,178.24,4,3.7,4.4,65,Intel UHD Graphics 630,True,Comet Lake,Socket 1200,14 nm,8 MB,DDR4,,"Apr 30th, 2020",138.99,9284,2677,142.82,Desktop
+Intel Xeon E5-2650,48.96,8,2.0,2.8,95,,True,Sandy Bridge-EP,Socket 2011,32 nm,20 MB,DDR3,,"Mar 6th, 2012",49.0,7335,1266,77.21,Server
+Intel Core i7-4790S,,4,3.2,4.0,65,Intel HD Graphics 4000,True,Haswell,Socket 1150,22 nm,8 MB,DDR3,"Z87, H87, Z97, H97","May 11th, 2014",163.0,6954,2198,106.98,Desktop
+AMD Athlon X4 950,,4,3.5,3.8,65,,False,Bristol Ridge,Socket AM4,28 nm,,DDR4,"X370, B350, A320","Jul 27th, 2017",35.99,3611,1663,55.55,Desktop
+Intel Core i9-9980XE,1998.95,18,3.0,4.4,165,,True,Skylake-X,Socket 2066,14 nm,24.75 MB,DDR4,,"Oct 19th, 2018",1442.21,31905,2566,193.37,Desktop
+AMD A6-9500,89.95,2,3.5,3.8,65,Radeon R5 (on die),False,Bristol Ridge,Socket AM4,28 nm,,DDR4,"X370, B350, A320","Sep 5th, 2016",75.42,1864,1618,28.68,Desktop
+Intel Core i3-530,50.0,2,2.93,2.93,73,Intel HD Graphics,True,Clarkdale,Socket 1156,32 nm,4 MB,DDR3,"Intel H57, Intel H55, Intel P55","Jan 7th, 2010",115.19,1449,1176,19.85,Desktop
+Intel Core i5-9600,235.0,6,3.1,4.6,65,Intel UHD Graphics 630,False,Coffee Lake,Socket 1151,14 nm,9 MB,DDR4,,"Oct 19th, 2018",256.55,10369,2751,159.53,Desktop
+AMD Athlon II X4 640,57.01,4,3.0,3.0,95,,False,Propus,Socket AM3,45 nm,,DDR3,,"May 11th, 2010",19.99,2171,1203,22.85,Desktop
+Intel Core i7-4960X,1000.0,6,3.6,4.0,130,,True,Ivy Bridge-E,Socket 2011,22 nm,15 MB,DDR3,,"Sep 3rd, 2013",1250.0,9906,2078,76.2,Desktop
+Intel Core i7-8700T,328.0,6,2.4,4.0,35,Intel UHD Graphics 630,True,Coffee Lake,Socket 1151,14 nm,12 MB,DDR4,,"Apr 2nd, 2018",343.02,10431,2366,298.04,Desktop
+Intel Pentium G2020,94.79,2,2.9,2.9,55,Intel HD Graphics,False,Ivy Bridge,Socket 1155,22 nm,3 MB,DDR3,,"Jan 21st, 2013",50.0,1684,1566,30.61,Desktop
+Intel Core i7-9800X,449.2,8,3.8,4.5,165,,True,Skylake-X,Socket 2066,14 nm,16.5 MB,DDR4,,"Oct 19th, 2018",650.0,18240,2595,110.54,Desktop
+AMD A12-9800,160.0,4,3.8,4.2,65,Radeon R7 (on-die),False,Bristol Ridge,Socket AM4,28 nm,,DDR4,"X370, B350, A320","Jul 27th, 2017",124.85,3447,1607,53.03,Desktop
+Intel Pentium G3258,88.86,2,3.2,3.2,53,Intel HD Graphics,False,Haswell,Socket 1150,22 nm,3 MB,DDR3,"H81, B85, H87, Z87, H97, Z97","Jun 2nd, 2014",32.66,2091,1863,39.45,Desktop
+Intel Core i5-3550,335.0,4,3.3,3.3,77,Intel HD Graphics 2500,False,Ivy Bridge,Socket 1155,22 nm,6 MB,DDR3,,"Apr 29th, 2012",335.31,4783,1997,62.11,Desktop
+AMD A8-9600,,4,3.1,3.4,65,Radeon R7 (on-die),False,Bristol Ridge,Socket AM4,28 nm,,DDR4,"X370, B350, A320","Jul 27th, 2017",98.99,3291,1486,50.62,Desktop
+Intel Core i5-8500T,,6,2.1,3.5,35,Intel UHD Graphics 630,False,Coffee Lake,Socket 1151,14 nm,9 MB,DDR4,,"Apr 2nd, 2018",247.53,7699,2045,219.98,Desktop
+Intel Core i5-7640X,148.63,4,4.0,4.2,112,,False,Kaby Lake-X,Socket 2066,14 nm,6 MB,DDR4,,"Jun 26th, 2017",65.0,6675,2511,59.6,Desktop
+Intel Core i7-870,,4,2.93,2.93,95,,True,Lynnfield,Socket 1156,45 nm,8 MB,DDR3,,"Sep 8th, 2009",199.88,3074,1392,32.36,Desktop
+Intel Core i5-9500F,,6,3.0,4.4,65,,False,Coffee Lake,Socket 1151,14 nm,9 MB,DDR4,,"Apr 23rd, 2019",182.0,10330,2676,158.92,Desktop
+Intel Xeon E5-4620,50.0,8,2.2,2.6,95,,True,Sandy Bridge-EP,Socket 2011,32 nm,16 MB,DDR3,,"May 14th, 2012",71.96,6830,1239,71.89,Server
+Intel Core i5-3450,245.33,4,3.1,3.1,77,Intel HD Graphics 2500,False,Ivy Bridge,Socket 1155,22 nm,6 MB,DDR3,,"Apr 29th, 2012",239.95,4497,1887,58.41,Desktop
+Intel Core i5-2380P,,4,3.1,3.1,95,,False,Sandy Bridge,Socket 1155,32 nm,6 MB,DDR3,,"Jan 30th, 2012",77.74,3797,1607,39.97,Desktop
+Intel Core i3-3240,116.69,2,3.4,3.4,55,Intel HD Graphics 2500,True,Ivy Bridge,Socket 1155,22 nm,3 MB,DDR3,,"Sep 3rd, 2012",42.17,2287,1805,41.57,Desktop
+Intel Core i7-980X,153.64,6,3.33,3.33,130,,True,Gulftown,Socket 1366,32 nm,12 MB,DDR3,,"Mar 16th, 2010",144.62,6813,1532,52.41,Desktop
+Intel Core i7-950,113.69,4,3.06,3.06,130,,True,Bloomfield,Socket 1366,45 nm,8 MB,DDR3,,"Jun 2nd, 2009",264.88,3154,1394,24.26,Desktop
+Intel Core i7-4770S,150.61,4,3.1,3.1,65,Intel HD Graphics 4600,True,Haswell,Socket 1150,22 nm,8 MB,DDR3,"Z87, H87, Z97, H97","Jun 2nd, 2013",1270.0,6819,2148,104.91,Desktop
+Intel Core i3-6300,89.01,2,3.8,3.8,51,Intel HD Graphics 530,True,Skylake,Socket 1151,14 nm,4 MB,DDR4,,"Sep 1st, 2015",163.49,4386,2295,86.0,Desktop
+Intel Core i5-650,,2,3.2,3.2,73,Intel HD Graphics,True,Clarkdale,Socket 1156,32 nm,4 MB,DDR3,"Intel H57, Intel H55, Intel P55","Jan 7th, 2010",33.98,2215,1386,30.34,Desktop
+Intel Xeon E3-1230 V2,271.85,4,3.3,3.3,69,,True,Ivy Bridge,Socket 1155,22 nm,8 MB,DDR3,,"May 14th, 2012",61.97,6192,1994,89.75,Server
+AMD Athlon 240GE,104.39,2,3.5,3.5,35,Radeon Vega 3,True,Zen,Socket AM4,14 nm,4 MB,DDR4,"AMD 300 Series, AMD 400 Series","Dec 21st, 2018",138.0,4551,1986,130.03,Desktop
+Intel Celeron G4920,79.95,2,3.2,3.2,65,Intel UHD Graphics 610,False,Coffee Lake,Socket 1151,14 nm,6 MB,DDR4,,"Apr 3rd, 2018",212.73,2406,1965,44.56,Desktop
+Intel Core i5-2320,255.39,4,3.0,3.0,95,Intel HD Graphics 2000,False,Sandy Bridge,Socket 1155,32 nm,6 MB,DDR3,,"Sep 4th, 2011",303.5,3632,1512,38.23,Desktop
+Intel Core i5-3350P,,4,3.1,3.1,69,,False,Ivy Bridge,Socket 1155,22 nm,6 MB,DDR3,,"Sep 3rd, 2012",165.0,4237,1783,61.4,Desktop
+Intel Core i5-4590S,,4,3.0,3.7,65,Intel HD Graphics 4000,False,Haswell,Socket 1150,22 nm,6 MB,DDR3,,"May 1st, 2014",260.0,5095,2052,78.39,Desktop
+Intel Celeron G3930,55.0,2,2.9,2.9,51,Intel HD Graphics 610,False,Kaby Lake,Socket 1151,14 nm,2 MB,DDR4,,"Jan 3rd, 2017",179.88,2270,1794,44.51,Desktop
+Intel Core i5-750,102.0,4,2.66,2.66,95,,False,Lynnfield,Socket 1156,45 nm,8 MB,DDR3,,"Sep 8th, 2009",200.0,2495,1242,26.27,Desktop
+AMD Phenom II X4 955,,4,3.2,3.2,125,,False,Deneb,Socket AM3,45 nm,6 MB,DDR3,"AMD 700 Series, AMD 800 Series, AMD 900 Series, nForce 630a, nForce 700a, nForce 900a","Apr 1st, 2009",176.18,2432,1304,19.46,Desktop
+AMD Athlon II 160u,,1,1.8,1.8,20,,False,,,,,,,,29.99,358,717,17.89,Desktop
+Intel Core i5-760,219.0,4,2.8,2.8,95,,False,Lynnfield,Socket 1156,45 nm,8 MB,DDR3,,"Jul 18th, 2010",265.0,2599,1309,27.36,Desktop
+Intel Core i7-4771,,4,3.5,3.9,84,Intel HD Graphics 4600,True,Haswell,Socket 1150,22 nm,8 MB,DDR3,"Z87, H87, Z97, H97","Sep 1st, 2013",196.86,7074,2190,84.21,Desktop
+Intel Core i7-5775C,220.0,4,3.3,3.7,65,Iris Pro Graphics 6200,True,Broadwell,Socket 1150,14 nm,6 MB,DDR3,"Z97, H97","May 15th, 2015",174.95,7801,2318,120.02,Desktop
+Intel Core i7-3770S,183.0,4,3.1,3.1,65,Intel HD Graphics 4000,True,Ivy Bridge,Socket 1155,22 nm,8 MB,DDR3,,"Apr 29th, 2012",114.0,6178,2034,95.05,Desktop
+Intel Core i7-990X,,6,3.467,3.467,130,,True,Gulftown,Socket 1366,32 nm,12 MB,DDR3,,"Feb 24th, 2011",1500.19,7137,1600,54.9,Desktop
+Intel Pentium E5700,,2,3.0,3.0,65,,False,Wolfdale,Socket 775,45 nm,,"DDR1, DDR2, DDR3",,"Aug 8th, 2010",49.99,1017,1169,15.65,Desktop
+Intel Core i3-4370,96.95,2,3.8,3.8,54,Intel HD Graphics 4600,True,Haswell,Socket 1150,22 nm,4 MB,DDR3,,"Jul 21st, 2014",299.0,3807,2126,70.49,Desktop
+Intel Pentium E2200,,2,2.2,2.2,65,,False,Allendale,Socket 775,65 nm,,"DDR1, DDR2, DDR3",,"Dec 2nd, 2007",54.0,752,841,11.57,Desktop
+Intel Pentium G4600,,2,3.6,3.6,51,Intel HD Graphics 630,True,Kaby Lake,Socket 1151,14 nm,3 MB,DDR4,,"Jan 3rd, 2017",104.94,3605,2186,70.69,Desktop
+Intel Core i9-9900T,,8,2.1,4.4,35,Intel UHD Graphics 630,True,Coffee Lake-R,Socket 1151,14 nm,16 MB,DDR4,,"Apr 23rd, 2019",439.0,13947,2505,398.49,Desktop
+Intel Core i7-940,78.67,4,2.93,2.93,130,,True,Bloomfield,Socket 1366,45 nm,8 MB,DDR3,,"Nov 17th, 2008",49.0,3066,1345,23.58,Desktop
+Intel Core i5-6500T,,4,2.5,3.1,35,Intel HD Graphics 530,False,Skylake,Socket 1151,14 nm,6 MB,"DDR3, DDR4","Intel 100 Series, Intel 200 Series","Jul 2nd, 2015",221.52,4845,1831,138.42,Desktop
+Intel Core i5-3470S,,4,2.9,2.9,65,Intel HD Graphics 2500,False,Ivy Bridge,Socket 1155,22 nm,6 MB,DDR3,,"Jun 1st, 2012",69.0,4353,1900,66.97,Desktop
+Intel Pentium G3220,,2,3.0,3.0,54,Intel HD Graphics,False,Haswell,Socket 1150,22 nm,3 MB,DDR3,,"Sep 1st, 2013",64.8,1849,1695,34.24,Desktop
+Intel Pentium G2030,,2,3.0,3.0,55,Intel HD Graphics,False,,,,,,,,29.0,1711,1599,31.11,Desktop
+AMD A10-7890K,,4,4.1,4.3,95,Radeon R7 (on-die),False,Godaveri,Socket FM2+,28 nm,,DDR3,"A88X, A85X, A78, A75, A68H","Jan 11th, 2016",161.99,3477,1566,36.6,Desktop
+Intel Core i3-10320,159.18,4,3.8,4.6,65,Intel UHD Graphics 630,True,Comet Lake,Socket 1200,14 nm,8 MB,DDR4,,"Apr 30th, 2020",133.95,10115,2848,155.61,Desktop
+Intel Xeon E-2136,399.99,6,3.3,4.5,80,,True,Coffee Lake-S WS,Socket 1151,14 nm,12 MB,DDR4,"C242, C246","Jul 12th, 2018",321.99,13356,2711,166.96,Server
+Intel Core i5-7500T,199.95,4,2.7,3.3,35,Intel HD Graphics 630,False,Kaby Lake,Socket 1151,14 nm,6 MB,DDR4,,"Jan 3rd, 2017",188.98,5319,1964,151.97,Desktop
+Intel Core i5-4570S,163.93,4,2.9,2.9,65,Intel HD Graphics 4600,False,Haswell,Socket 1150,22 nm,6 MB,DDR3,,"Jun 2nd, 2013",169.59,4914,1981,75.59,Desktop
+Intel Core i3-3250,74.98,2,3.5,3.5,55,Intel HD Graphics 2500,True,Ivy Bridge,Socket 1155,22 nm,3 MB,DDR3,"Intel 60 Series, Intel 70 Series","Jun 9th, 2013",82.9,2401,1830,43.65,Desktop
+Intel Pentium E5300,59.49,2,2.6,2.6,65,,False,Wolfdale,Socket 775,45 nm,,"DDR1, DDR2, DDR3",,"Nov 30th, 2008",59.49,906,1032,13.93,Desktop
+Intel Core i3-8300,,4,3.7,3.7,62,Intel UHD Graphics 630,False,Coffee Lake,Socket 1151,14 nm,8 MB,DDR4,,"Feb 14th, 2018",265.7,6136,2262,98.97,Desktop
+Intel Xeon E5-2670,,8,2.6,3.3,115,,True,Sandy Bridge-EP,Socket 2011,32 nm,20 MB,DDR3,,"Mar 6th, 2012",71.0,8902,1477,77.41,Server
+Intel Celeron 430,,1,1.8,1.8,35,,False,Conroe-L,Socket 775,65 nm,,"DDR1, DDR2, DDR3",,"Jun 3rd, 2007",49.99,293,630,8.37,Desktop
+Intel Core i3-4130T,77.14,2,2.9,2.9,35,Intel HD Graphics 4400,True,Haswell,Socket 1150,22 nm,3 MB,DDR3,,"Sep 1st, 2013",248.56,2874,1633,82.12,Desktop
+AMD Phenom II X6 1055T,,6,2.8,2.8,125,,False,Thuban,Socket AM3,45 nm,6 MB,"DDR2, DDR3","AMD 700 Series, AMD 800 Series, AMD 900 Series, nForce 630a, nForce 700a, nForce 900a","May 1st, 2010",46.36,3195,1314,25.56,Desktop
+Intel Core i3-9300,248.0,4,3.7,4.3,62,Intel UHD Graphics 630,False,Coffee Lake,Socket 1151,14 nm,8 MB,,,"Apr 23rd, 2019",194.99,7279,2666,117.4,Desktop
+Intel Core i5-4440S,123.85,4,2.8,3.3,65,Intel HD Graphics 4600,False,Haswell,Socket 1150,22 nm,6 MB,,,"Sep 1st, 2013",188.0,4277,1790,65.79,Desktop
+Intel Core i5-8400T,,6,1.7,3.3,35,Intel UHD Graphics 630,False,Coffee Lake,Socket 1151,14 nm,9 MB,,,"Apr 2nd, 2018",239.84,7447,1924,212.77,Desktop
+Intel Core i5-4570T,128.8,2,2.9,2.9,35,Intel HD Graphics 4600,True,Haswell,Socket 1150,22 nm,4 MB,,,"Jun 2nd, 2013",464.64,3136,1874,89.59,Desktop
+Intel Core i7-3970X,239.87,6,3.5,3.5,150,,True,Sandy Bridge-E,Socket 2011,32 nm,15 MB,,,"Nov 1st, 2012",187.0,8373,1832,55.82,Desktop
+AMD A8-7650K,,4,3.3,3.7,95,Radeon R7 (on-die),False,Kaveri,Socket FM2+,28 nm,,DDR3,"A88X, A85X, A78, A75, A68H","Jan 7th, 2015",39.62,3013,1372,46.36,Desktop
+AMD Athlon II X4 630,52.6,4,2.8,2.8,95,,False,Propus,Socket AM3,45 nm,,DDR3,,"Sep 16th, 2009",48.04,2093,1138,22.04,Desktop
+Intel Core i7-3960X,782.9,6,3.3,3.3,130,,True,Sandy Bridge-E,Socket 2011,32 nm,15 MB,DDR3,,"Nov 14th, 2011",159.99,8596,1816,66.12,Desktop
+Intel Celeron G1610,,2,2.6,2.6,55,Intel HD Graphics,False,Ivy Bridge,Socket 1155,22 nm,2 MB,DDR3,,"Dec 3rd, 2012",37.0,1478,1359,26.88,Desktop
+Intel Core i5-2300,,4,2.8,2.8,95,Intel HD Graphics 2000,False,Sandy Bridge,Socket 1155,32 nm,6 MB,DDR3,,"Jan 9th, 2011",40.26,3380,1429,35.58,Desktop
+Intel Core i9-9820X,,10,3.3,4.1,165,,True,Skylake-X,Socket 2066,14 nm,16.5 MB,DDR4,,"Oct 19th, 2018",685.0,18288,2406,110.84,Desktop
+Intel Pentium Gold G6500,89.99,2,4.1,4.1,58,Intel UHD Graphics 630,True,Comet Lake,Socket 1200,14 nm,4 MB,DDR4,,"Apr 30th, 2020",96.99,4147,2491,71.5,Desktop
+Intel Core i7-930,271.69,4,2.8,2.8,130,,True,Bloomfield,Socket 1366,45 nm,8 MB,DDR3,,"Feb 28th, 2010",29.99,2877,1276,22.13,Desktop
+Intel Core i7-960,379.99,4,3.2,3.2,130,,True,Bloomfield,Socket 1366,45 nm,8 MB,DDR3,,"Oct 20th, 2009",298.61,3245,1452,24.96,Desktop
+Intel Core i7-6700T,,4,2.8,3.6,35,Intel HD Graphics 530,True,Skylake,Socket 1151,14 nm,8 MB,DDR4,,"Sep 1st, 2015",299.0,7271,2091,207.74,Desktop
+AMD Athlon X4 880K,,4,4.0,4.2,95,,False,Godaveri,Socket FM2+,28 nm,,DDR3,"A88X, A85X, A78, A75, A68H",Dec-15,94.65,3676,1628,38.69,Desktop
+Intel Xeon E-2278G,,8,3.4,5.0,80,Intel HD Graphics P630,True,Coffee Lake-S WS,Socket 1151,14 nm,16 MB,DDR4,"C242, C246","May 29th, 2019",494.0,17706,2951,221.33,Server
+Intel Pentium G3420,62.25,2,3.2,3.2,54,Intel HD Graphics,False,Haswell,Socket 1150,22 nm,3 MB,DDR3,,"Sep 1st, 2013",49.95,1990,1805,36.86,Desktop
+Intel Celeron E3400,,2,2.6,2.6,65,,False,Wolfdale,Socket 775,45 nm,,"DDR1, DDR2, DDR3",,"Jan 17th, 2010",14.99,829,1007,12.76,Desktop
+AMD A10-7870K,324.6,4,3.9,4.1,95,Radeon R7 (on-die),False,Godaveri,Socket FM2+,28 nm,,DDR3,"A88X, A85X, A78, A75, A68H","May 28th, 2015",382.46,3485,1510,36.69,Desktop
+Intel Core i3-6098P,81.63,2,3.6,3.6,54,Intel HD Graphics 510,True,,,,,,,,325.0,4170,2160,77.23,Desktop
+Intel Pentium Gold G5400T,98.95,2,3.1,3.1,35,Intel UHD Graphics 610,True,Coffee Lake,Socket 1151,14 nm,4 MB,DDR4,,"Apr 2nd, 2018",109.95,3119,1807,89.12,Server
+Intel Core i3-9100T,,4,3.1,3.7,35,Intel UHD Graphics 630,False,Coffee Lake,Socket 1151,14 nm,6 MB,DDR4,,"Sep 1st, 2018",122.0,5419,2106,154.82,Desktop
+Intel Core i5-3340,278.02,4,3.1,3.3,77,Intel HD Graphics 2500,False,Ivy Bridge,Socket G2 (988B),22 nm,3 MB,unknown,,"Jan 1st, 2013",195.0,4165,1771,54.09,Desktop
+AMD Phenom II X4 820,56.64,4,2.8,2.8,95,,False,Deneb,Socket AM3,45 nm,4 MB,DDR3,"AMD 700 Series, AMD 800 Series, AMD 900 Series, nForce 630a, nForce 700a, nForce 900a","Sep 1st, 2009",69.95,2103,1138,22.14,Desktop
+Intel Core i3-3210,199.0,2,3.2,3.2,55,Intel HD Graphics 2500,True,Ivy Bridge,Socket 1155,22 nm,3 MB,DDR3,,"Jan 1st, 2013",70.0,2112,1695,38.4,Desktop
+Intel Core i5-4460S,,4,2.9,3.4,65,Intel HD Graphics 4000,False,Haswell,Socket 1150,22 nm,6 MB,DDR3,"Intel 80 Series, Intel 90 Series","May 11th, 2014",659.99,4503,1847,69.28,Desktop
+Intel Core i5-7400T,,4,2.4,3.0,35,Intel HD Graphics 630,False,Kaby Lake,Socket 1151,14 nm,6 MB,DDR4,,"Jan 3rd, 2017",174.85,4710,1763,134.57,Desktop
+AMD A12-9800E,138.02,4,3.1,3.8,35,Radeon R7 (on-die),False,Bristol Ridge,Socket AM4,28 nm,,DDR4,"X370, B350, A320","Jul 27th, 2017",169.0,3182,1551,90.92,Desktop
+Intel Core i5-3450S,95.0,4,2.8,2.8,65,Intel HD Graphics 2500,False,Ivy Bridge,Socket 1155,22 nm,6 MB,DDR3,,"Apr 29th, 2012",95.0,4264,1851,65.59,Desktop
+AMD A6-7470K,89.0,2,3.7,4.0,65,Radeon R5 (on die),False,Godaveri,Socket FM2+,28 nm,,DDR3,"A88X, A85X, A78, A75, A68H","Feb 2nd, 2016",35.22,1799,1576,27.68,Desktop
+Intel Core i9-7940X,,14,3.1,4.4,165,,True,Skylake-X,Socket 2066,14 nm,19.25 MB,DDR4,,"Sep 1st, 2017",548.87,26508,2490,160.65,Desktop
+Intel Core i3-7320,80.01,2,4.1,4.1,51,Intel HD Graphics 630,True,Kaby Lake,Socket 1151,14 nm,4 MB,DDR4,,"Jan 3rd, 2017",177.19,4856,2499,95.21,Desktop
+Intel Core i9-9960X,1399.99,16,3.1,4.4,165,,True,Skylake-X,Socket 2066,14 nm,22 MB,DDR4,,"Oct 19th, 2018",1498.95,30655,2631,185.79,Desktop
+Intel Core i5-9500T,,6,2.2,3.7,35,Intel UHD Graphics 630,False,Coffee Lake,Socket 1151,14 nm,9 MB,DDR4,"Z390, Z370, H370, Q370, B360, B365, H610","Apr 1st, 2018",192.0,8256,2200,235.88,Desktop
+Intel Xeon E3-1240 V2,345.0,4,3.4,3.4,69,,True,Ivy Bridge,Socket 1155,22 nm,8 MB,DDR3,,"May 14th, 2012",99.99,6301,2044,91.32,Server
+Intel Core i7-970,,6,3.2,3.2,130,,True,Gulftown,Socket 1366,32 nm,12 MB,DDR3,,"Jul 19th, 2010",520.0,6499,1455,49.99,Desktop
+Intel Core i5-6600T,294.98,4,2.7,3.5,35,Intel HD Graphics 530,False,Skylake,Socket 1151,14 nm,6 MB,,,"Jul 2nd, 2015",121.98,5655,2096,161.56,Desktop
+Intel Core i3-8100T,,4,3.1,3.1,35,Intel UHD Graphics 630,False,Coffee Lake,Socket 1151,14 nm,6 MB,,,"Apr 2nd, 2018",262.83,5291,1922,151.18,Desktop
+Intel Core i5-4590T,,4,2.0,2.0,35,Intel HD Graphics 4000,True,Haswell,Socket 1150,22 nm,6 MB,,,"May 11th, 2014",209.95,3982,1648,113.78,Desktop
+Intel Core i7-4790T,185.86,4,2.7,3.9,45,,True,Haswell,Socket 1150,22 nm,8 MB,,,"May 1st, 2014",893.0,6291,2100,139.81,Desktop
+Intel Celeron G3920,495.09,2,2.6,2.6,35,Intel HD Graphics 510,False,Skylake,Socket 1151,14 nm,4 MB,"DDR3, DDR4",,"Sep 1st, 2015",1018.0,2310,1740,45.3,Desktop
+Intel Core i7-2600S,365.0,4,2.8,2.8,65,Intel HD Graphics 2000,True,Sandy Bridge,Socket 1155,32 nm,8 MB,DDR3,,"Jan 9th, 2011",284.0,4524,1712,69.61,Desktop
+Intel Core i3-7100T,105.97,2,3.4,3.4,35,Intel HD Graphics 630,True,Kaby Lake,Socket 1151,14 nm,3 MB,DDR4,,"Jan 3rd, 2017",149.88,3787,2007,108.2,Desktop
+Intel Core i9-9940X,1205.04,14,3.3,4.4,165,,True,Skylake-X,Socket 2066,14 nm,19.25 MB,DDR4,,"Oct 19th, 2018",841.4,28411,2647,172.19,Desktop
+AMD Athlon II X2 250,,2,3.0,3.0,65,,False,Regor,Socket AM3,45 nm,,DDR3,,"Jun 2nd, 2009",38.95,1083,1155,16.66,Desktop
+Intel Core i3-550,99.99,2,3.2,3.2,73,Intel HD Graphics,True,Clarkdale,Socket 1156,32 nm,4 MB,DDR3,"Intel H57, Intel H55, Intel P55","May 30th, 2010",18.46,1588,1342,21.75,Desktop
+Intel Core i3-2130,,2,3.4,3.4,65,Intel HD Graphics 2000,True,Sandy Bridge,Socket 1155,32 nm,3 MB,DDR3,"Z77, Z75, Q77, H77, Q75, B75, Z68, P67, H67, Q67, B65, H61","Sep 4th, 2011",67.15,1986,1557,30.55,Desktop
+Intel Core i5-5675C,,4,3.1,3.6,65,Iris Pro Graphics 6200,False,Broadwell,Socket 1150,14 nm,4 MB,DDR3,"Z97, H97","May 15th, 2015",258.34,5548,2251,85.36,Desktop
+Intel Core i5-2310,,4,2.9,2.9,95,Intel HD Graphics 2000,False,Sandy Bridge,Socket 1155,32 nm,6 MB,DDR3,,"May 22nd, 2011",77.74,3603,1495,37.93,Desktop
+Intel Xeon E5-1620,,4,3.6,3.8,130,,True,Sandy Bridge-E,Socket 2011,32 nm,10 MB,DDR3,,"Mar 6th, 2012",179.91,5871,1774,45.16,Server
+AMD Opteron 6378,,16,2.4,3.3,115,,False,Abu Dhabi,Socket G34,32 nm,8 MB,DDR3,,"Nov 5th, 2012",1709.92,5889,1127,51.21,Server
+Intel Core i9-9900X,,10,3.5,4.4,165,,True,Skylake-X,Socket 2066,14 nm,19.25 MB,DDR4,,"Oct 19th, 2018",654.99,21868,2604,132.54,Desktop
+Intel Pentium G3460,54.49,2,3.5,3.5,53,Intel HD Graphics,False,Haswell,Socket 1150,22 nm,3 MB,DDR3,,"Jul 21st, 2014",65.41,2165,1954,40.84,Desktop
+Intel Core i7-875K,205.86,4,2.93,2.93,95,,True,Lynnfield,Socket 1156,45 nm,8 MB,DDR3,"H55, H57, P55","May 30th, 2010",368.88,3119,1374,32.83,Desktop
+Intel Core i5-2550K,,4,3.4,3.4,95,,False,Sandy Bridge,Socket 1155,32 nm,6 MB,DDR3,"Z77, Z75, Q77, H77, Q75, B75, Z68, P67, H67, Q67, B65, H61","Jan 30th, 2012",148.56,4123,1754,43.4,Desktop
+Intel Core i7-980,556.02,6,3.333,3.333,130,,True,Gulftown,Socket 1366,32 nm,12 MB,DDR3,,"Jun 26th, 2011",160.19,7018,1558,53.99,Desktop
+Intel Core i5-7600T,147.91,4,2.8,3.7,35,Intel HD Graphics 630,False,Kaby Lake,Socket 1151,14 nm,6 MB,DDR4,,"Jan 3rd, 2017",298.0,6073,2231,173.5,Desktop
+AMD Phenom II X4 945,,4,3.0,3.0,125,,False,Deneb,Socket AM3,45 nm,6 MB,DDR3,"AMD 700 Series, AMD 800 Series, AMD 900 Series, nForce 630a, nForce 700a, nForce 900a","Jul 22nd, 2009",27.5,2261,1226,18.09,Desktop
+Intel Core i5-4690S,,4,3.2,3.9,65,Intel HD Graphics 4600,False,Haswell,Socket 1150,22 nm,6 MB,DDR3,"Intel 80 Series, Intel 90 Series","May 1st, 2014",138.47,5380,2186,82.77,Desktop
+AMD A6-9500E,,2,3.0,3.4,35,Radeon R5 (on die),False,Bristol Ridge,Socket AM4,28 nm,,DDR4,"X370, B350, A320","Sep 5th, 2016",74.0,1662,1493,47.5,Desktop
+AMD A6-7480,,2,3.5,3.8,65,Radeon R5 (on die),False,Carrizo,Socket FM2+,28 nm,,DDR3,,"Oct 26th, 2018",37.42,1931,1638,29.71,Desktop
+Intel Pentium Gold G6600,66.0,2,4.2,4.2,58,Intel UHD Graphics 630,True,Comet Lake,Socket 1200,14 nm,4 MB,DDR4,,"Apr 30th, 2020",107.35,4396,2577,75.8,Desktop
+AMD Athlon X4 845,150.0,4,3.5,3.8,65,,False,Carrizo,Socket FM2+,28 nm,,DDR3,"A88X, A85X, A78, A75, A68H","Feb 2nd, 2016",73.58,3784,1680,58.22,Desktop
+Intel Core i3-4330,96.95,2,3.5,3.5,54,Intel HD Graphics 4600,True,Haswell,Socket 1150,22 nm,4 MB,DDR3,,"Sep 1st, 2013",123.37,3539,1982,65.55,Desktop
+AMD A10-9700E,,4,3.0,3.5,35,Radeon R7 (on-die),False,Bristol Ridge,Socket AM4,28 nm,,DDR4,"X370, B350, A320","Jul 27th, 2017",139.0,2896,1333,82.74,Desktop
+AMD Phenom II X6 1045T,,6,2.7,2.7,95,,False,Thuban,Socket AM3,45 nm,6 MB,"DDR2, DDR3","AMD 700 Series, AMD 800 Series, AMD 900 Series, nForce 630a, nForce 700a, nForce 900a","Sep 1st, 2010",45.0,3034,1287,31.94,Desktop
+Intel Celeron G5920,59.97,2,3.5,3.5,58,Intel UHD Graphics 610,False,Comet Lake,Socket 1200,14 nm,2 MB,DDR4,,"Apr 30th, 2020",61.99,2482,2151,42.79,Desktop
+Intel Core i3-560,129.94,2,3.333,3.333,73,Intel HD Graphics,True,Clarkdale,Socket 1156,32 nm,4 MB,DDR3,"Intel H57, Intel H55, Intel P55","Aug 29th, 2010",36.97,1696,1379,23.23,Desktop
+Intel Xeon E-2236,435.0,6,3.4,4.8,80,,True,Coffee Lake-S WS,Socket 1151,14 nm,12 MB,DDR4,"C242, C246","May 29th, 2019",327.31,14307,2851,178.84,Server
+Intel Celeron G4930,96.0,2,3.2,3.2,54,Intel UHD Graphics 610,False,,,,,,,,107.41,2571,1999,47.61,Desktop
+Intel Pentium G620,,2,2.6,2.6,65,Intel HD Graphics,False,Sandy Bridge,Socket 1155,32 nm,3 MB,DDR3,,"May 22nd, 2011",11.99,1207,1203,18.57,Desktop
+Intel Core i5-3570S,,4,3.1,3.8,65,Intel HD Graphics 2500,False,Ivy Bridge,Socket 1155,22 nm,6 MB,DDR3,,"Jun 1st, 2012",66.9,4620,1996,71.08,Desktop
+Intel Xeon E-2288G,,8,3.7,5.0,95,Intel HD Graphics P630,True,Coffee Lake-S WS,Socket 1151,14 nm,16 MB,DDR4,"C242, C246","May 29th, 2019",539.0,17313,2927,182.24,Server
+Intel Core i3-6100T,289.95,2,3.2,3.2,35,Intel HD Graphics 530,True,Skylake,Socket 1151,14 nm,3 MB,"DDR3, DDR4",,"Sep 1st, 2015",999.0,3617,1891,103.35,Desktop
+Intel Core i3-2120T,,2,2.6,2.6,35,Intel HD Graphics 2000,True,Sandy Bridge,Socket 1155,32 nm,3 MB,DDR3,"Z77, Z75, Q77, H77, Q75, B75, Z68, P67, H67, Q67, B65, H61","Sep 4th, 2011",133.89,1486,1144,42.47,Desktop
+Intel Xeon E3-1270 V2,,4,3.5,3.5,69,,True,Ivy Bridge,Socket 1155,22 nm,8 MB,DDR3,,"May 14th, 2012",84.99,6431,2064,93.2,Server
+Intel Core i3-6300T,90.03,2,3.3,3.3,35,Intel HD Graphics 530,True,,,,,,,,140.59,4040,2055,115.43,Desktop
+Intel Core i3-6320,106.6,2,3.9,3.9,51,Intel HD Graphics 530,True,Skylake,Socket 1151,14 nm,4 MB,DDR4,,"Sep 1st, 2015",145.0,4372,2343,85.73,Desktop
+Intel Core i3-4340,94.88,2,3.6,3.6,54,Intel HD Graphics 4600,True,Haswell,Socket 1150,22 nm,4 MB,DDR3,,"Sep 1st, 2013",149.99,3506,2027,64.93,Desktop
+AMD Athlon X4 870K,,4,3.9,4.1,95,,False,Godaveri,Socket FM2+,28 nm,,DDR3,"A88X, A85X, A78, A75, A68H",Dec-15,40.28,3383,1543,35.61,Desktop
+Intel Pentium G3250,65.72,2,3.2,3.2,53,Intel HD Graphics,False,Haswell,Socket 1150,22 nm,3 MB,DDR3,,"Jul 21st, 2014",75.0,1928,1811,36.37,Desktop
+Intel Core i3-540,149.94,2,3.06,3.06,73,Intel HD Graphics,True,Clarkdale,Socket 1156,32 nm,4 MB,DDR3,"Intel H57, Intel H55, Intel P55","Jan 7th, 2010",179.95,1516,1264,20.77,Desktop
+Intel Core i7-975,,4,3.33,3.33,130,,True,Bloomfield,Socket 1366,45 nm,8 MB,DDR3,,"Jun 2nd, 2009",770.0,3370,1508,25.92,Desktop
+Intel Xeon E5-2690,,8,2.9,3.8,135,,True,Sandy Bridge-EP,Socket 2011,32 nm,20 MB,DDR3,,"Mar 6th, 2012",135.4,9832,1657,72.83,Server
+Intel Core i7-9700T,,8,2.0,4.3,35,Intel HD Graphics 630,False,Coffee Lake,Socket 1151,14 nm,12 MB,DDR4,,"Apr 23rd, 2019",323.0,10736,2445,306.74,Desktop
+Intel Core i9-9920X,,12,3.5,4.4,165,,True,Skylake-X,Socket 2066,14 nm,19.25 MB,DDR4,,"Oct 19th, 2018",999.0,25291,2621,153.28,Desktop
+Intel Xeon E-2286G,1427.23,6,4.0,4.9,95,Intel HD Graphics P630,True,Coffee Lake-S WS,Socket 1151,14 nm,12 MB,DDR4,"C242, C246","May 29th, 2019",551.26,14384,2846,151.41,Server
+AMD Athlon II X3 450,,3,3.2,3.2,95,,False,,,,,,,,28.02,1763,1292,18.56,Desktop
+Intel Xeon E3-1220 V2,,4,3.1,3.1,69,,False,Ivy Bridge,Socket 1155,22 nm,8 MB,DDR3,,"May 14th, 2012",93.0,4691,1898,67.98,Server
+Intel Xeon E3-1275 V2,374.0,4,3.5,3.5,77,Intel HD Graphics P4000,True,Ivy Bridge,Socket 1155,22 nm,8 MB,DDR3,,"May 14th, 2012",384.24,6613,2151,85.89,Server
+Intel Core i5-6400T,,4,2.2,2.8,35,Intel HD Graphics 530,False,,,,,,,,159.99,4302,1652,122.91,Desktop
+Intel Core i5-3330S,229.95,4,2.7,3.2,65,Intel HD Graphics 2500,False,Ivy Bridge,Socket 1155,22 nm,6 MB,DDR3,,"Sep 3rd, 2012",199.95,3810,1691,58.61,Desktop
+Intel Xeon E-2104G,336.75,4,3.2,3.2,65,Intel HD Graphics P630,False,Coffee Lake-S WS,Socket 1151,14 nm,8 MB,DDR4,"C242, C246","Jul 12th, 2018",510.0,6057,1963,93.19,Server
+Intel Xeon E-2274G,567.99,4,4.0,4.9,83,Intel HD Graphics P630,True,Coffee Lake-S WS,Socket 1151,14 nm,8 MB,DDR4,"C242, C246","May 29th, 2019",334.0,9660,2758,116.39,Server
+AMD Athlon II X4 620,59.49,4,2.6,2.6,95,,False,Propus,Socket AM3,45 nm,,DDR3,,"Sep 16th, 2009",54.95,1934,1054,20.36,Desktop
+Intel Pentium E2140,79.95,2,1.6,1.6,65,,False,Allendale,Socket 775,65 nm,,"DDR1, DDR2, DDR3",,"Jun 3rd, 2007",79.95,549,605,8.45,Desktop
+Intel Core i3-3225,,2,3.3,3.3,55,Intel HD Graphics 4000,True,Ivy Bridge,Socket 1155,22 nm,3 MB,DDR3,,"Sep 3rd, 2012",200.0,2222,1688,40.4,Desktop
+Intel Xeon E5-2687W,,8,3.1,3.8,150,,True,Sandy Bridge-EP,Socket 2011,32 nm,20 MB,,,"Mar 6th, 2012",192.0,9796,1693,65.31,Server
+Intel Core i3-3245,115.0,2,3.4,3.4,55,Intel HD Graphics 4000,True,,,,,,,,149.0,2480,1835,45.09,Desktop
+Intel Xeon E5-1650,,6,3.2,3.8,130,,True,Sandy Bridge-E,Socket 2011,32 nm,12 MB,,,"Mar 6th, 2012",112.0,8113,1745,62.41,Server
+Intel Xeon E5-2650L,189.95,8,1.8,2.3,70,,True,Sandy Bridge-EP,Socket 2011,32 nm,20 MB,,,"Mar 6th, 2012",49.0,5929,1091,84.69,Server
+Intel Pentium G4620,,2,3.7,3.7,51,Intel HD Graphics 630,True,Kaby Lake,Socket 1151,14 nm,3 MB,,,"Jan 3rd, 2017",146.0,3777,2268,74.06,Desktop
+Intel Core i3-7300,,2,4.0,4.0,51,Intel HD Graphics 630,True,Kaby Lake,Socket 1151,14 nm,4 MB,,,"Jan 3rd, 2017",299.99,4703,2423,92.23,Desktop
+Intel Core i5-8600T,,6,2.3,3.7,35,Intel UHD Graphics 630,False,Coffee Lake,Socket 1151,14 nm,9 MB,,,"Apr 2nd, 2018",199.99,8227,2180,235.06,Desktop
+Intel Celeron 440,,1,2.0,2.0,35,,False,Conroe-L,Socket 775,65 nm,,,,"Jun 3rd, 2007",49.99,368,444,10.52,Desktop
+Intel Core i3-2105,,2,3.1,3.1,65,Intel HD Graphics 3000,True,Sandy Bridge,Socket 1155,32 nm,3 MB,,,"May 22nd, 2011",113.0,1871,1387,28.78,Desktop
+Intel Pentium G630,,2,2.7,2.7,65,Intel HD Graphics,False,Sandy Bridge,Socket 1155,32 nm,3 MB,,,"Sep 4th, 2011",14.99,1277,1225,19.65,Desktop
+Intel Pentium G3240,,2,3.1,3.1,53,Intel HD Graphics,False,,,,,,,,116.99,1919,1749,36.21,Desktop
+AMD Athlon II X2 270,,2,3.4,3.4,65,,False,Regor,Socket AM3,45 nm,,,,"Jul 1st, 2011",19.99,1234,1353,18.99,Desktop
+Intel Celeron G1620,,2,2.7,2.7,55,Intel HD Graphics,False,Ivy Bridge,Socket 1155,22 nm,2 MB,,,"Dec 3rd, 2012",70.27,1466,1407,26.65,Desktop
+Intel Xeon E5-4650,,8,2.7,3.3,130,,True,Sandy Bridge-EP,Socket 2011,32 nm,20 MB,,,"May 14th, 2012",78.19,8630,1476,66.39,Server
+Intel Core i3-10325,,4,3.9,4.7,65,Intel UHD Graphics 630,True,Comet Lake-R,Socket 1200,14 nm,8 MB,,,"Mar 16th, 2021",154.0,10308,2890,158.59,Desktop
+Intel Core i7-965,798.95,4,3.2,3.2,130,,True,Bloomfield,Socket 1366,45 nm,8 MB,DDR3,,"Nov 17th, 2008",90.97,3288,1452,25.29,Desktop
+AMD Phenom II X4 925,,4,2.8,2.8,95,,False,Deneb,Socket AM3,45 nm,6 MB,DDR2,"AMD 700 Series, AMD 800 Series, AMD 900 Series, nForce 630a, nForce 700a, nForce 900a","May 11th, 2009",21.0,2173,1156,22.87,Desktop
+Intel Core i7-3770T,,4,2.5,3.7,45,Intel HD Graphics 4000,True,Ivy Bridge,Socket 1155,22 nm,8 MB,DDR3,,"Apr 29th, 2012",156.59,5573,1933,123.84,Desktop
+Intel Celeron G5905T,,2,3.3,3.3,35,Intel UHD Graphics 610,False,,,,,,,,42.0,2310,1996,66.01,Desktop
+AMD Opteron 6328,715.11,8,3.2,3.8,115,,False,,,,,,,,343.46,5246,1433,45.62,Server
+AMD Athlon II X4 635,63.14,4,2.9,2.9,95,,False,Propus,Socket AM3,45 nm,,,,"Jan 25th, 2010",19.97,2108,1141,22.19,Desktop
+Intel Xeon E5-2620,58.0,6,2.0,2.0,95,,True,Sandy Bridge-EP,Socket 2011,32 nm,15 MB,,,"Mar 6th, 2012",75.65,5280,1112,55.58,Server
+AMD Sempron 145,,1,2.8,2.8,45,,False,Sargas,Socket AM3,45 nm,,DDR3,,"Sep 1st, 2010",35.99,505,989,11.23,Desktop
+Intel Core i3-4360,,2,3.7,3.7,54,Intel HD Graphics 4600,True,Haswell,Socket 1150,22 nm,4 MB,DDR3,,"May 1st, 2014",199.88,3688,2067,68.29,Desktop
+Intel Core i5-4670S,533.0,4,3.1,3.8,65,Intel HD Graphics 4600,False,Haswell,Socket 1150,22 nm,6 MB,DDR3,,"Jun 2nd, 2013",213.0,4919,2063,75.67,Desktop
+Intel Pentium G4560T,79.98,2,2.9,2.9,35,Intel HD Graphics 610,True,Kaby Lake,Socket 1151,14 nm,3 MB,DDR4,,"Jan 3rd, 2017",231.9,2909,1708,83.11,Desktop
+Intel Pentium Gold G5600,,2,3.9,3.9,54,Intel UHD Graphics 630,True,Coffee Lake,Socket 1151,14 nm,4 MB,DDR4,,"Apr 2nd, 2018",158.0,3769,2291,69.79,Desktop
+Intel Core i5-9400T,,6,1.8,3.4,35,Intel UHD Graphics 630,False,Coffee Lake,Socket 1151,14 nm,9 MB,DDR4,,"Sep 1st, 2018",182.0,7819,2057,223.39,Desktop
+AMD Athlon II X3 435,159.94,3,2.9,2.9,95,,False,Rana,Socket AM3,45 nm,,DDR3,,"Oct 9th, 2009",159.95,1670,1188,17.58,Desktop
+Intel Core i3-3220T,138.0,2,2.8,2.8,35,Intel HD Graphics 2500,True,Ivy Bridge,Socket 1155,22 nm,3 MB,DDR3,,"Sep 3rd, 2012",39.99,1949,1506,55.7,Desktop
+AMD Athlon II X2 260,,2,3.2,3.2,65,,False,Regor,Socket AM3,45 nm,,DDR3,,"May 11th, 2010",39.99,1113,1249,17.12,Desktop
+Intel Pentium E5200,,2,2.5,2.5,65,,False,Wolfdale,Socket 775,45 nm,,"DDR1, DDR2, DDR3",,"Aug 31st, 2008",49.94,867,1006,13.33,Desktop
+Intel Core i5-660,255.29,2,3.33,3.33,73,Intel HD Graphics,True,Clarkdale,Socket 1156,32 nm,4 MB,DDR3,"Intel H57, Intel H55, Intel P55","Jan 7th, 2010",69.0,2352,1435,32.21,Desktop
+Intel Core i7-880,,4,3.06,3.06,95,,True,Lynnfield,Socket 1156,45 nm,8 MB,DDR3,,"May 30th, 2010",338.97,2920,1386,30.74,Desktop
+Intel Pentium E6700,,2,3.2,3.2,65,,False,Wolfdale,Socket 775,45 nm,,"DDR1, DDR2, DDR3",,"May 30th, 2010",140.19,1152,1314,17.72,Desktop
+Intel Xeon E3-1220,115.01,4,3.1,3.1,80,,False,Sandy Bridge,Socket 1155,32 nm,8 MB,DDR3,,"Apr 3rd, 2011",40.26,3855,1582,48.18,Server
+Intel Xeon E3-1230,417.95,4,3.2,3.2,80,,True,Sandy Bridge,Socket 1155,32 nm,8 MB,DDR3,,"Apr 3rd, 2011",270.19,5006,1650,62.58,Server
+Intel Celeron G1840,,2,2.8,2.8,53,Intel HD Graphics,False,Haswell,Socket 1150,22 nm,3 MB,DDR3,,"May 1st, 2014",69.0,1758,1612,33.17,Desktop
+Intel Pentium G3450,,2,3.4,3.4,53,Intel HD Graphics,False,Haswell,Socket 1150,22 nm,3 MB,DDR3,,"May 1st, 2014",57.97,2091,1836,39.44,Desktop
+AMD Athlon II X2 220,64.49,2,2.8,2.8,65,,False,Regor,Socket AM3,45 nm,,DDR3,,"Sep 21st, 2010",59.95,1024,1105,15.75,Desktop
+AMD Phenom II X4 830,59.58,4,2.8,2.8,95,,False,Deneb,Socket AM3,45 nm,4 MB,DDR3,"AMD 700 Series, AMD 800 Series, AMD 900 Series, nForce 630a, nForce 700a, nForce 900a","Sep 1st, 2009",19.01,2022,1083,21.29,Unknown
+Intel Celeron G530,65.86,2,2.4,2.4,65,Intel HD Graphics,False,Sandy Bridge,Socket 1155,32 nm,2 MB,DDR3,,"Sep 4th, 2011",48.99,1096,1078,16.86,Desktop
+Intel Xeon E3-1245 V2,367.5,4,3.4,3.4,77,Intel HD Graphics P4000,True,Ivy Bridge,Socket 1155,22 nm,8 MB,DDR3,,"May 14th, 2012",367.5,6316,2042,82.02,Server
+Intel Xeon E-2134,,4,3.5,4.5,71,,True,Coffee Lake-S WS,Socket 1151,14 nm,8 MB,DDR4,"C242, C246","Jul 12th, 2018",297.57,8741,2569,123.11,Server
+Intel Core i5-661,99.5,2,3.33,3.33,87,Intel HD Graphics,True,Clarkdale,Socket 1156,32 nm,4 MB,DDR3,"Intel H57, Intel H55, Intel P55","Jan 7th, 2010",200.19,2462,1455,28.3,Desktop
+AMD Sempron 140,,1,2.7,2.7,45,,False,Sargas,Socket AM3,45 nm,,DDR3,,"Jul 22nd, 2009",11.95,471,1044,10.47,Desktop
+Intel Pentium E5800,,2,3.2,3.2,65,,False,Wolfdale,Socket 775,45 nm,,"DDR1, DDR2, DDR3",,"Nov 28th, 2010",139.95,1165,1314,17.93,Desktop
+AMD Athlon II X4 645,,4,3.1,3.1,95,,False,Propus,Socket AM3,45 nm,,DDR3,,"Sep 21st, 2010",28.85,2298,1264,24.19,Desktop
+Intel Pentium G645,84.0,2,2.9,2.9,65,Intel HD Graphics 2500,False,Sandy Bridge,Socket 1155,32 nm,3 MB,DDR3,,"Sep 2nd, 2012",93.35,1353,1303,20.82,Desktop
+Intel Xeon E3-1270,,4,3.4,3.4,80,,True,Sandy Bridge,Socket 1155,32 nm,8 MB,DDR3,,"Apr 3rd, 2011",79.97,5386,1761,67.32,Server
+AMD Athlon X4 840,,4,3.1,3.8,65,,False,Kaveri,Socket FM2+,28 nm,,DDR3,"A88X, A85X, A78, A75, A68H","Aug 12th, 2014",124.95,3287,1482,50.56,Desktop
+Intel Xeon E-2276G,,6,3.8,4.9,80,Intel HD Graphics P630,True,Coffee Lake-S WS,Socket 1151,14 nm,12 MB,DDR4,"C242, C246","May 29th, 2019",442.9,13371,2894,167.13,Server
+Intel Pentium E6500,95.71,2,2.93,2.93,65,,False,Wolfdale,Socket 775,45 nm,,"DDR1, DDR2, DDR3",,"Aug 9th, 2009",95.71,1073,1210,16.51,Desktop
+Intel Xeon E5-2609,57.99,4,2.4,2.4,80,,False,Sandy Bridge-EP,Socket 2011,32 nm,10 MB,DDR3,,"Mar 6th, 2012",71.87,2623,1081,32.79,Server
+Intel Xeon E5-2640,93.99,6,2.5,3.0,95,,True,Sandy Bridge-EP,Socket 2011,32 nm,15 MB,DDR3,,"Mar 6th, 2012",75.0,6321,1348,66.54,Server
+AMD Athlon II X2 215,,2,2.7,2.7,65,,False,Regor,Socket AM3,45 nm,,DDR3,,"Oct 20th, 2009",28.97,959,1041,14.75,Desktop
+Intel Pentium E5400,,2,2.7,2.7,65,,False,Wolfdale,Socket 775,45 nm,,"DDR1, DDR2, DDR3",,"Jan 18th, 2009",92.76,936,1074,14.4,Desktop
+AMD Phenom II X4 840,,4,3.2,3.2,95,,False,Propus,Socket AM3,45 nm,,"DDR2, DDR3","AMD 700 Series, AMD 800 Series, AMD 900 Series, nForce 630a, nForce 700a, nForce 900a","Jan 4th, 2011",24.28,2355,1309,24.79,Desktop
+AMD Phenom II X4 965,,4,3.4,3.4,125,,False,Deneb,Socket AM3,45 nm,6 MB,DDR3,"AMD 700 Series, AMD 800 Series, AMD 900 Series, nForce 630a, nForce 700a, nForce 900a","Nov 7th, 2009",74.02,2546,1357,20.37,Desktop
+Intel Xeon E3-1245,,4,3.3,3.3,95,Intel HD Graphics,True,Sandy Bridge,Socket 1155,32 nm,8 MB,DDR3,,"Apr 3rd, 2011",245.0,5366,1741,56.49,Server
+Intel Xeon E3-1275,376.99,4,3.4,3.4,95,Intel HD Graphics,True,Sandy Bridge,Socket 1155,32 nm,8 MB,DDR3,,"Apr 3rd, 2011",749.0,5372,1730,56.54,Server
+Intel Pentium G3430,61.57,2,3.3,3.3,54,Intel HD Graphics,False,Haswell,Socket 1150,22 nm,3 MB,DDR3,,"Sep 1st, 2013",57.99,2125,1915,39.34,Desktop
+Intel Pentium G2140,,2,3.3,3.3,55,Intel HD Graphics,False,,,,,,,,45.0,2092,1842,38.03,Desktop
+Intel Core i3-4350,,2,3.6,3.6,54,Intel HD Graphics 4600,True,Haswell,Socket 1150,22 nm,4 MB,DDR3,,"May 1st, 2014",99.99,3459,1902,64.06,Desktop
+Intel Core i3-8300T,,4,3.2,3.2,35,Intel UHD Graphics 630,False,Coffee Lake,Socket 1151,14 nm,8 MB,DDR4,,"Apr 2nd, 2018",158.95,5827,2005,233.07,Desktop
+Intel Xeon E-2246G,,6,3.6,4.8,80,Intel HD Graphics P630,True,Coffee Lake-S WS,Socket 1151,14 nm,12 MB,DDR4,"C242, C246","May 29th, 2019",311.0,14050,2825,175.62,Server
+Intel Pentium G6950,47.48,2,2.8,2.8,73,Intel HD Graphics,False,Clarkdale,Socket 1156,32 nm,3 MB,DDR3,"Intel H57, Intel H55, Intel P55","Jan 7th, 2010",79.0,1061,1035,14.53,Desktop
+AMD Phenom II X6 1035T,,6,2.6,2.6,95,,False,Thuban,Socket AM3,45 nm,6 MB,"DDR2, DDR3","AMD 700 Series, AMD 800 Series, AMD 900 Series, nForce 630a, nForce 700a, nForce 900a","Apr 27th, 2010",108.0,2947,1231,31.02,Desktop
+Intel Core i3-7300T,125.36,2,3.5,3.5,35,Intel HD Graphics 630,True,Kaby Lake,Socket 1151,14 nm,4 MB,DDR4,,"Jan 3rd, 2017",181.59,4159,2128,118.82,Desktop
+Intel Core i5-3550S,,4,3.0,3.7,65,Intel HD Graphics 2500,False,Ivy Bridge,Socket 1155,22 nm,6 MB,DDR3,,"Apr 29th, 2012",319.95,4537,1982,69.79,Desktop
+AMD Phenom II X4 810,,4,2.6,2.6,95,,False,Deneb,Socket AM3,45 nm,4 MB,DDR3,"AMD 700 Series, AMD 800 Series, AMD 900 Series, nForce 630a, nForce 700a, nForce 900a","Feb 9th, 2009",213.0,1849,1018,19.46,Desktop
+Intel Pentium E2180,,2,2.0,2.0,65,,False,Allendale,Socket 775,65 nm,,"DDR1, DDR2, DDR3",,"Aug 26th, 2007",19.5,671,748,10.33,Desktop
+AMD Phenom II X6 1075T,,6,3.0,3.0,95,,False,Thuban,Socket AM3,45 nm,6 MB,"DDR2, DDR3","AMD 700 Series, AMD 800 Series, AMD 900 Series, nForce 630a, nForce 700a, nForce 900a","Sep 21st, 2010",79.99,3284,1411,26.27,Desktop
+Intel Pentium E6800,,2,3.333,3.333,65,,False,Wolfdale,Socket 775,45 nm,,"DDR1, DDR2, DDR3",,"Aug 29th, 2010",24.95,1166,1358,17.94,Desktop
+Intel Pentium G850,,2,2.9,2.9,65,Intel HD Graphics,False,Sandy Bridge,Socket 1155,32 nm,3 MB,DDR3,,"May 22nd, 2011",101.97,1373,1339,21.13,Desktop
+Intel Core i5-3340S,,4,2.8,3.3,65,Intel HD Graphics 2500,False,,,,,,,,100.0,4102,1792,63.11,Desktop
+AMD Phenom II X6 1065T,,6,2.7,2.7,95,,False,Thuban,Socket AM3,45 nm,6 MB,"DDR2, DDR3","AMD 700 Series, AMD 800 Series, AMD 900 Series, nForce 630a, nForce 700a, nForce 900a","Dec 7th, 2010",99.98,3320,1359,34.94,Desktop
+Intel Pentium G4500,,2,3.5,3.5,51,Intel HD Graphics 530,False,Skylake,Socket 1151,14 nm,4 MB,"DDR3, DDR4",,"Sep 1st, 2015",166.67,2734,2135,53.61,Desktop
+Intel Pentium Gold G5500,,2,3.8,3.8,54,Intel UHD Graphics 630,True,Coffee Lake,Socket 1151,14 nm,4 MB,DDR4,,"Apr 2nd, 2018",169.87,3770,2258,69.82,Desktop
+Intel Xeon E-2146G,,6,3.5,4.5,80,Intel HD Graphics P630,True,Coffee Lake-S WS,Socket 1151,14 nm,12 MB,DDR4,"C242, C246","Jul 12th, 2018",369.94,13351,2679,166.89,Server
+Intel Xeon E-2124G,,4,3.4,4.5,71,Intel HD Graphics P630,False,Coffee Lake-S WS,Socket 1151,14 nm,8 MB,DDR4,"C242, C246","Jul 12th, 2018",229.99,7518,2749,105.89,Server
+AMD Phenom II X2 B59,,2,3.4,3.4,80,,False,,,,,,,,48.02,1392,1384,17.4,Unknown
+Intel Xeon E-2124,,4,3.3,4.3,71,,False,Coffee Lake-S WS,Socket 1151,14 nm,8 MB,DDR4,"C242, C246","Jul 12th, 2018",204.99,6977,2537,98.27,Server
+AMD Athlon II X2 245,,2,2.9,2.9,65,,False,Regor,Socket AM3,45 nm,,DDR3,,"Jul 23rd, 2009",12.55,1022,1113,15.73,Desktop
+AMD Phenom II X4 920,,4,2.8,2.8,125,,False,Deneb,Socket AM3,45 nm,6 MB,DDR2,"AMD 700 Series, AMD 800 Series, AMD 900 Series, nForce 630a, nForce 700a, nForce 900a","Jan 8th, 2009",27.89,1899,1068,15.2,Desktop
+Intel Core i5-670,122.45,2,3.46,3.46,73,Intel HD Graphics,True,Clarkdale,Socket 1156,32 nm,4 MB,DDR3,"Intel H57, Intel H55, Intel P55","Jan 7th, 2010",291.0,2511,1542,34.4,Desktop
+Intel Core i3-2100T,,2,2.5,2.5,35,Intel HD Graphics 2000,True,Sandy Bridge,Socket 1155,32 nm,3 MB,DDR3,"Z77, Z75, Q77, H77, Q75, B75, Z68, P67, H67, Q67, B65, H61","Feb 20th, 2011",49.13,1634,1183,46.69,Desktop
+Intel Pentium G2010,,2,2.8,2.8,55,Intel HD Graphics,False,Ivy Bridge,Socket 1155,22 nm,3 MB,DDR3,,"Jan 21st, 2013",22.97,1541,1473,28.01,Desktop
+AMD A8-7670K,,4,3.6,3.9,95,Radeon R7 (on-die),False,Godaveri,Socket FM2+,28 nm,,DDR3,"A88X, A85X, A78, A75, A68H","Jul 20th, 2015",83.56,3224,1512,33.94,Desktop
+Intel Core i5-9600T,,6,2.3,3.9,35,Intel UHD Graphics 630,False,,,,,,,,213.0,8393,2175,239.79,Desktop
+Intel Pentium E2160,49.0,2,1.8,1.8,65,,False,Allendale,Socket 775,65 nm,,"DDR1, DDR2, DDR3",,"Jun 3rd, 2007",89.0,636,683,9.78,Desktop
+Intel Celeron G540,,2,2.5,2.5,65,Intel HD Graphics,False,Sandy Bridge,Socket 1155,32 nm,2 MB,DDR3,,"Sep 4th, 2011",11.03,1110,1131,17.07,Desktop
+Intel Core i3-2125,152.0,2,3.3,3.3,65,Intel HD Graphics 3000,True,Sandy Bridge,Socket 1155,32 nm,3 MB,DDR3,"Z77, Z75, Q77, H77, Q75, B75, Z68, P67, H67, Q67, B65, H61","Sep 4th, 2011",152.0,2093,1550,32.19,Desktop
+Intel Celeron G3950,,2,3.0,3.0,51,Intel HD Graphics 610,False,Kaby Lake,Socket 1151,14 nm,2 MB,DDR4,,"Jan 3rd, 2017",143.0,2369,1811,46.45,Desktop
+AMD Phenom II X4 910e,,4,2.6,2.6,65,,False,Deneb,Socket AM3,45 nm,6 MB,DDR3,"AMD 700 Series, AMD 800 Series, AMD 900 Series, nForce 630a, nForce 700a, nForce 900a","Jan 25th, 2010",69.9,2044,1076,31.44,Desktop
+Intel Celeron E1600,,2,2.4,2.4,65,,False,Allendale,Socket 775,65 nm,,"DDR1, DDR2, DDR3",,"May 31st, 2009",,712,877,10.95,Desktop
+Intel Celeron E3300,64.78,2,2.5,2.5,65,,False,Wolfdale,Socket 775,45 nm,,"DDR1, DDR2, DDR3",,"Aug 30th, 2009",64.78,837,1042,12.87,Desktop
+Intel Pentium E5500,,2,2.8,2.8,65,,False,Wolfdale,Socket 775,45 nm,,"DDR1, DDR2, DDR3",,"Apr 18th, 2010",15.99,1010,1140,15.53,Desktop
+Intel Pentium E6300,,2,2.8,2.8,65,,False,Wolfdale,Socket 775,45 nm,,"DDR1, DDR2, DDR3",,"May 9th, 2009",41.85,1000,1129,15.38,Desktop
+Intel Core i5-680,,2,3.6,3.6,73,Intel HD Graphics,True,Clarkdale,Socket 1156,32 nm,4 MB,DDR3,"Intel H57, Intel H55, Intel P55","Apr 19th, 2010",309.19,2603,1550,35.65,Desktop
+Intel Core i7-860S,,4,2.53,2.53,82,,True,Lynnfield,Socket 1156,45 nm,8 MB,DDR3,,"Jan 7th, 2010",160.0,2424,1314,29.56,Desktop
+Intel Pentium G860,,2,3.0,3.0,65,Intel HD Graphics,False,Sandy Bridge,Socket 1155,32 nm,3 MB,DDR3,,"Sep 4th, 2011",22.93,1437,1389,22.11,Desktop
+Intel Core i5-2450P,,4,3.2,3.2,95,,False,Sandy Bridge,Socket 1155,32 nm,6 MB,DDR3,,"Jan 30th, 2012",178.97,3974,1654,41.83,Desktop
+Intel Celeron G555,,2,2.7,2.7,65,Intel HD Graphics,False,Sandy Bridge,Socket 1155,32 nm,2 MB,DDR3,,"Sep 1st, 2012",39.99,1268,1275,19.51,Desktop
+Intel Xeon E3-1240,,4,3.3,3.3,80,,True,Sandy Bridge,Socket 1155,32 nm,8 MB,DDR3,,"Apr 3rd, 2011",141.0,5398,1744,67.47,Server
+Intel Core i7-4770T,,4,2.5,2.5,45,Intel HD Graphics 4600,True,Haswell,Socket 1150,22 nm,8 MB,DDR3,"Z87, H87, Z97, H97","Jun 2nd, 2013",770.0,5748,1930,127.73,Desktop
+Intel Core i3-9350K,,4,4.0,4.6,91,Intel HD Graphics 630,False,Coffee Lake,Socket 1151,14 nm,8 MB,DDR4,,"Apr 23rd, 2019",293.22,7694,2823,84.55,Desktop
+Intel Xeon E-2174G,549.95,4,3.8,4.7,71,Intel HD Graphics P630,True,Coffee Lake-S WS,Socket 1151,14 nm,8 MB,DDR4,"C242, C246","Jul 12th, 2018",349.99,9596,2650,135.15,Server
+Intel Xeon E3-1235,,4,3.2,3.2,95,Intel HD Graphics,True,Sandy Bridge,Socket 1155,32 nm,8 MB,DDR3,,"Apr 3rd, 2011",234.0,4725,1562,49.73,Server
+Intel Celeron 450,,1,2.2,2.2,35,,False,Conroe-L,Socket 775,65 nm,,"DDR1, DDR2, DDR3",,"Aug 31st, 2008",38.99,445,613,12.71,Desktop
+AMD Phenom II X2 550,,2,3.1,3.1,80,,False,Callisto,Socket AM3,45 nm,6 MB,"DDR2, DDR3","AMD 700 Series, AMD 800 Series, AMD 900 Series, nForce 630a, nForce 700a, nForce 900a","Nov 4th, 2009",41.91,1169,1240,14.61,Desktop
+AMD Phenom II X3 710,,3,2.6,2.6,95,,False,Heka,Socket AM3,45 nm,6 MB,"DDR2, DDR3","AMD 700 Series, AMD 800 Series, AMD 900 Series, nForce 630a, nForce 700a, nForce 900a","Feb 9th, 2009",169.0,1554,1069,16.36,Desktop
+AMD Athlon II X2 240e,,2,2.8,2.8,45,,False,Regor,Socket AM3,45 nm,,DDR3,,"Oct 20th, 2009",37.89,980,1092,21.77,Desktop
+AMD Athlon II X2 250u,,2,1.6,1.6,25,,False,Regor,Socket AM3,45 nm,,DDR3,,"Oct 20th, 2009",24.95,604,632,24.17,Desktop
+AMD Athlon II X3 455,,3,3.3,3.3,95,,False,Rana,Socket AM3,45 nm,,DDR3,,"Dec 7th, 2010",39.99,1832,1343,19.29,Desktop
+AMD Athlon II X3 440,,3,3.0,3.0,95,,False,Rana,Socket AM3,45 nm,,DDR3,,"Jan 25th, 2010",14.76,1718,1220,18.09,Desktop
+Intel Core i5-2405S,,4,2.5,2.5,65,Intel HD Graphics 3000,False,Sandy Bridge,Socket 1155,32 nm,6 MB,DDR3,,"May 22nd, 2011",131.39,2980,1485,45.85,Desktop
+Intel Pentium G640T,84.88,2,2.4,2.4,35,Intel HD Graphics,False,Sandy Bridge,Socket 1155,32 nm,3 MB,DDR3,,"Jun 3rd, 2012",84.88,1139,1102,32.54,Desktop
+Intel Xeon E3-1280,,4,3.5,3.5,95,,True,Sandy Bridge,Socket 1155,32 nm,8 MB,DDR3,,"Apr 3rd, 2011",358.0,5510,1780,58.0,Server
+Intel Xeon E3-1225 V2,247.5,4,3.2,3.2,77,Intel HD Graphics P4000,False,Ivy Bridge,Socket 1155,22 nm,8 MB,DDR3,,"May 14th, 2012",225.19,4766,1929,61.89,Server
+Intel Celeron G1850,,2,2.9,2.9,53,Intel HD Graphics,False,Haswell,Socket 1150,22 nm,3 MB,DDR3,,"May 1st, 2014",39.99,1926,1695,35.67,Desktop
+Intel Core i3-4360T,,2,3.2,3.2,35,Intel HD Graphics 4600,True,Haswell,Socket 1150,22 nm,4 MB,DDR3,,"Jul 21st, 2014",,3164,1852,90.4,Desktop
+Intel Pentium G3470,61.57,2,3.6,3.6,53,Intel HD Graphics,False,,,,,,,,64.88,2428,2089,45.82,Desktop
+Intel Pentium G4600T,,2,3.0,3.0,35,Intel HD Graphics 630,True,Kaby Lake,Socket 1151,14 nm,3 MB,DDR4,,"Jan 3rd, 2017",117.99,3130,1843,89.43,Desktop
+Intel Pentium Gold G5500T,,2,3.2,3.2,35,Intel UHD Graphics 630,True,Coffee Lake,Socket 1151,14 nm,4 MB,DDR4,,"Apr 2nd, 2018",75.0,3234,1964,92.41,Desktop
+Intel Core i3-9320,,4,3.7,4.4,62,,False,Coffee Lake,Socket 1151,14 nm,8 MB,DDR4,,"Apr 23rd, 2019",217.97,7358,2711,118.68,Desktop
+Intel Xeon E-2144G,,4,3.6,4.5,71,Intel HD Graphics P630,True,Coffee Lake-S WS,Socket 1151,14 nm,8 MB,DDR4,"C242, C246","Jul 12th, 2018",301.17,9322,2679,131.29,Server
+Intel Xeon E-2126G,840.28,6,3.3,4.5,80,Intel HD Graphics P630,False,Coffee Lake-S WS,Socket 1151,14 nm,12 MB,DDR4,"C242, C246","Jul 12th, 2018",320.29,10747,2652,134.34,Server
+Intel Xeon E-2244G,,4,3.8,4.8,71,Intel HD Graphics P630,True,Coffee Lake-S WS,Socket 1151,14 nm,8 MB,DDR4,"C242, C246","May 29th, 2019",413.0,9826,2807,138.39,Server
+AMD Phenom II X4 975,172.56,4,3.6,3.6,125,,False,Deneb,Socket AM3,45 nm,6 MB,DDR3,"AMD 700 Series, AMD 800 Series, AMD 900 Series, nForce 630a, nForce 700a, nForce 900a","Jan 4th, 2011",40.72,2544,1417,20.35,Unknown
+Intel Pentium G2120,,2,3.1,3.1,55,Intel HD Graphics,False,Ivy Bridge,Socket 1155,22 nm,3 MB,DDR3,,"Sep 3rd, 2012",74.99,1870,1708,34.0,Desktop
+AMD Athlon II X2 255,,2,3.1,3.1,65,,False,Regor,Socket AM3,45 nm,,DDR3,,"Jan 25th, 2010",12.55,1163,1249,17.89,Desktop
+AMD Athlon II X3 425,,3,2.7,2.7,95,,False,Rana,Socket AM3,45 nm,,DDR3,,"Oct 20th, 2009",58.34,1576,1105,16.59,Desktop
+AMD Athlon II X2 260u,,2,1.8,1.8,25,,False,Regor,Socket AM3,45 nm,,DDR3,,"Oct 20th, 2009",83.44,663,703,26.5,Desktop
+Intel Celeron E1200,,2,1.6,1.6,65,,False,Allendale,Socket 775,65 nm,,"DDR1, DDR2, DDR3",,"Jan 20th, 2008",99.95,492,628,7.58,Desktop
+AMD Athlon II X3 460,,3,3.4,3.4,95,,False,Rana,Socket AM3,45 nm,,DDR3,,"May 3rd, 2011",16.78,1924,1390,20.26,Desktop
+Intel Pentium G840,,2,2.8,2.8,65,Intel HD Graphics,False,Sandy Bridge,Socket 1155,32 nm,3 MB,DDR3,,"May 22nd, 2011",84.53,1175,1252,18.08,Desktop
+Intel Pentium G620T,,2,2.2,2.2,35,Intel HD Graphics,False,Sandy Bridge,Socket 1155,32 nm,3 MB,DDR3,,"May 22nd, 2011",19.99,896,961,25.61,Desktop
+Intel Xeon E3-1225,,4,3.1,3.1,95,Intel HD Graphics,False,Sandy Bridge,Socket 1155,32 nm,6 MB,DDR3,,"Apr 3rd, 2011",69.0,3817,1572,40.18,Server
+Intel Pentium G2130,,2,3.2,3.2,55,Intel HD Graphics,False,Ivy Bridge,Socket 1155,22 nm,3 MB,DDR3,,"Jan 21st, 2013",43.64,1895,1745,34.46,Desktop
+Intel Celeron G1820,,2,2.7,2.7,53,Intel HD Graphics,False,Haswell,Socket 1150,22 nm,3 MB,DDR3,,"Dec 1st, 2013",62.3,1670,1520,31.51,Desktop
+Intel Xeon E5-1660,,6,3.3,3.9,130,,True,Sandy Bridge-E,Socket 2011,32 nm,15 MB,DDR3,,"Mar 6th, 2012",267.19,8417,1790,64.75,Server
+AMD Sempron 150,,1,2.9,2.9,45,,False,Sargas,Socket AM3,45 nm,,DDR3,,"Dec 7th, 2010",14.95,498,1079,11.07,Desktop
+Intel Celeron G470,,1,2.0,2.0,35,Intel HD Graphics,True,,,,,,,,35.15,691,937,19.75,Desktop
+AMD FX-4320,,4,4.0,4.2,95,,False,Vishera,Socket AM3+,32 nm,8 MB,DDR3,"AMD 700 Series, AMD 800 Series, AMD 900 Series","Oct 23rd, 2012",,3092,1552,32.55,Desktop
+Intel Pentium G3250T,,2,2.8,2.8,35,Intel HD Graphics,False,Haswell,Socket 1150,22 nm,3 MB,DDR3,,"Jul 21st, 2014",49.99,1726,1568,49.3,Desktop
+Intel Pentium G4520,,2,3.6,3.6,51,Intel HD Graphics 530,False,Skylake,Socket 1151,14 nm,4 MB,"DDR3, DDR4",,"Sep 1st, 2015",137.99,2926,2200,57.37,Desktop
+Intel Core i3-7101TE,,2,3.4,3.4,35,Intel HD Graphics 610,True,,,,,,,,117.0,3911,1997,111.75,Desktop
+Intel Core i7-870S,,4,2.667,2.667,82,,True,Lynnfield,Socket 1156,45 nm,8 MB,DDR3,,"Jul 19th, 2010",,2786,1270,33.97,Desktop
+Intel Xeon E5-2665,,8,2.4,3.1,115,,True,Sandy Bridge-EP,Socket 2011,32 nm,20 MB,DDR3,,"Mar 6th, 2012",88.0,8411,1399,73.14,Server
+Intel Pentium G870,,2,3.1,3.1,65,Intel HD Graphics,False,Sandy Bridge,Socket 1155,32 nm,3 MB,DDR3,,"Jun 3rd, 2012",77.0,1495,1464,22.99,Desktop
+AMD Athlon II X3 400e,,3,2.2,2.2,45,,False,Rana,Socket AM3,45 nm,,DDR3,,"Oct 20th, 2009",25.49,1320,908,29.34,Desktop
+AMD Athlon II X3 405e,,3,2.3,2.3,45,,False,Rana,Socket AM3,45 nm,,DDR3,,"Oct 20th, 2009",112.9,1331,973,29.58,Desktop
+AMD Athlon II X4 605e,,4,2.3,2.3,45,,False,Propus,Socket AM3,45 nm,,DDR3,,"Oct 20th, 2009",19.97,1957,1005,43.49,Desktop
+AMD Phenom II X3 705e,,3,2.5,2.5,65,,False,Heka,Socket AM3,45 nm,6 MB,"DDR2, DDR3","AMD 700 Series, AMD 800 Series, AMD 900 Series, nForce 630a, nForce 700a, nForce 900a","Jun 2nd, 2009",152.34,1222,962,18.81,Desktop
+Intel Celeron E3200,,2,2.4,2.4,65,,False,Wolfdale,Socket 775,45 nm,,"DDR1, DDR2, DDR3",,"Aug 30th, 2009",19.99,860,992,13.23,Desktop
+AMD Athlon II X2 265,,2,3.2,3.2,65,,False,Regor,Socket AM3,45 nm,,"DDR2, DDR3",,"Sep 21st, 2010",15.5,1233,1344,18.97,Desktop
+AMD Phenom II X2 545,,2,3.0,3.0,80,,False,Callisto,Socket AM3,45 nm,6 MB,"DDR2, DDR3","AMD 700 Series, AMD 800 Series, AMD 900 Series, nForce 630a, nForce 700a, nForce 900a","Jun 1st, 2009",43.98,1107,1083,13.84,Desktop
+AMD Sempron 130,,1,2.6,2.6,45,,False,Sargas,Socket AM3,45 nm,,DDR3,,"Aug 1st, 2011",30.0,501,1064,11.13,Unknown
+Intel Pentium G630T,,2,2.3,2.3,35,Intel HD Graphics,False,Sandy Bridge,Socket 1155,32 nm,3 MB,DDR3,,"Sep 4th, 2011",84.07,1029,1040,29.4,Desktop
+Intel Celeron G465,,2,1.9,1.9,35,Intel HD Graphics,False,Sandy Bridge,Socket 1155,32 nm,1.5 MB,DDR3,,"Sep 1st, 2012",40.0,480,739,13.71,Desktop
+Intel Xeon E3-1265L V2,,4,2.5,2.5,45,Intel HD Graphics 2500,True,Ivy Bridge,Socket 1155,22 nm,8 MB,DDR3,,"May 14th, 2012",149.99,4711,1552,104.68,Server
+Intel Celeron G1630,,2,2.8,2.8,55,Intel HD Graphics,False,Ivy Bridge,Socket 1155,22 nm,2 MB,DDR3,,"Sep 1st, 2013",69.99,1707,1553,31.04,Desktop
+Intel Celeron G1830,,2,2.8,2.8,53,Intel HD Graphics,False,Haswell,Socket 1150,22 nm,3 MB,DDR3,,"Dec 1st, 2013",89.0,1560,1513,29.44,Desktop
+Intel Xeon E5-2603,98.95,4,1.8,1.8,80,,False,Sandy Bridge-EP,Socket 2011,32 nm,10 MB,DDR3,,"Mar 6th, 2012",71.96,2362,868,29.53,Server
+Intel Pentium G3440,,2,3.3,3.3,53,Intel HD Graphics,False,Haswell,Socket 1150,22 nm,3 MB,DDR3,,"May 1st, 2014",59.0,2129,1895,40.18,Desktop
+Intel Core i3-4160T,,2,3.1,3.1,35,Intel HD Graphics 4400,True,Haswell,Socket 1150,22 nm,3 MB,DDR3,,"Jul 21st, 2014",59.99,3133,1771,89.53,Desktop
+AMD Athlon X4 530,,4,2.0,2.0,25,,False,,,,,,,,,1786,690,71.42,Desktop
+Intel Pentium G4400T,,2,2.9,2.9,35,Intel HD Graphics 510,False,,,,,,,,,2312,1723,66.06,Desktop
+Intel Pentium G4500T,,2,3.0,3.0,35,Intel HD Graphics 530,False,,,,,,,,,2518,1845,71.95,Desktop
+Intel Celeron G3930T,,2,2.7,2.7,35,Intel HD Graphics 610,False,Kaby Lake,Socket 1151,14 nm,2 MB,DDR4,,"Jan 3rd, 2017",97.17,2109,1650,60.26,Desktop
+AMD Athlon II X3 445,,3,3.1,3.1,95,,False,Rana,Socket AM3,45 nm,,DDR3,,"May 11th, 2010",15.21,1808,1282,19.03,Desktop
+AMD Phenom II X3 720,,3,2.8,2.8,95,,False,Heka,Socket AM3,45 nm,6 MB,"DDR2, DDR3","AMD 700 Series, AMD 800 Series, AMD 900 Series, nForce 630a, nForce 700a, nForce 900a","Jan 1st, 2010",64.45,1466,1081,15.43,Desktop
+AMD Phenom II X4 805,,4,2.5,2.5,95,,False,Deneb,Socket AM3,45 nm,4 MB,DDR3,"AMD 700 Series, AMD 800 Series, AMD 900 Series, nForce 630a, nForce 700a, nForce 900a","Feb 9th, 2009",173.99,1844,999,19.42,Desktop
+AMD Phenom II X4 910,,4,2.6,2.6,95,,False,Deneb,Socket AM3,45 nm,6 MB,DDR3,"AMD 700 Series, AMD 800 Series, AMD 900 Series, nForce 630a, nForce 700a, nForce 900a","Feb 9th, 2009",100.0,1776,988,18.7,Desktop
+AMD Athlon II X2 235e,,2,2.7,2.7,45,,False,Regor,Socket AM3,45 nm,,DDR3,,"Oct 20th, 2009",97.5,1049,1107,23.3,Desktop
+AMD Athlon II X2 245e,,2,2.9,2.9,45,,False,Regor,Socket AM3,45 nm,,DDR3,,"May 11th, 2010",19.99,1075,1145,23.89,Desktop
+AMD Athlon II X3 415e,,3,2.5,2.5,45,,False,Rana,Socket AM3,45 nm,,DDR3,,"May 11th, 2010",75.0,1441,1028,32.02,Desktop
+AMD Athlon II X4 600e,,4,2.2,2.2,45,,False,Propus,Socket AM3,45 nm,,DDR3,,"Oct 20th, 2009",19.99,1711,913,38.02,Desktop
+AMD Athlon II X4 610e,,4,2.4,2.4,45,,False,Propus,Socket AM3,45 nm,,DDR3,,"May 11th, 2010",17.9,1871,999,41.59,Desktop
+AMD Phenom II X4 905e,,4,2.5,2.5,65,,False,Deneb,Socket AM3,45 nm,6 MB,DDR3,"AMD 700 Series, AMD 800 Series, AMD 900 Series, nForce 630a, nForce 700a, nForce 900a","Jun 2nd, 2009",53.99,1895,1029,29.16,Desktop
+Intel Celeron E1500,,2,2.2,2.2,65,,False,Allendale,Socket 775,65 nm,,"DDR1, DDR2, DDR3",,"Nov 30th, 2008",19.65,649,785,9.98,Desktop
+Intel Core i5-655K,,2,3.2,3.2,73,Intel HD Graphics,True,Clarkdale,Socket 1156,32 nm,4 MB,DDR3,"H55, H57, P55","May 30th, 2010",77.99,2017,1446,27.63,Desktop
+AMD Phenom II X4 970,,4,3.5,3.5,125,,False,Zosma,Socket AM3,45 nm,6 MB,"DDR2, DDR3","AMD 700 Series, AMD 800 Series, AMD 900 Series, nForce 630a, nForce 700a, nForce 900a","Oct 1st, 2010",59.88,2644,1412,21.15,Unknown
+AMD Sempron X2 190,,2,2.5,2.5,45,,False,,,,,,,,83.44,879,977,19.53,Unknown
+AMD Phenom II X4 B99,,4,3.3,3.3,95,,False,,,,,,,,,2536,1377,26.7,Unknown

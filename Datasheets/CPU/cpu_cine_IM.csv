@@ -1,0 +1,159 @@
+name,price,core_count,core_clock,boost_clock,tdp,graphics,smt,codename,socket,lithography,cache,supported_mem,supported_chipset,release_date,CPU ScoreSingle 15,CPU ScoreMulti 15
+Intel Core i7-13700K,381.99,16,3.4,5.4,125,Intel UHD Graphics 770,True,Raptor Lake-S,Socket 1700,10 nm,30 MB,"DDR4, DDR5","H610, B660, H670, Q670, Z690, W680, B760, H770, Z790","Sep 27th, 2022",310,4639
+Intel Core i9-13900K,568.99,24,3.0,5.8,125,Intel UHD Graphics 770,True,Raptor Lake-S,Socket 1700,10 nm,36 MB,"DDR4, DDR5","H610, B660, H670, Q670, Z690, W680, B760, H770, Z790","Sep 27th, 2022",330,6141
+Intel Core i5-13600K,308.95,14,3.5,5.1,125,Intel UHD Graphics 770,True,Raptor Lake-S,Socket 1700,10 nm,24 MB,"DDR4, DDR5","Z690, Z790","Sep 27th, 2022",290,3652
+Intel Core i7-12700K,241.99,12,3.6,5.0,125,Intel UHD Graphics 770,True,Alder Lake-S,Socket 1700,10 nm,25 MB,"DDR4, DDR5","Z690, H670, B660, H610","Nov 4th, 2021",286,3327
+AMD Ryzen 5 3600,104.99,6,3.6,4.2,65,,True,Matisse,Socket AM4,7 nm,32 MB,DDR4,"AMD 300 Series, AMD 400 Series, AMD 500 Series","Jul 7th, 2019",197,1578
+Intel Core i5-12600K,189.99,10,3.7,4.9,125,Intel UHD Graphics 770,True,Alder Lake-S,Socket 1700,10 nm,20 MB,"DDR4, DDR5","Z690. H670, B660, H610","Nov 4th, 2021",274,2596
+Intel Core i5-13400F,208.98,10,2.5,4.6,65,,True,Raptor Lake-S,Socket 1700,10 nm,20 MB,"DDR4, DDR5","Intel 600 Series, Intel 700 Series","Jan 4th, 2023",253,2336
+Intel Core i5-13600KF,289.99,14,3.5,5.1,125,,True,Raptor Lake-S,Socket 1700,10 nm,24 MB,"DDR4, DDR5","H610, B660, H670, Q670, Z690, W680, B760, H770, Z790","Sep 27th, 2022",290,3652
+Intel Core i9-12900K,344.99,16,3.2,5.2,125,Intel UHD Graphics 770,True,Alder Lake-S,Socket 1700,10 nm,30 MB,"DDR4, DDR5","Z690, H670, B660, H610","Nov 4th, 2021",294,4111
+Intel Core i7-13700KF,382.84,16,3.4,5.4,125,,True,Raptor Lake-S,Socket 1700,10 nm,30 MB,"DDR4, DDR5","H610, B660, H670, Q670, Z690, W680, B760, H770, Z790","Sep 27th, 2022",310,4639
+Intel Core i5-13500,247.98,14,2.5,4.8,65,Intel UHD Graphics 770,True,Raptor Lake-S,Socket 1700,10 nm,24 MB,"DDR4, DDR5","Intel 600 Series, Intel 700 Series","Jan 4th, 2023",270,3149
+Intel Core i5-10400F,114.64,6,2.9,4.3,65,,True,Comet Lake,Socket 1200,14 nm,12 MB,DDR4,,"Apr 30th, 2020",190,1341
+Intel Core i9-13900KS,,24,3.0,6.0,150,Intel UHD Graphics 770,True,Raptor Lake-S,Socket 1700,10 nm,36 MB,"DDR4, DDR5","B660, Z690, B760, H770, Z790","Jan 12th, 2023",338,6220
+Intel Core i7-12700KF,219.99,12,3.6,5.0,125,,True,Alder Lake-S,Socket 1700,10 nm,25 MB,"DDR4, DDR5","Z690, H670, B660, H610","Nov 4th, 2021",286,3327
+Intel Core i9-13900KF,535.99,24,3.0,5.8,125,,True,Raptor Lake-S,Socket 1700,10 nm,36 MB,"DDR4, DDR5","Z690, Z790","Sep 27th, 2022",331,6141
+Intel Core i5-13400,228.0,10,2.5,4.6,65,Intel UHD Graphics 730,True,Raptor Lake-S,Socket 1700,10 nm,20 MB,"DDR4, DDR5","Intel 600 Series, Intel 700 Series","Jan 4th, 2023",253,2336
+Intel Core i5-12600KF,219.0,10,3.7,4.9,125,,True,Alder Lake-S,Socket 1700,10 nm,20 MB,"DDR4, DDR5","Z690. H670, B660, H610","Nov 4th, 2021",274,2596
+Intel Core i7-9700K,339.0,8,3.6,4.9,95,Intel UHD Graphics 630,False,Coffee Lake,Socket 1151,14 nm,12 MB,DDR4,,"Oct 19th, 2018",214,1520
+AMD Ryzen 5 2600,165.0,6,3.4,3.9,65,,True,Zen,Socket AM4,12 nm,16 MB,DDR4,"AMD 300 Series, AMD 400 Series, AMD 500 Series","Apr 19th, 2018",164,1310
+AMD Ryzen 3 3200G,72.75,4,3.6,4.0,65,Radeon Vega 8,False,Picasso,Socket AM4,12 nm,4 MB,DDR4,,"Jul 7th, 2019",154,605
+AMD Ryzen 5 3600X,210.0,6,3.8,4.4,95,,True,Matisse,Socket AM4,7 nm,32 MB,DDR4,"A300, X300, A320, B350, X370, B450, X470, A520, B550, X570","Jul 7th, 2019",204,1647
+Intel Core i7-10700K,283.95,8,3.8,5.1,125,Intel UHD Graphics 630,True,Comet Lake,Socket 1200,14 nm,16 MB,DDR4,"H410, B460, H470, Z490","Apr 30th, 2020",228,2344
+Intel Core i9-9900K,565.0,8,3.6,5.0,95,Intel UHD Graphics 630,True,Coffee Lake-R,Socket 1151,14 nm,16 MB,DDR4,,"Oct 19th, 2018",219,2245
+AMD Ryzen 7 2700X,220.0,8,3.7,4.3,105,,True,Zen,Socket AM4,12 nm,16 MB,DDR4,"AMD 300 Series, AMD 400 Series, AMD 500 Series","Apr 19th, 2018",177,1817
+AMD Ryzen 9 3900X,365.0,12,3.8,4.6,105,,True,Matisse,Socket AM4,7 nm,64 MB,DDR4,"A300, X300, A320, B350, X370, B450, X470, A520, B550, X570","Jul 7th, 2019",214,3168
+Intel Core i7-8700K,279.0,6,3.7,4.7,95,Intel UHD Graphics 630,True,Coffee Lake,Socket 1151,14 nm,12 MB,DDR4,,"Oct 5th, 2017",208,1447
+Intel Core i5-9400F,135.0,6,2.9,4.1,65,,False,Coffee Lake,Socket 1151,14 nm,9 MB,DDR4,,"Jan 8th, 2019",177,987
+Intel Core i7-7700K,310.0,4,4.2,4.5,91,Intel HD Graphics 630,True,Kaby Lake,Socket 1151,14 nm,8 MB,DDR4,,"Jan 3rd, 2017",200,995
+AMD Ryzen 7 3800X,275.99,8,3.9,4.5,105,,True,Matisse,Socket AM4,7 nm,32 MB,DDR4,"A300, X300, A320, B350, X370, B450, X470, A520, B550, X570","Jul 7th, 2019",209,2165
+Intel Core i9-11900K,299.0,8,3.5,5.3,125,Intel UHD Graphics 750,True,Rocket Lake,Socket 1200,14 nm,16 MB,DDR4,"H510, B560, H570, Q570, W580, Z590, Q470, H470, W480, Z490","Mar 16th, 2021",262,2515
+Intel Core i5-10400,131.13,6,2.9,4.3,65,Intel UHD Graphics 630,True,Comet Lake,Socket 1200,14 nm,12 MB,DDR4,,"Apr 30th, 2020",190,1341
+Intel Core i9-10900K,341.94,10,3.7,5.3,125,Intel UHD Graphics 630,True,Comet Lake,Socket 1200,14 nm,20 MB,DDR4,"H410, B460, H470, Z490","Apr 30th, 2020",234,2677
+Intel Core i7-10700F,218.13,8,2.9,4.8,65,,True,Comet Lake,Socket 1200,14 nm,16 MB,DDR4,,"Apr 30th, 2020",214,2291
+Intel Core i7-6700K,220.0,4,4.0,4.2,91,Intel HD Graphics 530,True,Skylake,Socket 1151,14 nm,8 MB,DDR4,,"Aug 1st, 2015",180,888
+Intel Core i5-9600K,219.99,6,3.7,4.6,95,Intel UHD Graphics 630,False,Coffee Lake,Socket 1151,14 nm,9 MB,DDR4,,"Oct 19th, 2018",204,1165
+AMD Ryzen 5 3400G,121.99,4,3.7,4.2,65,Radeon Vega 11,True,Picasso,Socket AM4,12 nm,4 MB,DDR4,"AMD 300 series, AMD 400 Series, AMD 500 Series","Jul 7th, 2019",169,875
+Intel Core i5-10600K,175.48,6,4.1,4.8,125,Intel UHD Graphics 630,True,Comet Lake,Socket 1200,14 nm,12 MB,DDR4,,"Apr 30th, 2020",215,1615
+AMD Ryzen 5 2600X,215.0,6,3.6,4.2,95,,True,Zen,Socket AM4,12 nm,16 MB,DDR4,"AMD 300 Series, AMD 400 Series, AMD 500 Series","Apr 19th, 2018",176,1380
+AMD Ryzen 3 3100,85.99,4,3.6,3.9,65,,True,Matisse,Socket AM4,7 nm,16 MB,DDR4,,"Apr 24th, 2020",179,1019
+AMD Ryzen 9 3950X,575.0,16,3.5,4.7,105,,True,Matisse,Socket AM4,7 nm,64 MB,DDR4,"A300, X300, A320, B350, X370, B450, X470, A520, B550, X570","Nov 25th, 2019",217,3897
+Intel Core i7-4790K,,4,4.0,4.4,88,Intel HD Graphics 4600,True,Haswell,Socket 1150,22 nm,8 MB,DDR3,"Z87, H87, Z97, H97","May 1st, 2014",145,728
+Intel Core i7-8700,313.0,6,3.2,4.6,65,Intel UHD Graphics 630,True,Coffee Lake,Socket 1151,14 nm,12 MB,DDR4,,"Jan 1st, 2018",203,1434
+Intel Core i5-8400,185.0,6,2.8,4.0,65,Intel UHD Graphics 630,False,Coffee Lake,Socket 1151,14 nm,9 MB,DDR4,,"Oct 5th, 2017",161,954
+Intel Core i9-12900KF,398.99,16,3.2,5.2,125,,True,Alder Lake-S,Socket 1700,10 nm,30 MB,"DDR4, DDR5","Z690, H670, B660, H610","Nov 4th, 2021",294,4111
+Intel Core i7-12700,318.99,12,2.1,4.9,65,Intel UHD Graphics 770,True,Alder Lake-S,Socket 1700,10 nm,25 MB,"DDR4, DDR5","Intel 600 Series, Intel 700 Series",Jan-22,259,3140
+Intel Core i5-6600K,188.0,4,3.5,3.9,91,Intel HD Graphics 530,False,Skylake,Socket 1151,14 nm,6 MB,DDR4,,"Jul 2nd, 2015",166,600
+Intel Core i9-12900KS,389.99,16,3.4,5.5,150,Intel UHD Graphics 770,True,Alder Lake-S,Socket 1700,10 nm,30 MB,"DDR4, DDR5",,"Apr 5th, 2022",294,4140
+AMD Ryzen 5 1600,250.0,6,3.2,3.6,65,,True,Zen,Socket AM4,14 nm,16 MB,DDR4,"AMD 300 Series, AMD 400 Series, AMD 500 Series","Apr 11th, 2017",147,1094
+AMD Ryzen 7 2700,185.0,8,3.2,4.1,65,,True,Zen,Socket AM4,12 nm,16 MB,DDR4,"AMD 300 Series, AMD 400 Series, AMD 500 Series","Apr 19th, 2018",164,1529
+Intel Core i5-6500,140.0,4,3.2,3.6,65,Intel HD Graphics 530,False,Skylake,Socket 1151,14 nm,6 MB,DDR4,"Z170, B150, H110","Jul 2nd, 2015",153,565
+Intel Core i7-7700,245.0,4,3.6,4.2,65,Intel HD Graphics 630,True,Kaby Lake,Socket 1151,14 nm,8 MB,DDR4,,"Jan 3rd, 2017",186,901
+Intel Core i3-9100F,110.0,4,3.6,4.2,65,,False,Coffee Lake,Socket 1151,14 nm,6 MB,DDR4,,"Apr 23rd, 2019",180,660
+Intel Core i3-10100,104.94,4,3.6,4.3,65,Intel UHD Graphics 630,True,Comet Lake,Socket 1200,14 nm,6 MB,DDR4,,"Apr 30th, 2020",191,1001
+Intel Core i5-4690K,90.0,4,3.5,3.9,88,Intel HD Graphics 4600,False,Haswell,Socket 1150,22 nm,6 MB,DDR3,"Intel 80 Series, Intel 90 Series","Jun 2nd, 2014",152,534
+Intel Core i7-6700,233.0,4,3.4,4.0,65,Intel HD Graphics 530,True,Skylake,Socket 1151,14 nm,8 MB,DDR4,,"Jul 1st, 2015",171,816
+Intel Core i7-10700,239.75,8,2.9,4.8,65,Intel UHD Graphics 630,True,Comet Lake,Socket 1200,14 nm,16 MB,DDR4,,"Apr 30th, 2020",214,2291
+Intel Core i7-3770,143.0,4,3.4,3.4,77,Intel HD Graphics 4000,True,Ivy Bridge,Socket 1155,22 nm,8 MB,DDR3,"Intel 6 Series, Intel 7 Series","Apr 29th, 2012",134,669
+Intel Core i5-8600K,245.0,6,3.6,4.3,95,Intel UHD Graphics 630,False,Coffee Lake,Socket 1151,14 nm,9 MB,DDR4,,"Oct 5th, 2017",183,1040
+AMD Ryzen 3 2200G,150.0,4,3.5,3.7,65,Radeon Vega 8,False,Raven Ridge,Socket AM4,14 nm,4 MB,DDR4,"AMD 300 Series, AMD 400 Series","Feb 12th, 2018",142,576
+Intel Core i7-4770,125.0,4,3.4,3.9,84,Intel HD Graphics 4600,True,Haswell,Socket 1150,22 nm,8 MB,DDR3,"Z87, H87, Z97, H97","Jun 2nd, 2013",141,690
+Intel Core i5-7500,132.3,4,3.4,3.8,65,Intel HD Graphics 630,False,Kaby Lake,Socket 1151,14 nm,6 MB,DDR4,,"Jan 3rd, 2017",162,617
+Intel Core i7-9700,340.0,8,3.0,4.7,65,Intel HD Graphics 630,False,Coffee Lake,Socket 1151,14 nm,12 MB,DDR4,,"Apr 23rd, 2019",209,1491
+Intel Core i5-7600K,218.0,4,3.8,4.2,91,Intel HD Graphics 630,False,Kaby Lake,Socket 1151,14 nm,6 MB,DDR4,,"Jan 3rd, 2017",179,717
+Intel Core i9-9900KF,395.0,8,3.6,5.0,95,,True,Coffee Lake-R,Socket 1151,14 nm,16 MB,DDR4,,"Jan 8th, 2019",219,2245
+AMD Ryzen 5 2400G,135.0,4,3.6,3.9,65,Radeon Vega 11,True,Raven Ridge,Socket AM4,14 nm,4 MB,DDR4,"AMD 300 Series, AMD 400 Series","Feb 12th, 2018",155,811
+AMD Ryzen 7 1700,215.0,8,3.0,3.7,65,,True,Zen,Socket AM4,14 nm,16 MB,DDR4,"AMD 300 Series, AMD 400 Series, AMD 500 Series","Mar 2nd, 2017",151,1403
+Intel Core i5-10600KF,164.99,6,4.1,4.8,125,,True,Comet Lake,Socket 1200,14 nm,12 MB,DDR4,,"Apr 30th, 2020",215,1615
+Intel Core i7-10700KF,268.66,8,3.8,5.1,125,,True,Comet Lake,Socket 1200,14 nm,16 MB,DDR4,,"Apr 30th, 2020",228,2344
+AMD Ryzen 9 3900XT,390.0,12,3.8,4.7,105,,True,Matisse 2,Socket AM4,7 nm,64 MB,DDR4,,"Jul 7th, 2020",226,3297
+Intel Core i5-3470,200.0,4,3.2,3.2,77,Intel HD Graphics 2500,False,Ivy Bridge,Socket 1155,22 nm,6 MB,DDR3,,"Jun 1st, 2012",0,439
+Intel Core i5-7400,153.0,4,3.0,3.5,65,Intel HD Graphics 630,False,Kaby Lake,Socket 1151,14 nm,6 MB,DDR4,,"Jan 3rd, 2017",149,564
+Intel Core i7-9700F,349.0,8,3.0,4.7,65,,False,Coffee Lake,Socket 1151,14 nm,12 MB,DDR4,,"Apr 23rd, 2019",209,1491
+Intel Core i5-4460,89.54,4,3.2,3.4,84,Intel HD Graphics 4600,False,Haswell,Socket 1150,22 nm,6 MB,DDR3,"Intel 80 Series, Intel 90 Series","May 11th, 2014",132,477
+AMD Ryzen 3 3300X,195.0,4,3.8,4.3,65,,True,Matisse,Socket AM4,7 nm,16 MB,DDR4,,"Apr 24th, 2020",200,1129
+Intel Core i9-10900KF,318.95,10,3.7,5.3,125,,True,Comet Lake,Socket 1200,14 nm,20 MB,DDR4,,"Apr 30th, 2020",234,2677
+Intel Core i7-9700KF,297.0,8,3.6,4.9,95,,False,Coffee Lake,Socket 1151,14 nm,12 MB,DDR4,,"Jan 8th, 2019",214,1520
+Intel Core i7-3770K,275.0,4,3.5,3.5,77,Intel HD Graphics 4000,True,Ivy Bridge,Socket 1155,22 nm,8 MB,DDR3,,"Apr 29th, 2012",137,672
+AMD Ryzen 5 1600X,140.0,6,3.6,4.0,95,,True,Zen,Socket AM4,14 nm,16 MB,DDR4,"AMD 300 Series, AMD 400 Series, AMD 500 Series","Apr 11th, 2017",151,1126
+Intel Core i5-4590,,4,3.3,3.7,84,Intel HD Graphics 4600,False,Haswell,Socket 1150,22 nm,6 MB,DDR3,,"May 1st, 2014",144,505
+Intel Core i7-4770K,192.0,4,3.5,3.9,84,Intel HD Graphics 4600,True,Haswell,Socket 1150,22 nm,8 MB,DDR3,"Z87, H87, Z97, H97","Jun 2nd, 2013",141,709
+Intel Core i3-8100,163.0,4,3.6,3.6,65,Intel UHD Graphics 630,False,Coffee Lake,Socket 1151,14 nm,6 MB,DDR4,,"Oct 5th, 2017",154,616
+AMD Ryzen 5 3600XT,389.0,6,3.8,4.5,95,,True,Matisse 2,Socket AM4,7 nm,32 MB,DDR4,,"Jul 7th, 2019",217,1757
+AMD Ryzen 7 1700X,251.0,8,3.4,3.8,95,,True,Zen,Socket AM4,14 nm,16 MB,DDR4,"AMD 300 Series, AMD 400 Series, AMD 500 Series","Mar 2nd, 2017",155,1532
+AMD Ryzen 5 3500X,,6,3.6,4.1,65,,False,Matisse,Socket AM4,7 nm,32 MB,DDR4,"A300, X300, A320, B350, X370, B450, X470, A520, B550, X570","Sep 24th, 2019",188,1129
+Intel Core i9-10980XE,923.0,18,3.0,4.8,165,,True,Cascade Lake-X,Socket 2066,14 nm,24.75 MB,DDR4,,"Oct 19th, 2019",211,3800
+Intel Core i9-11900KF,,8,3.5,5.3,125,,True,Rocket Lake,Socket 1200,14 nm,16 MB,DDR4,"H510, B560, H570, Q570, W580, Z590, Q470, H470, W480, Z490","Mar 16th, 2021",262,2515
+Intel Core i5-9400,210.0,6,2.9,4.1,65,Intel UHD Graphics 630,False,Coffee Lake,Socket 1151,14 nm,9 MB,DDR4,,"Oct 19th, 2018",177,987
+Intel Core i5-6400,,4,2.7,3.3,65,Intel HD Graphics 530,False,Skylake,Socket 1151,14 nm,6 MB,DDR4,"Intel 100 Series, Intel 200 Series","Jul 2nd, 2015",140,497
+AMD Ryzen 5 1400,110.0,4,3.2,3.4,65,,True,Zen,Socket AM4,14 nm,8 MB,DDR4,"AMD 300 Series, AMD 400 Series, AMD 500 Series","Apr 11th, 2017",139,731
+Intel Core i5-4570,121.16,4,3.2,3.2,84,Intel HD Graphics 4600,False,Haswell,Socket 1150,22 nm,6 MB,DDR3,,"Jun 2nd, 2013",140,491
+Intel Core i5-3570K,125.0,4,3.4,3.4,77,Intel HD Graphics 4000,False,Ivy Bridge,Socket 1155,22 nm,6 MB,DDR3,,"Apr 29th, 2012",132,510
+Intel Core i5-9600KF,230.0,6,3.7,4.6,95,,False,Coffee Lake,Socket 1151,14 nm,9 MB,DDR4,,"Jan 8th, 2019",204,1165
+Intel Core i5-2400,170.99,4,3.1,3.1,95,Intel HD Graphics 2000,False,Sandy Bridge,Socket 1155,32 nm,6 MB,DDR3,,"Jan 9th, 2011",116,409
+Intel Core i9-9900KS,1989.0,8,4.0,5.0,127,Intel UHD Graphics 630,True,Coffee Lake-R,Socket 1151,14 nm,16 MB,DDR4,,"Oct 28th, 2019",222,2201
+AMD Ryzen 5 3500,,6,3.6,4.1,65,,False,Picasso,Socket FP5,12 nm,4 MB,DDR4,,"Jan 6th, 2019",188,1129
+Intel Core i5-8500,258.27,6,3.0,4.1,65,Intel UHD Graphics 630,False,Coffee Lake,Socket 1151,14 nm,9 MB,DDR4,,"Feb 14th, 2018",174,934
+AMD Ryzen 5 1500X,225.0,4,3.5,3.7,65,,True,Zen,Socket AM4,14 nm,16 MB,DDR4,"AMD 300 Series, AMD 400 Series, AMD 500 Series","Apr 11th, 2017",151,712
+AMD Ryzen 7 1800X,295.0,8,3.6,4.0,95,,True,Zen,Socket AM4,14 nm,16 MB,DDR4,"AMD 300 Series, AMD 400 Series, AMD 500 Series","Mar 2nd, 2017",163,1617
+Intel Core i3-6100,100.0,2,3.7,3.7,51,Intel HD Graphics 530,True,Skylake,Socket 1151,14 nm,4 MB,DDR4,,"Sep 1st, 2015",152,392
+AMD Ryzen 3 1200,115.0,4,3.1,3.4,65,,False,Zen,Socket AM4,14 nm,8 MB,DDR4,"AMD 300 Series, AMD 400 Series, AMD 500 Series","Jul 27th, 2017",154,604
+Intel Core i5-4690,100.12,4,3.5,3.9,84,Intel HD Graphics 4600,False,Haswell,Socket 1150,22 nm,6 MB,DDR3,,"May 1st, 2014",152,534
+Intel Core i9-12900F,432.0,16,2.4,5.1,65,,True,Alder Lake-S,Socket 1700,10 nm,30 MB,"DDR4, DDR5","Z690, H670, B660, H610","Jan 4th, 2022",287,3911
+Intel Core i7-5820K,,6,3.3,3.6,140,,True,Haswell-E,Socket 2011-3,22 nm,15 MB,DDR4,,"Sep 1st, 2014",139,1085
+Intel Core i5-10500,219.99,6,3.1,4.5,65,Intel UHD Graphics 630,True,Comet Lake,Socket 1200,14 nm,12 MB,DDR4,,"Apr 30th, 2020",201,1491
+Intel Core i5-4670K,144.25,4,3.4,3.4,84,Intel HD Graphics 4600,False,Haswell,Socket 1150,22 nm,6 MB,DDR3,,"Jun 2nd, 2013",148,520
+Intel Core i9-10900X,508.0,10,3.7,4.7,165,,True,Cascade Lake-X,Socket 2066,14 nm,19.25 MB,DDR4,,"Oct 19th, 2019",198,2358
+Intel Core i9-12900,458.99,16,2.4,5.1,65,Intel UHD Graphics 770,True,Alder Lake-S,Socket 1700,10 nm,30 MB,"DDR4, DDR5","Z690, H670, B660, H610","Jan 4th, 2022",287,3911
+Intel Core i5-6600,,4,3.3,3.9,65,Intel HD Graphics 530,False,Skylake,Socket 1151,14 nm,6 MB,DDR4,"Intel 100 Series, Intel 200 Series","Jul 1st, 2015",166,597
+Intel Core i5-7600,130.0,4,3.5,4.1,65,Intel HD Graphics 630,False,Kaby Lake,Socket 1151,14 nm,6 MB,DDR4,,"Jan 3rd, 2017",175,666
+Intel Core i3-7100,103.0,2,3.9,3.9,51,Intel HD Graphics 630,True,Kaby Lake,Socket 1151,14 nm,3 MB,DDR4,,"Jan 3rd, 2017",168,425
+Intel Core i3-9100,140.0,4,3.6,4.2,65,Intel UHD Graphics 630,False,Coffee Lake,Socket 1151,14 nm,6 MB,DDR4,,"Sep 1st, 2018",180,660
+Intel Core i5-3570,,4,3.4,3.4,77,Intel HD Graphics 2500,False,Ivy Bridge,Socket 1155,22 nm,6 MB,DDR3,"Intel 6 Series, Intel 7 Series","Jun 1st, 2012",132,510
+Intel Core i7-2600K,199.88,4,3.4,3.4,95,Intel HD Graphics 3000,True,Sandy Bridge,Socket 1155,32 nm,8 MB,DDR3,"Z77, Z75, Q77, H77, Q75, B75, Z68, P67, H67, Q67, B65, H61","Jan 9th, 2011",128,612
+Intel Core i9-7900X,413.0,10,3.3,4.5,140,,True,Skylake-X,Socket 2066,14 nm,14 MB,DDR4,,"Jun 26th, 2017",188,2194
+Intel Core i9-10900,319.99,10,2.8,5.2,65,Intel UHD Graphics 630,True,Comet Lake,Socket 1200,14 nm,20 MB,DDR4,,"Apr 30th, 2020",231,2541
+Intel Core i7-8086K,476.58,6,4.0,5.0,95,Intel UHD Graphics 630,True,Coffee Lake,Socket 1151,14 nm,12 MB,DDR4,,"Jun 5th, 2018",219,1448
+Intel Core i5-4440,123.85,4,3.1,3.3,84,Intel HD Graphics 4600,False,Haswell,Socket 1150,22 nm,6 MB,DDR3,,"Sep 1st, 2013",128,462
+Intel Core i9-7960X,2399.94,16,2.8,4.4,165,,True,Skylake-X,Socket 2066,14 nm,22 MB,DDR4,,"Sep 1st, 2017",184,3161
+Intel Core i5-9500,210.0,6,3.0,4.4,65,Intel UHD Graphics 630,False,Coffee Lake,Socket 1151,14 nm,9 MB,,,"Oct 19th, 2018",182,1016
+Intel Core i5-10600,207.86,6,3.3,4.8,65,Intel UHD Graphics 630,True,Comet Lake,Socket 1200,14 nm,12 MB,,,"Apr 30th, 2020",214,1569
+Intel Core i5-8600,239.86,6,3.1,4.3,65,Intel UHD Graphics 630,False,Coffee Lake,Socket 1151,14 nm,9 MB,,,"Feb 14th, 2018",178,959
+Intel Core i9-9900,595.0,8,3.1,5.0,65,Intel UHD Graphics 630,True,Coffee Lake-R,Socket 1151,14 nm,16 MB,,,"Apr 23rd, 2019",219,1931
+Intel Core i3-4130,77.14,2,3.4,3.4,54,Intel HD Graphics 4400,True,Haswell,Socket 1150,22 nm,3 MB,DDR3,,"Sep 1st, 2013",136,349
+Intel Pentium Gold G5400,64.95,2,3.7,3.7,58,Intel UHD Graphics 610,True,Coffee Lake,Socket 1151,14 nm,4 MB,DDR4,,"Apr 2nd, 2018",153,385
+Intel Core i7-6950X,328.29,10,3.0,3.5,140,,True,Broadwell-E,Socket 2011-3,14 nm,25 MB,DDR4,,"May 31st, 2016",152,1819
+Intel Core i3-3220,,2,3.3,3.3,55,Intel HD Graphics 2500,True,Ivy Bridge,Socket 1155,22 nm,3 MB,DDR3,,"Sep 3rd, 2012",115,295
+Intel Core i7-4930K,175.0,6,3.4,3.9,130,,True,Ivy Bridge-E,Socket 2011,22 nm,12 MB,DDR3,,"Sep 1st, 2013",139,1064
+Intel Core i7-7800X,405.86,6,3.5,4.0,140,,True,Skylake-X,Socket 2066,14 nm,8.25 MB,DDR4,,"Jun 26th, 2017",184,1285
+Intel Core i5-4670,135.86,4,3.4,3.4,84,Intel HD Graphics 4600,False,Haswell,Socket 1150,22 nm,6 MB,DDR3,,"Jun 2nd, 2013",148,520
+Intel Core i7-5960X,,8,3.0,3.5,140,,True,Haswell-E,Socket 2011-3,22 nm,20 MB,DDR4,,"Sep 1st, 2014",177,1360
+Intel Core i7-7820X,329.88,8,3.6,4.5,140,,True,Skylake-X,Socket 2066,14 nm,11 MB,,,"Jun 26th, 2017",197,1887
+Intel Core i7-7700T,489.95,4,2.9,3.8,35,Intel HD Graphics 630,True,Kaby Lake,Socket 1151,14 nm,8 MB,DDR4,,"Jan 3rd, 2017",168,805
+AMD FX-8370,241.98,8,4.0,4.3,125,,False,Vishera,Socket AM3+,32 nm,8 MB,,,"Sep 2nd, 2014",98,673
+Intel Core i7-5930K,,6,3.5,3.7,140,,True,Haswell-E,Socket 2011-3,22 nm,15 MB,DDR4,,"Sep 1st, 2014",142,1149
+Intel Core i9-10940X,850.0,14,3.3,4.8,165,,True,Cascade Lake-X,Socket 2066,14 nm,19.25 MB,DDR4,,"Oct 19th, 2019",201,3117
+Intel Core i7-4820K,168.0,4,3.7,3.9,130,,True,Ivy Bridge-E,Socket 2011,22 nm,10 MB,DDR3,,"Sep 1st, 2013",141,728
+Intel Core i9-7920X,538.5,12,2.9,4.4,140,,True,Skylake-X,Socket 2066,14 nm,16.5 MB,DDR4,,"Sep 10th, 2017",188,2438
+Intel Core i7-4790S,,4,3.2,4.0,65,Intel HD Graphics 4000,True,Haswell,Socket 1150,22 nm,8 MB,DDR3,"Z87, H87, Z97, H97","May 11th, 2014",145,671
+Intel Core i9-9980XE,1998.95,18,3.0,4.4,165,,True,Skylake-X,Socket 2066,14 nm,24.75 MB,DDR4,,"Oct 19th, 2018",201,3240
+Intel Pentium G2020,94.79,2,2.9,2.9,55,Intel HD Graphics,False,Ivy Bridge,Socket 1155,22 nm,3 MB,DDR3,,"Jan 21st, 2013",101,196
+Intel Core i7-9800X,449.2,8,3.8,4.5,165,,True,Skylake-X,Socket 2066,14 nm,16.5 MB,DDR4,,"Oct 19th, 2018",196,1850
+Intel Core i5-8500T,,6,2.1,3.5,35,Intel UHD Graphics 630,False,Coffee Lake,Socket 1151,14 nm,9 MB,DDR4,,"Apr 2nd, 2018",148,751
+Intel Core i3-3240,116.69,2,3.4,3.4,55,Intel HD Graphics 2500,True,Ivy Bridge,Socket 1155,22 nm,3 MB,DDR3,,"Sep 3rd, 2012",119,306
+Intel Core i5-4590S,,4,3.0,3.7,65,Intel HD Graphics 4000,False,Haswell,Socket 1150,22 nm,6 MB,DDR3,,"May 1st, 2014",144,477
+Intel Core i5-6500T,,4,2.5,3.1,35,Intel HD Graphics 530,False,Skylake,Socket 1151,14 nm,6 MB,"DDR3, DDR4","Intel 100 Series, Intel 200 Series","Jul 2nd, 2015",132,464
+Intel Core i3-10320,159.18,4,3.8,4.6,65,Intel UHD Graphics 630,True,Comet Lake,Socket 1200,14 nm,8 MB,DDR4,,"Apr 30th, 2020",206,1080
+Intel Core i5-4570S,163.93,4,2.9,2.9,65,Intel HD Graphics 4600,False,Haswell,Socket 1150,22 nm,6 MB,DDR3,,"Jun 2nd, 2013",140,462
+AMD FX-8320E,,8,3.2,4.0,95,,False,Vishera,Socket AM3+,32 nm,8 MB,DDR3,"AMD 700 Series, AMD 800 Series, AMD 900 Series","Sep 2nd, 2014",91,584
+Intel Core i5-8400T,,6,1.7,3.3,35,Intel UHD Graphics 630,False,Coffee Lake,Socket 1151,14 nm,9 MB,,,"Apr 2nd, 2018",139,696
+Intel Core i7-6700T,,4,2.8,3.6,35,Intel HD Graphics 530,True,Skylake,Socket 1151,14 nm,8 MB,DDR4,,"Sep 1st, 2015",154,663
+Intel Core i3-7320,80.01,2,4.1,4.1,51,Intel HD Graphics 630,True,Kaby Lake,Socket 1151,14 nm,4 MB,DDR4,,"Jan 3rd, 2017",176,447
+Intel Core i3-8100T,,4,3.1,3.1,35,Intel UHD Graphics 630,False,Coffee Lake,Socket 1151,14 nm,6 MB,,,"Apr 2nd, 2018",132,530
+Intel Core i5-4590T,,4,2.0,2.0,35,Intel HD Graphics 4000,True,Haswell,Socket 1150,22 nm,6 MB,,,"May 11th, 2014",117,361
+Intel Core i9-9900X,,10,3.5,4.4,165,,True,Skylake-X,Socket 2066,14 nm,19.25 MB,DDR4,,"Oct 19th, 2018",197,2114
+Intel Core i5-7600T,147.91,4,2.8,3.7,35,Intel HD Graphics 630,False,Kaby Lake,Socket 1151,14 nm,6 MB,DDR4,,"Jan 3rd, 2017",157,593
+Intel Core i3-4330,96.95,2,3.5,3.5,54,Intel HD Graphics 4600,True,Haswell,Socket 1150,22 nm,4 MB,DDR3,,"Sep 1st, 2013",137,351
+Intel Core i3-6100T,289.95,2,3.2,3.2,35,Intel HD Graphics 530,True,Skylake,Socket 1151,14 nm,3 MB,"DDR3, DDR4",,"Sep 1st, 2015",131,339
+Intel Core i5-9400T,,6,1.8,3.4,35,Intel UHD Graphics 630,False,Coffee Lake,Socket 1151,14 nm,9 MB,DDR4,,"Sep 1st, 2018",150,710

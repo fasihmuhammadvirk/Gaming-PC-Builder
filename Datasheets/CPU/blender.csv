@@ -1,0 +1,863 @@
+name,Blender Score,Number of Benchmarks
+AMD EPYC 9654,2270.586,3
+Intel Xeon Gold 6448H,1026.0059999999999,1
+AMD EPYC 9754,3085.23,6
+AMD EPYC 9654,2678.42,3
+Genuine Intel 0000%,1371.6719999999998,1
+AMD EPYC 7763,1337.142,2
+Intel Xeon Platinum 8462Y+,1172.778,1
+AMD EPYC 9534,1116.162,1
+AMD EPYC 9554,1848.32,1
+AMD EPYC 7713,1092.462,2
+AMD EPYC 9554P,1820.07,1
+Intel Xeon Gold 6448Y,872.658,1
+AMD EPYC 7543,795.318,2
+Intel Xeon Platinum 8358,782.8679999999999,2
+AMD EPYC 9254,749.25,1
+Intel Xeon Gold 6442Y,742.968,1
+AMD EPYC 7763,1216.13,3
+Intel Xeon w9-3495X,1193.4,2
+AMD Ryzen Threadripper PRO 5995WX,1191.4,11
+Intel Xeon Gold 6338,713.994,1
+Intel Xeon E7-8894 v4,355.47,1
+Intel Xeon Gold 6418H,700.236,2
+QEMU Virtual version 2.5+,679.482,2
+AMD Ryzen Threadripper 3990X,1101.26,5
+AMD EPYC 7532,642.744,1
+AMD EPYC 7T83,1045.82,1
+AMD EPYC 7B12,625.278,1
+AMD Ryzen Threadripper PRO 3995WX,1023.28,3
+AMD EPYC 9354P,960.37,1
+Intel Xeon E7-8880 v3,279.618,1
+AMD EPYC 9374F,889.76,1
+Intel Xeon Gold 6240R,488.226,1
+AMD Ryzen Threadripper PRO 5975WX,794.1,6
+Intel Xeon Silver 4316,443.20199999999994,1
+Intel Xeon Gold 5320T,442.224,1
+AMD Ryzen 9 7950X,719.67,1
+Intel Xeon w7-2495X,715.04,5
+AMD Ryzen Threadripper 3970X,699.69,27
+AMD Ryzen Threadripper PRO 3975WX,682.28,3
+Intel Xeon Gold 6154,361.026,1
+Intel Xeon Gold 6140,348.32399999999996,1
+AMD Ryzen 9 7950X,570.38,390
+AMD Ryzen Threadripper 2990WX,556.84,3
+Intel Xeon Silver 4410Y,332.472,2
+Intel Xeon E5-2696 v4,332.09999999999997,4
+AMD Ryzen 9 7950X3D,551.78,278
+AMD Ryzen Threadripper 3960X,542.69,12
+Intel Core i9-14900KF,540.49,7
+Intel Core i9-14900K,531.88,16
+Intel Core i9-13900KS,531.61,49
+Intel Core i9-13900KF,521.44,95
+Intel Core i9-13900K,517.35,429
+AMD EPYC 7502P,512.28,3
+AMD EPYC 9184X,504.0,1
+Apple M2 Ultra,501.98,29
+Intel Xeon Gold 6148,297.702,4
+Intel Xeon Gold 6130,293.448,1
+Intel Xeon Gold 6138,289.896,19
+Intel Core i9-13900T,481.74,1
+AMD Ryzen 9 7945HX,477.81,11
+Intel Core i9-13900,477.44,7
+Intel Xeon Silver 4216,284.232,1
+Intel Core i7-14700KF,472.87,8
+Intel Core i7-14700K,470.49,21
+Intel Xeon E5-2686 v4,266.532,1
+Intel Xeon Gold 6426Y,443.24,1
+AMD Ryzen 9 5950X,439.76,1
+AMD EPYC 7402P,436.86,2
+Intel Xeon W-3265,431.7,1
+AMD EPYC 7551P,429.67,4
+AMD Ryzen 9 7900X,428.86,176
+AMD Ryzen Threadripper PRO 5955WX,427.1,2
+Intel Xeon E5-2699 v3,253.188,1
+Apple M1 Ultra,415.34,9
+AMD Ryzen 9 7900X3D,414.09,32
+AMD Ryzen 9 5950X,413.43,458
+Intel Xeon w5-3435X,408.91,1
+AMD Ryzen 9 7900,405.75,36
+AMD Ryzen Threadripper 2970WX,403.14,2
+Intel Xeon E5-2690 v4,239.502,3
+Intel Xeon Gold 6136,239.39999999999998,2
+AMD EPYC 7313P,398.16,1
+Intel Core i7-13700K,397.76,252
+Intel Core i7-13700KF,395.29,128
+Intel Core i7-13790F,392.92,1
+Intel Xeon E5-2696 v3,235.206,3
+Intel Xeon E5-2680 v4,233.196,5
+Intel Xeon E5-2698 v3,224.52599999999998,1
+AMD Ryzen 9 5900X,370.81,2
+AMD Ryzen 9 7845HX,370.47,6
+Intel Core i9-13950HX,368.9,20
+Intel Xeon Gold 6416H,366.27,2
+Intel Xeon Silver 4214,218.028,1
+Intel Core i9-13980HX,362.89,63
+Intel Core i9-12900KS,361.14,18
+Intel Core i9-13900HX,357.68,96
+Intel Core i9-12900KF,354.84,19
+AMD Ryzen Threadripper PRO 3955WX,354.81,2
+AMD Ryzen 9 3950X,354.66,35
+Intel Core i9-12900K,343.42,91
+Intel Xeon W-3335,339.91,5
+Intel Core i9-12900F,339.36,1
+Intel Xeon E5-2650 v4,200.59799999999998,7
+Intel Xeon E5-2660 v4,200.40599999999998,1
+AMD Ryzen 7 7700,330.0,69
+AMD EPYC 7D12,329.71,1
+Intel Core i9-7960X,324.22,1
+AMD EPYC-Rome,194.47799999999998,1
+Intel Xeon E5-2698 v4,323.99,2
+Intel Core i5-14600KF,323.51,4
+Intel Core i5-14600K,321.87,6
+Intel Core i7-13700F,321.16,41
+Intel Xeon W-2191B,320.23,1
+AMD EPYC 7302P,318.82,1
+Intel Xeon E5-2683 v3,190.29600000000002,2
+Intel Core i9-13900F,313.78,4
+Intel Core i5-13600KF,312.8,94
+AMD Ryzen 9 5900X,311.55,376
+AMD Ryzen Threadripper PRO 5945WX,309.11,2
+Intel Core i9-10980XE,307.69,3
+Intel Xeon E5-2690 v3,184.51799999999997,3
+Intel Core i5-13600K,306.07,86
+Intel Core i9-7980XE,305.4,5
+Intel Core i9-9980XE,302.2,1
+Intel Xeon Gold 6246R,296.86,1
+Intel Core i7-12700KF,295.41,44
+Intel Core i7-12700K,294.64,84
+Intel Core i5-13600,292.6,1
+Intel Xeon E5-2696 v4,291.91,6
+Intel Xeon W-3245,291.45,5
+Intel Xeon E5-2670 v3,174.708,1
+Intel Xeon Gold 6144,173.886,1
+Intel Xeon W-2295,287.74,1
+AMD Ryzen Threadripper PRO 3945WX,286.32,1
+Intel Xeon E5-2697A v4,286.28,1
+Intel Xeon E5-2666 v3,171.114,1
+Intel Core i9-12900HX,284.15,2
+Intel Core i7-12850HX,283.29,2
+AMD Ryzen 7 7700X,279.26,119
+AMD Ryzen 9 3900X,277.49,85
+AMD Ryzen 7 7800X3D,276.26,222
+Intel Core i9-7920X,272.86,4
+Intel Core i9-13900HK,271.12,1
+AMD Ryzen Threadripper 2950X,270.44,5
+AMD Ryzen 9 3900XT,268.04,14
+AMD Ryzen Threadripper 1950X,267.15,17
+AMD EPYC 7282,266.58,1
+Intel Core i7-13700HX,265.04,57
+Intel Core i7-13650HX,262.69,6
+Intel Core i5-13500,262.02,64
+Intel Xeon E5-2640 v4,157.09799999999998,1
+AMD Ryzen 9 3900,261.53,16
+Intel Core i9-10940X,259.05,4
+Intel Xeon Gold 6146,155.058,1
+Intel Xeon E5-2667 v4,154.80599999999998,1
+Intel Core i7-12700,257.67,35
+Intel Core i9-13905H,257.57,5
+Intel Xeon E5-2680 v3,153.97799999999998,1
+Apple M2 Max,254.06,68
+Intel Xeon Silver 4210R,151.32,1
+Intel Xeon Silver 4116,150.39,1
+AMD Ryzen 7 7745HX,248.91,6
+Intel Core i7-12700F,246.83,26
+Intel Xeon E5-2660 v3,147.972,2
+Intel Xeon E5-2630 v4,147.456,1
+Intel Xeon E5-2697 v4,242.98,1
+AMD Ryzen 9 PRO 5945,242.59,1
+AMD Ryzen 7 7840H w/Radeon 780M Graphics,240.81,2
+Intel Core i5-13500HX,240.48,11
+Intel Xeon E5-2695 v4,240.33,1
+Intel Xeon E5-2650 v3,143.40599999999998,1
+Intel Core i7-13800H,237.98,4
+Intel Xeon W-3235,236.44,4
+Intel Xeon E5-2696 v3,236.14,10
+Intel Xeon E5-2686 v4,235.66,3
+AMD Ryzen 9 7940HS w/ Radeon 780M Graphics,235.02,45
+Intel Xeon Gold 6346,140.466,1
+Intel Xeon Silver 4114,140.208,2
+Intel Core i9-10900K,231.89,39
+Intel Core i9-12950HX,231.47,1
+Intel Xeon Silver 4310,229.27,1
+Intel Core i7-13700,228.61,9
+Intel Core i9-12900,228.14,4
+Intel Core i9-10850K,226.43,19
+Intel Core i5-12600K,226.26,55
+AMD Ryzen 7 5700X,224.96,3
+Genuine Intel 0000,223.24,1
+Intel Xeon W-2265,222.31,1
+Intel Xeon E5-2695 v2,132.31799999999998,5
+Intel Xeon E5-2699 v3,219.79,7
+AMD Ryzen 7 7840HS w/ Radeon 780M Graphics,219.45,21
+Intel Core i5-12600KF,218.2,11
+Intel Core i5-13490F,217.13,2
+Intel Core i9-10910,215.68,3
+AMD Ryzen 5 7600X,214.08,102
+AMD Ryzen 7 7840H with Radeon 780M Graphics,213.7,1
+AMD Ryzen 7 5800X,213.65,272
+AMD Ryzen 7 7840HS with Radeon 780M Graphics,212.98,3
+Intel Core i9-11900K,212.95,28
+Intel Core i5-13450HX,211.75,2
+Intel Xeon E5-2690 v2,126.86399999999999,1
+Genuine Intel 0000,211.25,2
+AMD Ryzen 7 5800X3D,210.93,120
+Intel Core i9-13900H,210.88,65
+Intel Core i7-13700H,210.71,42
+Intel Xeon E5-2640 v3,126.39599999999999,1
+Intel Core i9-12900H,210.56,24
+Intel Core i9-10920X,210.44,4
+AMD EPYC 7252,126.00599999999999,1
+Apple M1 Max,209.41,62
+Intel Core i9-7900X,209.19,17
+Intel Xeon E5-2643 v4,125.094,1
+AMD Ryzen 5 7500F,208.04,26
+Intel Core i7-11700KF,207.0,4
+Intel Core i7-11700K,206.26,26
+Intel Xeon E-2388G,205.93,1
+Intel Core i7-6950X,205.72,2
+Intel Xeon E5-2690 v4,205.6,9
+Intel Core i5-13400F,203.33,34
+AMD Ryzen 5 7600,203.08,43
+Intel Xeon E5-2697 v3,203.06,1
+AMD Ryzen 7 5700X,202.95,161
+AMD Ryzen Threadripper 1920X,202.77,5
+AMD Ryzen 7 5700GE,202.58,1
+Intel Core i5-13400,201.07,14
+Intel Xeon E5-2698 v3,200.8,2
+Intel Xeon E5-2683 v4,199.4,8
+Intel Core i9-10900KF,199.1,15
+Apple M2 Pro,198.08,64
+Intel Xeon E5-2680 v4,197.02,7
+Intel Xeon E5-2630 v3,117.28799999999998,1
+Intel Core i7-11700F,193.17,6
+AMD Ryzen Z1 Extreme,193.03,6
+AMD Ryzen Threadripper 2920X,192.25,4
+AMD Ryzen 7 5700G,191.28,59
+AMD Ryzen 9 6900HX,190.77,20
+AMD Ryzen 7 7735HS,190.49,22
+Intel Xeon Silver 4109T,114.252,7
+Intel Core i9-11900,189.83,3
+Intel Core i7-13620H,188.62,21
+Intel Core i9-10900X,187.88,5
+Intel Xeon E5-2697 v2,112.36200000000001,1
+Intel Core i7-12700H,186.35,88
+AMD Ryzen 7 5800,185.95,1
+AMD Ryzen 7 PRO 7840U w/ Radeon 780M Graphics,185.69,6
+Intel Core i5-13500H,185.12,12
+Intel Xeon E5-2680 v3,184.22,2
+AMD Ryzen 7 3800XT,183.84,7
+AMD Ryzen 9 6900HS,181.96,25
+AMD Ryzen 7 3700X,181.81,134
+Intel Xeon E5-2667 v3,108.89999999999999,1
+Intel Core i9-9900KF,181.43,26
+Intel Core i7-10700KF,181.05,13
+Intel Xeon W-2155,180.8,1
+Intel Core i9-9900X,180.21,3
+Intel Core i5-11600,178.84,1
+AMD Ryzen 7 PRO 4750G,178.09,2
+AMD Ryzen 7 PRO 3700,177.89,1
+Intel Core i7-10700K,177.8,39
+AMD Ryzen 7 3800X,176.66,47
+Intel Xeon W-2150B,176.32,5
+Intel Core i7-1370P,176.23,5
+AMD Ryzen 7 7840U w/ Radeon 780M Graphics,174.63,6
+AMD Ryzen 7 6800H,174.59,24
+AMD Ryzen 7 4700G,173.55,1
+AMD Ryzen 9 5900HX,173.53,22
+Genuine Intel 0000,172.5,1
+AMD Ryzen 7 7730U,172.26,5
+Intel Core i7-1280P,171.28,3
+Intel Xeon E5-2670 v2,102.486,2
+AMD Ryzen 7 PRO 6850H,169.5,1
+AMD Ryzen 7 6800HS Creator Edition,169.12,1
+Intel Core i9-9900K,168.76,84
+AMD Ryzen 7 6800HS,168.5,12
+Apple M1 Pro,168.41,77
+Intel Xeon E5-2680 v2,100.662,4
+Intel Xeon W-2145,167.51,1
+Intel Xeon E5-2690 v3,167.28,2
+Intel Xeon E5-2650 v4,167.1,6
+Intel Core i9-12900HK,166.73,21
+AMD Ryzen 7 5800HS,165.17,10
+Intel Core i9-11900KB,165.03,1
+Intel Core i7-11700,164.54,7
+Intel Xeon E5-2678 v3,164.53,5
+Intel Core i9-9900KS,163.71,8
+Intel Core i7-12650H,163.28,52
+AMD Ryzen 5 5600X3D,163.0,6
+Intel Xeon W-3223,162.95,1
+Intel Core i9-10900,162.69,5
+Intel Core i7-1360P,162.16,8
+Intel Core i5-12500H,161.88,44
+AMD EPYC 7252,160.8,1
+Intel Core i5-12400F,160.69,102
+Intel Core i7-7820X,160.69,3
+Intel Core i5-12500,160.55,5
+AMD Ryzen 9 5900HS,160.38,10
+Intel Core i5-1340P,160.07,13
+AMD Ryzen 7 5800H,159.8,76
+Intel Core i5-12400,159.61,39
+Intel Core i9-11900KF,158.98,2
+AMD Ryzen 5 7640HS w/ Radeon 760M Graphics,157.81,1
+AMD Ryzen 7 1800X,157.66,4
+Intel Xeon E5-2667 v2,94.22399999999999,4
+Intel Xeon E5-2670 v3,154.5,4
+AMD Ryzen 5 5600,154.46,129
+Intel Core i5-11600KF,153.84,2
+Intel Core i5-11600K,153.7,11
+Intel Xeon E5-1660 v3,153.64,2
+Intel Xeon Gold 6244,153.33,1
+AMD Ryzen 7 2700X,152.42,26
+AMD Ryzen 5 5600X,152.16,170
+Intel Xeon W-2140B,152.11,1
+Intel Xeon E5-2666 v3,150.69,6
+Intel Xeon E5-2673 v3,150.6,1
+Intel Xeon Silver 4210,149.28,1
+AMD Ryzen 5 7535HS,148.92,1
+Intel Core i5-11500,148.51,3
+AMD Ryzen 5 5600G,146.61,1
+Genuine Intel 0000,146.58,1
+Intel Core i7-10700F,145.86,15
+Intel Core i7-5960X,145.36,5
+AMD Ryzen 5 3600XT,145.11,3
+Intel Core i7-11850H,144.93,5
+AMD Ryzen 5 5500,144.71,102
+AMD Ryzen 5 5600G,144.67,93
+AMD Ryzen 7 4800H,144.37,26
+Intel Core i7-11800H,144.08,51
+AMD Ryzen 7 4700GE,143.45,2
+AMD Ryzen 7 PRO 6850U,143.25,13
+Intel Core i7-6900K,142.5,13
+AMD Ryzen 5 7540U w/ Radeon 740M Graphics,142.27,2
+Intel Core i9-11950H,141.93,8
+Intel Core i7-12800H,141.5,13
+Genuine Intel 0000,141.45,1
+Intel Xeon E5-2620 v4,84.75599999999999,1
+AMD Ryzen 7 5800U,140.51,23
+Intel Core i5-11400F,140.51,23
+AMD EPYC 74F3,140.31,1
+Intel Core i7-9800X,140.19,3
+Intel Xeon E5-2643 v2,82.866,3
+AMD Ryzen 7 PRO 7730U,136.73,1
+Intel Xeon E5-2650 v3,136.69,1
+Intel Xeon Gold 6126,81.978,2
+AMD Ryzen 7 6800U,136.41,3
+Intel Core i7-10700,136.37,17
+Intel Xeon E5-2683 v3,136.2,2
+AMD Ryzen 5 3600X,135.74,24
+Intel Xeon Silver 4116,135.03,1
+Intel Xeon E-2286M,134.94,1
+Intel Core i5-11400,134.51,15
+AMD Ryzen 7 2700,133.35,11
+Intel Core i5-10600K,132.52,11
+Intel Xeon E5-1660 v4,132.21,3
+Intel Core i9-9900,131.85,3
+AMD Ryzen 5 4600G,131.48,2
+AMD Ryzen 7 5825U,131.46,6
+Intel Xeon E5-2667 v4,131.31,11
+AMD Ryzen 5 PRO 5675U,130.51,1
+Intel Xeon E-2286G,129.58,1
+AMD Ryzen 7 PRO 5850U,129.01,8
+AMD Ryzen 7 1700X,128.57,9
+AMD Ryzen 5 3600,128.41,159
+AMD Ryzen 5 6600H,128.38,7
+AMD Ryzen 5 4500,127.63,11
+Genuine Intel 0000,127.46,2
+Intel Core i9-9980HK,127.2,10
+Intel Core i7-1260P,126.71,13
+Intel Core i9-9880H,126.02,12
+Intel Core i7-9700K,125.71,48
+AMD Ryzen 7 1700,125.61,19
+Intel Core i9-10885H,124.89,3
+Intel Core i7-8700K,124.73,73
+Intel Xeon X5690 ,74.22,3
+Intel Core i5-11260H,123.22,3
+Intel Core i5-12450H,123.05,30
+Intel Core i7-1270P,122.94,1
+Intel Core i7-8086K,122.84,6
+Intel Xeon E5-2637 v3,73.5,1
+AMD Ryzen 5 5600U,121.59,4
+Intel Core i7-9700KF,121.01,7
+AMD Ryzen 9 4900HS,120.9,5
+AMD Ryzen 7 PRO 5875U,120.6,1
+Intel Xeon X5680 ,72.198,1
+AMD Ryzen 5 2600,120.31,1
+Intel Core i5-10600KF,119.68,5
+Intel Xeon Gold 6128,118.73,1
+Intel Core i7-10875H,118.25,20
+AMD Ryzen 5 PRO 6650U,117.76,2
+Intel Core i5-12500T,117.63,3
+Intel Xeon W-2135,117.56,5
+Intel Core i5-13420H,116.75,11
+AMD Ryzen 5 5600H,115.73,67
+AMD Ryzen 5 7535U,115.22,1
+AMD Ryzen 5 PRO 4650G,114.34,2
+AMD Ryzen 7 5700U,114.29,7
+Genuine Intel 0000,114.11,6
+AMD Ryzen 5 2600X,113.83,20
+Intel Core i3-12100,113.35,7
+Intel Core i5-10400F,113.22,29
+Intel Xeon E5-2650 v2,67.842,3
+Intel Core i9-10980HK,112.95,2
+"AMD Eng Sample, ZS288057TGG54_35/28/20_2/16",67.722,1
+Intel Core i5-10500,112.78,1
+Intel Xeon E5-2670 0,67.464,3
+AMD Ryzen 5 4600H,112.23,14
+Intel Xeon E5-4627 v4,112.17,1
+Intel Core i5-11400H,111.95,46
+Apple M2,110.59,95
+Intel Core i5-1345U,110.11,2
+Intel Core i3-13100,110.06,2
+Intel Core i3-13100F,110.02,4
+Intel Core i3-12100F,109.8,18
+AMD Ryzen 7 PRO 4750U,109.4,2
+AMD Ryzen 5 2600,108.93,82
+Intel Core i7-8700,108.85,28
+Intel Core i7-6800K,108.31,2
+Intel Core i7-7800X,108.23,2
+AMD EPYC 7773X,108.17,1
+Intel Core i7-9700F,106.97,2
+Intel Core i5-10400,106.8,18
+Intel Core i9-11900H,106.79,14
+Intel Xeon D-1541,106.5,1
+Intel Xeon E5-2690 v2,106.45,1
+Intel Xeon E5-2640 v3,105.81,4
+Intel Core i5-10600,105.54,1
+Intel Core i7-9700,105.07,15
+Intel Xeon E5-2697 v2,104.04,10
+Intel Core i7-10870H,103.4,12
+Intel Xeon E-2234,103.36,1
+Intel Xeon W-2235,103.16,2
+Intel Xeon E5-2696 v2,102.94,3
+AMD Ryzen 5 5500U,102.91,38
+Intel Core i3-10105,102.08,1
+Intel Core i5-8600K,101.55,28
+Intel Xeon W-2133,101.4,1
+Intel Core i7-8700B,100.33,4
+Intel Core i5-10505,99.89,1
+Intel Core i7-1355U,99.81,12
+Intel Xeon E-2176M,99.25,2
+AMD Ryzen 5 1600X,98.93,4
+Intel Core i7-1365U,97.56,1
+Intel Xeon E-2276M ,97.37,1
+AMD Ryzen 7 4700U,96.93,3
+AMD Ryzen 5 1600,96.78,10
+AMD Ryzen 5 PRO 4650U,96.73,4
+Intel Core i5-9600KF,96.47,8
+Intel Xeon E5-2630L v3,96.37,1
+Intel Core i7-5930K,95.7,2
+Intel Xeon E5-1650 v3,95.57,1
+Westmere E56xx/L56xx/X56xx (Nehalem-C),95.48,1
+Apple M1,95.17,87
+Intel Xeon X5675 ,57.024,4
+AMD Ryzen 5 6600HS Creator Edition,94.62,7
+Intel Xeon E5-2630,56.76,1
+Intel Core i7-5820K,93.84,10
+Intel Core i5-9600K,93.03,30
+Intel Core i5-8600,92.16,5
+Intel Xeon E5-1680 v2,90.67,1
+Intel Core i7-10750H,90.49,37
+AMD Ryzen 5 7530U,90.41,5
+AMD Ryzen 3 PRO 5350GE,89.46,3
+AMD Ryzen 3 3300X,89.18,3
+Intel Core i7-1265U,89.06,9
+Intel Core i5-10500H,88.18,3
+Intel Core i5-1335U,87.85,7
+Intel Core i7-8850H,87.65,8
+AMD Ryzen 5 3500,87.5,12
+Intel Xeon X5650 ,52.458000000000006,2
+Intel Core i7-7700K,87.03,18
+Intel Xeon X5670,52.145999999999994,2
+Intel Xeon E5-2670 v2,86.48,2
+Intel Core i5-8500B,86.32,5
+AMD Ryzen 5 5625U,85.89,5
+AMD EPYC 7401P,85.32,1
+Intel Core i7-9750HF,85.21,1
+Intel Core i5-12600,85.19,2
+Intel Core i7-7700,85.04,18
+Intel Core i5-8500,84.5,6
+Intel Core i7-8809G,83.12,2
+Intel Core i7-9750H,82.61,52
+Intel Core i7-10850H,81.8,3
+Intel Core i3-10100F,81.5,21
+Intel Core i5-8400T,80.67,1
+Intel Core i7-7700T,80.63,5
+AMD Ryzen 3 4100,80.48,3
+Intel Core i7-6700K,79.98,31
+Intel Core i7-9850H,79.87,4
+Genuine Intel 0000,79.78,1
+AMD Ryzen 5 3500X,79.69,38
+Intel Xeon E5-2430 0,47.79,2
+Intel Core i7-8750H,79.44,47
+Intel Core i5-9400F,79.26,22
+AMD Ryzen 3 3100,78.55,8
+Intel Xeon E5-2650 0,47.04,1
+Intel Core i5-1235U,78.33,6
+Intel Xeon W-2125,78.22,1
+Intel Core i5-9500,77.22,2
+Intel Xeon E5-2667 v2,76.51,3
+AMD Ryzen 5 Microsoft Surface Edition,76.4,2
+Intel Core i3-10105F,76.1,5
+Intel Core i5-8400,76.1,10
+Intel Core i3-10320,75.73,1
+AMD EPYC 7543P,75.67,4
+Intel Core i5-11320H,75.45,3
+Intel Xeon Silver 4215R,75.34,1
+Intel Core i5-1240P,75.1,9
+AMD Ryzen 5 4500U,74.79,4
+Intel Core i5-10400H,74.69,1
+Intel Xeon E3-1280 v5,74.57,1
+Intel Xeon E-2244G,73.79,1
+Intel Core i7-3960X,73.66,3
+Intel Core i3-10100,73.15,3
+Intel Core i7-4790K,72.81,29
+Intel Core i5-11300H,72.79,10
+Intel Core i5-8259U,72.41,4
+Intel Core i5-9400,72.39,3
+Intel Core i7-1255U,72.39,16
+Intel Xeon E5-2660 v2,72.11,1
+Intel Core i7-8559U,71.68,2
+Intel Core i7-7920HQ,71.57,2
+Intel Xeon E3-1230 v3,71.49,1
+AMD Custom APU 0405,71.38,19
+Intel Xeon E5-2689 0,71.21,1
+Intel Xeon E5-2620 v3,71.11,4
+Intel Xeon E3-1245 v5,71.03,1
+Intel Core i7-6700,70.55,22
+AMD Ryzen 5 3400G,70.49,12
+Intel Xeon E5-1650 v2,70.44,7
+Intel Core i7-4770K,69.26,10
+Intel Core i5-1038NG7,69.25,8
+Intel Core i9-8950HK,69.2,3
+Intel Xeon E3-1230 v5,68.69,1
+Intel Core i5-10200H,68.36,2
+AMD EPYC 9354,20.255999999999997,1
+Intel Core i7-7820HK,67.5,3
+Intel Xeon E3-1505M v6,67.5,2
+AMD Ryzen 5 PRO 3400G,67.47,2
+Intel Xeon E5-1630 v3,67.31,1
+AMD Ryzen 5 1500X,66.85,5
+Intel Core i7-1165G7,66.39,33
+Intel Xeon W-2123,66.01,1
+Intel Xeon E5-2690,65.44,1
+Intel Core i7-3930K,64.79,8
+Intel Core i7-11370H,64.42,9
+Intel Core i7-4790,64.05,30
+Intel Xeon E5-2650 v2,63.74,2
+Intel Core i3-1215U,63.7,4
+AMD Ryzen 7 3750H with Radeon Vega Mobile Gfx,63.49,3
+Intel Xeon E3-1505M v5,62.66,1
+Intel Core i5-9400T,61.59,2
+AMD Ryzen 5 PRO 3400GE,61.37,1
+Intel Xeon E3-1276 v3,60.89,1
+Intel Core i7-7700HQ,60.3,27
+Intel Core i7-4770,60.17,6
+Intel Core i5-10300H,59.9,34
+Intel Core i5-7600K,59.64,8
+Intel Core i7-6820HQ,59.07,7
+Intel Xeon X5675,58.99,2
+Intel Core i5-8500T,58.86,3
+Intel Core i3-8100,58.74,2
+AMD Ryzen 3 PRO 3200G,58.71,2
+Intel Core i7-4980HQ,58.46,4
+Intel Core i7-4930K,58.41,3
+Intel Core i7-1185G7,57.97,9
+Intel Core i7-6700HQ,57.97,12
+AMD Ryzen 3 5300U,57.65,1
+Intel Core i7-4790S,57.42,3
+Intel Core i7-4940MX,57.39,1
+Intel Core i7-4850HQ,57.33,3
+Intel Core i7-6700T,57.29,1
+Intel Core i5-8257U,56.82,2
+Intel Core i7-4770HQ,56.66,7
+Intel Core i5-6600,56.53,4
+Intel Core i7-4870HQ,56.4,9
+Intel Core i7-4710HQ,55.95,1
+AMD Ryzen 5 1400,55.67,4
+Intel Core i5-1145G7,55.38,3
+Intel Xeon W3690,54.92,1
+AMD Ryzen Embedded R2514,54.8,4
+AMD Ryzen 5 3550H with Radeon Vega Mobile Gfx,54.79,7
+Intel Core i7-4960X,54.5,1
+10X Virtual,54.18,1
+Intel Core i5-4670K,54.09,1
+Intel Xeon E5-1650,54.02,3
+Intel Core i3-9100,53.99,1
+Intel Core i5-7600,53.83,1
+AMD Ryzen 5 PRO 2400G,53.72,2
+Intel Core i5-4690K,53.71,6
+Intel Core i5-9300H,53.48,15
+Intel Core i7-6770HQ,52.79,1
+Intel Core i5-1135G7,52.72,15
+Intel Xeon E3-1270 v6,52.54,1
+Intel Core i7-4700HQ,52.53,1
+Intel Core i3-1125G4,52.5,1
+AMD Opteron(tm) 6380,52.1,1
+Intel Core i5-9400H,51.97,1
+Intel Core i7-870,51.82,17
+Intel Core i7-6920HQ,51.54,1
+Intel Core i5-8279U,51.44,1
+Intel Xeon Gold 6154,51.4,2
+Intel Core i7-4810MQ,51.38,2
+Intel Core i7-4771,51.07,1
+Intel Xeon X5690,50.8,5
+Intel Core i7-1195G7,50.68,2
+Intel Xeon E3-1220 v3,50.68,1
+Intel Core i3-9100F,50.53,5
+Intel Xeon E3-1535M v5,50.42,1
+AMD FX(tm)-9590,50.39,1
+Intel Core i5-8300H,50.16,12
+Intel Core i7-7820HQ,49.52,4
+Intel Core i5-8265U,49.48,16
+8X Virtual,49.31,2
+AMD Ryzen 5 7520U,49.23,2
+Intel Core i5-6600K,48.91,6
+Intel Xeon W3670,48.57,2
+Intel Xeon E3-1545M v5,48.22,1
+Intel Core i7-6820HK,48.2,2
+Intel Core i5-7500,47.49,12
+Intel Core i7X 980,47.39,1
+Intel Core i7-1065G7,47.28,13
+AMD FX-8370,47.18,2
+Intel Core i7-1250U,47.14,2
+Intel Core i7-4700MQ,47.13,1
+Intel Core i5-4590,47.07,6
+Intel Core i7-4910MQ,46.55,1
+Intel Core i5-4590S,45.67,3
+Intel Xeon E5-1620 v2,45.63,2
+Intel Core i5-6300HQ,45.55,1
+Intel Core i5-6500T,45.52,1
+AMD Ryzen 5 2400G,45.38,6
+Intel Core i5-4570,45.14,3
+Intel Xeon X5650,44.76,1
+Intel Core i7-8565U,44.72,1
+Intel Core i7-8550U,44.65,35
+AMD Ryzen 3 3200G,44.61,10
+Intel Core i5-1155G7,44.61,5
+Intel Core i7-10710U,44.61,1
+Intel Core i5-6500,44.46,4
+Intel Core i7-10610U,44.27,1
+AMD Ryzen 3 2200G,44.2,8
+Intel Core i7-4800MQ,44.13,2
+Intel Core i7-920,43.98,3
+AMD FX(tm)-8320,43.9,5
+Intel Core i5-7400,43.59,9
+Intel Core i5-6400,43.52,5
+Intel Core i7-3720QM,42.97,1
+Intel Core i5-8350U,42.84,6
+AMD Ryzen 5 PRO 3500U,42.74,2
+Intel Core i7-970,42.61,1
+Intel Xeon X5687,42.49,1
+Intel Xeon E5620,25.464,1
+Intel Core i5-4570S,42.11,2
+Intel Core i5-7600T,42.09,2
+Intel Core i7-3770K,42.09,7
+Intel Core i7-8665U,41.49,1
+AMD Ryzen 3 4300U,41.47,1
+Intel Core i7-3770,40.56,14
+AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx,40.51,10
+Intel Core i7-3940XM,40.37,1
+Intel Core i3-8100T,39.91,2
+Intel Core i5-1035G4,39.76,4
+Intel Xeon X3470,39.55,1
+Intel Core i3-6100,39.48,2
+Intel Core i5-1035G1,39.44,6
+Intel Core i7-4820K,39.42,3
+AMD Ryzen 7 3700U with Radeon Vega Mobile Gfx,39.38,1
+Intel Core i5-10210U,39.38,5
+Intel Core i5-4440,39.22,6
+Intel Core i5-7300HQ,39.19,5
+Intel Core i5-4670,39.18,1
+Intel Core i3-7320,39.05,1
+Intel Core i5-8250U,38.99,26
+Intel Core i7-2600K,38.92,6
+AMD Ryzen 3 PRO 5475U,38.9,1
+Intel Core i7-8650U,38.41,10
+Intel Core i7-4702MQ,37.62,1
+Intel Core i5-4440S,37.57,1
+AMD Ryzen 3 PRO 5450U,37.56,1
+Intel Core i7-7660U,37.46,1
+Intel Core i7-3840QM,37.4,3
+AMD FX(tm)-8350,37.34,6
+Intel Core i5-4460,37.33,3
+AMD Ryzen 3 7320U,37.21,5
+AMD Ryzen 3 3300U with Radeon Vega Mobile Gfx,37.07,1
+Intel Xeon E31270,36.86,1
+AMD Ryzen 5 2500U with Radeon Vega Mobile Gfx,36.81,11
+AMD FX-8320E,36.76,1
+Intel Core i3-4330,36.41,1
+QEMU Virtual version 2.5+,36.18,1
+Intel Core i5-4590T,36.11,1
+AMD FX(tm)-8300,36.04,2
+Intel Core i7-2600,36.03,7
+Intel Core i7-2700K,35.97,2
+Intel Core i7-4710MQ,35.95,4
+AMD FX(tm)-8120,35.78,1
+Intel Xeon E5-2620,35.42,1
+Intel Core i7-3635QM,35.35,2
+AMD FX(tm)-8150,34.84,2
+AMD Ryzen 3 1200,34.8,1
+6X Virtual,34.63,2
+Intel Core i7-8569U,34.33,1
+Intel Core i5-3570S,34.16,1
+AMD Phenom(tm) II X6 1100T,33.35,1
+AMD Ryzen 5 3450U with Radeon Vega Mobile Gfx,33.3,1
+Intel Core i7-3615QM,32.82,6
+Intel Core i7-3820,32.7,4
+Intel Core i7-4600U,32.02,2
+Intel Core i7-4578U,31.83,2
+Intel Core i7-3615QE,31.8,1
+Intel Core i7-10510U,31.71,5
+Intel Core i5-2500K,31.14,4
+Intel Core i7-3610QM,31.08,1
+Intel N100,31.04,3
+Intel Core i7-4720HQ,30.59,2
+Virtual,30.51,2
+Intel Core i7-7567U,30.48,2
+Intel Xeon E5507 ,18.276,1
+Intel Core i5-1030NG7,30.37,2
+Intel Core i7-4712MQ,30.27,1
+Intel Core i5-4570T,29.61,1
+Intel Core i3-1115G4,29.32,5
+Intel Core i5-8400H,29.03,1
+Intel Pentium Gold G6400,28.84,1
+Intel Core i5-3570K,28.75,4
+Intel Xeon E3-1220 V2,28.54,1
+Intel Core i5-4690,28.5,1
+AMD Ryzen 9 7950X3D,17.01,1
+Intel Core i5-3470,28.35,12
+Intel Core i3-4130,28.24,2
+Intel Core i5-3570,28.24,10
+Intel Core i3-1005G1,27.84,4
+AMD Phenom(tm) II X6 1045T,27.79,1
+Intel Core i7-2760QM,27.72,2
+Intel Core i7-3630QM,27.47,1
+Intel Pentium Gold G5400,27.23,1
+Intel Core i7-860,27.05,2
+AMD FX(tm)-6100,26.68,4
+Intel Core i5-7360U,26.66,8
+Intel Core i5-5287U,26.59,2
+Intel Core i5-2500,25.96,1
+Intel Core i3-7020U,25.79,2
+Intel Core i5-3470S,25.69,1
+"AMD A10-9700 RADEON R7, 10 COMPUTE CORES 4C+6G",25.33,3
+Intel Core i5-2400S,25.15,1
+AMD FX(tm)-6300,25.0,4
+Intel Core i5-5257U,24.92,5
+Intel Core i7-2860QM,24.92,1
+Intel Core i7-5557U,24.51,2
+AMD Ryzen 5 6600HS Creator Edition,14.687999999999999,1
+Intel Core i3-8130U,24.47,1
+Intel Core m3-7Y32,24.39,3
+Intel Core i7-2630QM,24.38,1
+Intel Xeon Platinum 8259CL,24.23,8
+Intel Core i7-6500U,23.89,7
+Intel Core i7S 860,23.81,1
+Intel Pentium Gold 7505,23.81,2
+Intel Core i3-7100,23.76,1
+Intel Core i7-7500U,23.69,10
+Intel Core i3-4170,23.63,1
+Intel Core i5-4278U,23.58,3
+AMD A10-6700 APU with Radeon(tm) HD Graphics,23.53,1
+Intel Core i5-5350U,23.27,5
+Intel Xeon X5550,23.06,1
+Intel Core i5-4210M,22.95,1
+AMD Phenom(tm) II X4 980,22.79,2
+Intel Core i5-6267U,22.65,1
+Intel Core i5-7200U,22.46,8
+Intel Core i5-2320,22.16,2
+Intel Core i5-7300U,22.16,2
+Intel Core i7-6600U,22.11,1
+"AMD PRO A8-9600 R7, 10 COMPUTE CORES 4C+6G",21.77,1
+Intel Xeon E3-1240 v5,21.64,3
+Intel Core i5-7267U,21.61,3
+"AMD A10-7700K Radeon R7, 10 Compute Cores 4C+6G",21.57,1
+AMD Ryzen 3 3250U,21.52,5
+Intel Core i3-6100T,21.51,1
+Intel Core i5-6200U,21.51,5
+Intel Core i5-2400,21.28,2
+Intel Core i5-6300U,21.17,3
+Intel Core m5-6Y54,21.0,2
+Intel Celeron J6413,20.69,1
+Intel Core i5-750,20.61,1
+AMD Ryzen 3 3200U with Radeon Vega Mobile Gfx,20.46,1
+"AMD A12-9800 RADEON R7, 12 COMPUTE CORES 4C+8G",19.75,1
+AMD Athlon(tm) X4 760K Quad Core,19.35,1
+Intel Core i5-8210Y,19.3,3
+Intel Core i7-13700K,11.484,1
+Intel Core i5-5250U,19.12,3
+Intel Core i7Q 740,18.79,1
+Intel Celeron N5105,18.77,1
+Intel Core i5-4258U,18.36,1
+Intel Pentium 4417U,18.35,3
+Intel Core i3-4100M,18.18,1
+Intel Core i7-3667U,18.16,1
+AMD FX(tm)-770K Quad Core,18.04,1
+Intel Core i7-3520M,17.81,1
+Intel Core i5-5200U,17.54,4
+Intel Core i7-4500U,17.1,1
+"AMD A8-7600 Radeon R7, 10 Compute Cores 4C+6G",16.98,2
+Intel Core i5-4200U,16.6,1
+Intel Core i5-3320M,16.36,1
+Intel Core m3-8100Y,16.09,1
+AMD Athlon Silver 3050U,15.95,2
+Intel Pentium 5405U,15.88,2
+Intel Core i3-7130U,15.81,1
+AMD Athlon(tm) II X4 640,15.73,1
+Intel Core i3-6100U,15.62,6
+Intel Core i7Q 720 ,15.56,1
+"AMD A10-9600P RADEON R5, 10 COMPUTE CORES 4C+6G",15.41,1
+Intel Celeron J4125,15.15,3
+Intel Core i5-4300U,15.06,1
+Intel Core i3-10110U,14.93,1
+Intel Core i7-4650U,14.84,1
+AMD Athlon(tm) II X2 280,14.72,1
+Intel Core2 Quad Q6600,14.56,1
+Intel Core i3-6006U,14.19,6
+Intel Core i3-3220,13.52,1
+Intel Core i3M 370 ,13.48,1
+AMD EPYC 7443P,13.19,2
+Intel Core2 Quad Q9450,13.17,1
+Intel Core i3-4005U,12.92,2
+Intel Core i3-5005U,12.57,8
+Intel Celeron N5100,12.42,4
+Intel Core i5-2520M,12.27,4
+Intel Core i5-3230M,12.24,1
+Intel Pentium G3260,12.24,2
+Intel Celeron N4100,12.11,1
+Intel Core i5-3210M,11.96,3
+AMD Athlon 3000G,11.92,1
+Intel Core i3-2120,11.63,2
+AMD Athlon(tm) II X2 250,11.44,2
+Intel Celeron G3900T,11.39,1
+Intel Pentium Silver N5030,11.36,1
+Intel Pentium G2020,11.26,1
+Intel Core i3-8145U,11.13,1
+Intel Core i3-3240,11.01,4
+Intel Core2 Duo E7600,10.49,1
+AMD A6-5400K APU with Radeon(tm) HD Graphics,10.46,1
+Intel Core i3-3110M,10.37,3
+Intel Pentium G860,10.26,1
+Intel Core i3-2348M,10.2,1
+Intel Pentium 6405U,10.02,1
+Intel Atom x6211E,9.51,1
+Intel Core i7-5500U,9.48,3
+Intel Core i3M 350,9.41,1
+Intel Pentium 4415Y,8.95,1
+Intel Core2 Duo P8700,8.6,1
+Intel Celeron J4105,8.45,2
+Virtual,8.0,2
+Intel Celeron N2930,7.39,1
+AMD E2-6110 APU with AMD Radeon R2 Graphics,6.62,2
+AMD A4-7210 APU with AMD Radeon R3 Graphics,6.11,1
+Intel Xeon Gold 6342,3.318,16
+Pentium Dual-Core T4300,5.44,4
+Intel Core2- 6300,5.35,1
+Intel Core2- 4300,5.09,1
+Intel Core i3-2350M,5.02,2
+Intel Celeron N4020,4.51,1
+Intel Celeron N2840,4.03,3
+Intel Celeron J1800,3.93,3
+AMD Athlon(tm) 64 X2 Dual Core 4800+,3.82,1
+Intel Atom N455,1.22,1
